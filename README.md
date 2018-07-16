@@ -1,5 +1,5 @@
 # Practical Blockchain for Developers: The Big Book
-## Programming Blockchain Networks, Consensus Algorithms, Mining, Cryptography, Wallets, Transactions, DApps, Smart Contracts, Ethereum, Solidity, IPFS
+## Programming Blockchain Networks, Cryptography, Consensus Algorithms, Mining, Wallets, Transactions, DApps, Smart Contracts, Ethereum, Solidity, IPFS
 
 **Authors**: Svetlin Nakov and SoftUni Team
 Lead author and content developer: D-r Svetlin Nakov, PhD
