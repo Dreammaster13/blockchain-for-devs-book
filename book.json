@@ -1,0 +1,21 @@
+{
+    "plugins": ["ga", "meta"],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-11309924-25"
+        },
+        "meta": {
+            "name": "google-site-verification",
+            "content": "xSQjbYfAeT3z-ew8RE51NA5hmxlZ1qNKgCerlOBthgo"
+        }
+    },
+    "pdf": {
+        "paperSize": "a4",
+        "margin": { 
+            "top": 48,
+            "bottom": 48,
+            "left": 36,
+            "right": 36
+        }
+    }
+}
