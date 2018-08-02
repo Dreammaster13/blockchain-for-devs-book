@@ -7,4 +7,4 @@
 * [Part II - DApps and Solidity](article2.md)
   * [Sub 1](article2.md)
   * [Sub 1](article2.md)
-
+![](/assets/softunif-conf-2018-poster.png)
