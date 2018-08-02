@@ -1,5 +1,7 @@
 Task 1. Create the structure (folders for each chapter and sub-chapter)
 
+Nakov:
+
   Part 1 - Blockchain Networks
      Welcome to the Blockchain Developer Training
      Chapter 1.1. Blockchain Introduction
