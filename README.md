@@ -1,6 +1,7 @@
 # Practical Blockchain for Developers: The Big Book
 
 Наков
+vladi
 
 ## Programming Blockchain Networks, Cryptography, Consensus Algorithms, Mining, Wallets, Transactions, DApps, Smart Contracts, Ethereum, Solidity, IPFS
 
