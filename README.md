@@ -6,9 +6,15 @@
 
 **Authors**: Svetlin Nakov and SoftUni Team
 
+Алабала
+
 Lead author and content developer: D-r Svetlin Nakov, PhD
 
+портокала
+
 This projects intends to develop and publish and **open-source book for blockchain developers**.
+
+кашкавала
 
 ISBN: **978-619-00-0802-6**
 
