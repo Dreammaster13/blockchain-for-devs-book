@@ -1,0 +1,31 @@
+Task 1. Create the structure (folders for each chapter and sub-chapter)
+
+  Part 1 - Blockchain Networks
+     Welcome to the Blockchain Developer Training
+     Chapter 1.1. Blockchain Introduction
+       Blockchain Technologies – Overview 
+       Exercises: Playing with Cryptocurrency Wallets
+       Blockchain Concepts
+       Exercises: Build Your Own Blockchain
+	 Chapter 1.2. Blockchain
+       Cryptography
+       Blockchain Cryptography
+       Exercises: Blockchain Cryptography
+       Popular Crypto Libraries
+       Exercises: Sign / Verify Ethereum Messages
+     ...
+  Part II - DApps and Solidity
+     ...
+	 
+Task 2. Create detailed chapter structure
+  - Nakov: Chapter 1.2. Blockchain Cryptography
+  - Vladi: Chapter 1.4. Mining and Pools
+
+Task 3. Write chapter content
+  - Nakov: Chapter 1.2. Blockchain Cryptography
+  - Vladi: Chapter 1.4. Mining and Pools
+
+Task 4. Record videos
+  - Nakov: Chapter 1.2. Blockchain Cryptography
+  - Vladi: Chapter 1.4. Mining and Pools
+
