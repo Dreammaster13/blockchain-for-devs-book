@@ -1,3 +1,0 @@
-# Exercises: Voting DApp with Client-Side Ethereum Wallet
-
-...
