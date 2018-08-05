@@ -1,0 +1,3 @@
+# Exercises: Create a Document Registry DApp (using Solidity Smart Contract, Web3 API, MetaMask and IPFS)
+
+...

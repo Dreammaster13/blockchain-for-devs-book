@@ -1,0 +1,3 @@
+# Exercises: Using Web3.py to Access Ethereum Smart Contracts from Python
+
+...

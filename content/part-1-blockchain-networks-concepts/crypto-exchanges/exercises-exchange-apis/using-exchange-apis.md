@@ -1,0 +1,3 @@
+# Exercises: Using with Trading APIs: Bitstamp, Bitfinex, Coinbase and Kraken
+
+...

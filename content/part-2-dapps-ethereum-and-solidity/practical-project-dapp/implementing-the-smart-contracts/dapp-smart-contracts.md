@@ -1,0 +1,3 @@
+# Practical Project: Implementing the Smart Contracts for the DApp
+
+...

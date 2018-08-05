@@ -1,0 +1,3 @@
+# Exercises: Playing with Jaxx Wallet on the Etehreum Ropsten Testnet
+
+...

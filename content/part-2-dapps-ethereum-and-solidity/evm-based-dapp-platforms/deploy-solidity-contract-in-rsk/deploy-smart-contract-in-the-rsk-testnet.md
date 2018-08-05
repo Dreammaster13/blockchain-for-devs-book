@@ -1,0 +1,3 @@
+# Exercises: Deploy a Solidity Smart Contract in the RSK Testnet
+
+...

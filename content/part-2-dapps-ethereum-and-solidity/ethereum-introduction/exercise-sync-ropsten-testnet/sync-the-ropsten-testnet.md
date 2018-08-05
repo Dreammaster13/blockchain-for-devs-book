@@ -1,0 +1,3 @@
+# Exercises: Synchronize the Ropsten Testnet using the Geth Client
+
+...

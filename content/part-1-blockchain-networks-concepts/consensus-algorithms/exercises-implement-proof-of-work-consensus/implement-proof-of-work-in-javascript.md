@@ -1,0 +1,3 @@
+# Exercises: Implement a Proof-of-Work (PoW) Consensus in JavaScript
+
+...

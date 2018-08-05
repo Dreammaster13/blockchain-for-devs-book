@@ -1,0 +1,3 @@
+# Exercises: Mine Monero in the Web Browser with Coinhive JS Miner
+
+...

@@ -1,0 +1,3 @@
+# Exercises: Buy and Sell Bitcoins on the Hodl Hodl p2p Exchange
+
+...

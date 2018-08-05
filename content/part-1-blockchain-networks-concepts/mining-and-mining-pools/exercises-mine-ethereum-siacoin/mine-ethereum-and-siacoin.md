@@ -1,0 +1,3 @@
+# Exercises: Mine Ethereum and Siacoin in a Pool
+
+...

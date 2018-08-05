@@ -1,0 +1,3 @@
+# Exercises: Perform a Research about What to Mine
+
+...
