@@ -40,30 +40,28 @@
       * [Sign Verify Python](content/part-1-blockchain-networks-concepts/blockchain-cryptography/exercises-sign-verify-transaction-python/sign-verify-python.md)
     * Popular Crypto Libraries
       * [Popular Cryptographic Libraries](content/part-1-blockchain-networks-concepts/blockchain-cryptography/popular-crypto-libraries/popular-cryptographic-libraries.md)
-    * [Overview](content/part-1-blockchain-networks-concepts/blockchain-cryptography/overview.md)
-  * [Consensus Algorithms](content/part-1-blockchain-networks-concepts/consensus-algorithms.md)
-    * [Overview](content/part-1-blockchain-networks-concepts/consensus-algorithms/overview.md)
+  * [Consensus Algorithms](content/part-1-blockchain-networks-concepts/consensus-algorithms/overview.md)
     * Decentralization And Consensus Algorithms
       * [Consensus Algorithms Overview](content/part-1-blockchain-networks-concepts/consensus-algorithms/decentralization-and-consensus-algorithms/consensus-algorithms-overview.md)
     * Exercises Implement Proof Of Work Consensus
       * [Implement Proof Of Work In Javascript](content/part-1-blockchain-networks-concepts/consensus-algorithms/exercises-implement-proof-of-work-consensus/implement-proof-of-work-in-javascript.md)
     * Exercises Implement Proof Of Stake Consensus
       * [Implement Proof Of Stake In Javascript](content/part-1-blockchain-networks-concepts/consensus-algorithms/exercises-implement-proof-of-stake-consensus/implement-proof-of-stake-in-javascript.md)
-  * [Mining and Mining Pools](content/part-1-blockchain-networks-concepts/mining-and-mining-pools.md)
-    * [Overview](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/overview.md)
+  * [Mining and Mining Pools](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/overview.md)
     * [Exercises Mine Ethereum Siacoin](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-mine-ethereum-siacoin.md)
       * [Mine Ethereum And Siacoin](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-mine-ethereum-siacoin/mine-ethereum-and-siacoin.md)
-    * Exercises Mine Monero Js
+    * [Exercises Mine Monero Js](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-mine-monero-js.md)
       * [Mine Monero In The Browser](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-mine-monero-js/mine-monero-in-the-browser.md)
-    * Exercises Simple Pow Mining Js
+    * [Exercises Simple Pow Mining Js](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-simple-pow-mining-js.md)
       * [Implement Simple Proof Of Work Miner](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-simple-pow-mining-js/implement-simple-proof-of-work-miner.md)
     * Exercises What To Mine
       * [Research What To Mine](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-what-to-mine/research-what-to-mine.md)
-    * Mining Process And Mining Pools
+    * [Mining Process And Mining Pools](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/mining-process-and-mining-pools.md)
       * [Mining And Pools](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/mining-process-and-mining-pools/mining-and-pools.md)
-  * [Wallets and Transactions](content/part-1-blockchain-networks-concepts/wallets-and-transactions.md)
+    * [Mine Monero in Pool](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/mine-monero.md)
+  * [Wallets and Transactions](content/part-1-blockchain-networks-concepts/wallets-and-transactions/overview.md)
     * [Blockchain Transactions](content/part-1-blockchain-networks-concepts/wallets-and-transactions/blockchain-transactions/blockchain-transactions.md)
-    * Building A Bitcoin Wallet In Csharp
+    * [Building A Bitcoin Wallet In Csharp](content/part-1-blockchain-networks-concepts/wallets-and-transactions/blockchain-transactions/building-a-bitcoin-wallet-in-csharp.md)
       * [Bitcoin Wallet Csharp](content/part-1-blockchain-networks-concepts/wallets-and-transactions/building-a-bitcoin-wallet-in-csharp/bitcoin-wallet-csharp.md)
     * Building A Ethereum Wallet Csharp
       * [Ethereum Wallet Csharp](content/part-1-blockchain-networks-concepts/wallets-and-transactions/building-a-ethereum-wallet-csharp/ethereum-wallet-csharp.md)
@@ -85,8 +83,7 @@
       * [Ethereum Simple Wallet In Js](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-simple-ethereum-wallet-in-javascript/ethereum-simple-wallet-in-js.md)
     * Wallet Apis And Libraries
       * [Wallets Apis And Libraries](content/part-1-blockchain-networks-concepts/wallets-and-transactions/wallet-apis-and-libraries/wallets-apis-and-libraries.md)
-    * [Overview](content/part-1-blockchain-networks-concepts/wallets-and-transactions/overview.md)
-  * [Practical Project: Blockchain Network](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network.md)
+  * [Practical Project: Blockchain Network](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/overview.md)
     * Blockchain Network Architecture
       * [Architecture Of The Blockchain Network](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/blockchain-network-architecture/architecture-of-the-blockchain-network.md)
     * Building The Block Explorer
@@ -103,17 +100,15 @@
       * [P2P Chain Sync](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-p2p-network/p2p-chain-sync.md)
     * Building the Wallet
       * [Implementing The Wallet App](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-wallet/implementing-the-wallet-app.md)
-    * [Overview](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/overview.md)
-  * [Crypto Exchanges](content/part-1-blockchain-networks-concepts/crypto-exchanges.md)
+  * [Crypto Trading and Exchanges](content/part-1-blockchain-networks-concepts/crypto-exchanges/overview.md)
     * [Cryptocurrency Exchanges](content/part-1-blockchain-networks-concepts/crypto-exchanges/cryptocurrency-exchanges/cryptocurrency-exchanges.md)
     * Exercise Hodl Hodl
       * [Play With Hodl Hodl](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-hodl-hodl/play-with-hodl-hodl.md)
     * Exercises Bittrex
       * [Trading On Bittrex](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-bittrex/trading-on-bittrex.md)
-    * Exercises Exchange Apis
+    * [Exercises Exchange Apis](content/part-1-blockchain-networks-concepts/crypto-exchanges/cryptocurrency-exchanges/exercises-exchange-apis.md)
       * [Using Exchange Apis](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-exchange-apis/using-exchange-apis.md)
-    * [Overview](content/part-1-blockchain-networks-concepts/crypto-exchanges/overview.md)
-  * [Blockchain Networks Scalability](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability.md)
+  * [Blockchain Networks Scalability](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/overview.md)
     * Exercises Lightning Network Desktop App
       * [Lightning Network Desktop App](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/exercises-lightning-network-desktop-app/lightning-network-desktop-app.md)
     * Exercises Lightning Network Mobile App
@@ -126,22 +121,20 @@
       * [Offchain Transactions](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/offchain-transactions-payment-channels/offchain-transactions.md)
     * [Sidechains](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/sidechains/sidechains.md)
     * [State Channels](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/state-channels/state-channels.md)
-    * [Overview](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/overview.md)
-  * [Anonymous Transactions](content/part-1-blockchain-networks-concepts/anonymous-transactions.md)
-    * Anonymous Transactions Overview
+  * [Anonymous Transactions](content/part-1-blockchain-networks-concepts/anonymous-transactions/overview.md)
+    * [Anonymous Transactions Overview](content/part-1-blockchain-networks-concepts/anonymous-transactions/overview/anonymous-transactions-overview.md)
       * [Anonymous Transactions](content/part-1-blockchain-networks-concepts/anonymous-transactions/anonymous-transactions-overview/anonymous-transactions.md)
-    * Exercises Zcash Testnet
+    * [Exercises Zcash Testnet](content/part-1-blockchain-networks-concepts/anonymous-transactions/overview/exercises-zcash-testnet.md)
       * [Zcash Anonymous Transactions](content/part-1-blockchain-networks-concepts/anonymous-transactions/exercises-zcash-testnet/zcash-anonymous-transactions.md)
-    * [Overview](content/part-1-blockchain-networks-concepts/anonymous-transactions/overview.md)
-  * [Peer-To-Peer Networks](content/part-1-blockchain-networks-concepts/peer-to-peer-networks.md)
-    * Exercises Libp 2 P
+  * [Peer-To-Peer Networks](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/overview.md)
+    * [Exercises: Libp2p](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/overview/exercises-libp-2-p.md)
       * [Building P 2 P Network With Libp 2 P](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/exercises-libp2p/building-p2p-network-with-libp2p.md)
         * Peer To Peer Networks Concepts
       * [P 2 P Networking Concepts](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/peer-to-peer-networks-concepts/p2p-networking-concepts.md)
         * [Overview](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/overview.md)
 * [Part II: DApps, Ethereum and Solidity](content/part-2-dapps-ethereum-and-solidity/overview.md)
-  * [Ethereum Introduction](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction.md)
-    * Ethereum And Crypto Tokens
+  * [Ethereum - Introduction](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/overview.md)
+    * [Ethereum And Crypto Tokens](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/overview/ethereum-and-crypto-tokens.md)
       * [Ethereum Overview](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/ethereum-and-crypto-tokens/ethereum-overview.md)
     * Ethereum Overview
       * [Ethereum Evm Smart Contracts Intro](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/ethereum-overview/ethereum-evm-smart-contracts-intro.md)
@@ -157,8 +150,7 @@
       * [Run Local Ethereum Network](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-local-ethereum-network/run-local-ethereum-network.md)
     * Exercise Sync Ropsten Testnet
       * [Sync The Ropsten Testnet](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-sync-ropsten-testnet/sync-the-ropsten-testnet.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/overview.md)
-  * [Solidity Basics](content/part-2-dapps-ethereum-and-solidity/solidity-basics.md)
+  * [Solidity Basics](content/part-2-dapps-ethereum-and-solidity/solidity-basics/overview.md)
     * Exercises First Steps In Solidity
       * [Solidity First Steps](content/part-2-dapps-ethereum-and-solidity/solidity-basics/exercises-first-steps-in-solidity/solidity-first-steps.md)
       * Solidity Basics And Simple Smart Conracts
