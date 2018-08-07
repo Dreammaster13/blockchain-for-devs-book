@@ -1,3 +1,3 @@
-# Bitcoin Address Generator in JavaScript
+# Exercise: Bitcoin Address Generator in JavaScript
 
 ...

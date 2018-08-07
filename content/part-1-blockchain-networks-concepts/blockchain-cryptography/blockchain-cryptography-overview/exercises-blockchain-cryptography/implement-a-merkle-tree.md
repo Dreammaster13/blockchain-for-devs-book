@@ -1,3 +1,3 @@
-# Implement a Merkle Tree in Python
+# Exercise: Implement a Merkle Tree in Python
 
 ...

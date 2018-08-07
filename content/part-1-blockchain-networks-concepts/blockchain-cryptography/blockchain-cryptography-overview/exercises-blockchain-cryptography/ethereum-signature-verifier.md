@@ -1,3 +1,3 @@
-# Ethereum Signature Verifier
+# Exercise: Ethereum Signature Verifier
 
 ...

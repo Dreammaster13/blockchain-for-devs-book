@@ -1,3 +1,3 @@
-# Bitcoin Address Generator in C#
+# Exercise: Bitcoin Address Generator in C#
 
 ...

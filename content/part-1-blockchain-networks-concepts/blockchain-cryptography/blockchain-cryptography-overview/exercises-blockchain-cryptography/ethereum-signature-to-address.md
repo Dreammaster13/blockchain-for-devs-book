@@ -1,3 +1,3 @@
-# Recover Ethereum Address from Signature
+# Exercise: Recover Ethereum Address from Signature
 
 ...

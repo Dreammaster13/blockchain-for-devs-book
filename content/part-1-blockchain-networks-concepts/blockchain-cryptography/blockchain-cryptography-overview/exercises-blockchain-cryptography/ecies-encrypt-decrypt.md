@@ -1,3 +1,3 @@
-# ECC-Based Asymmetric Encrypt / Decrypt (ECIES)
+# Exercise: ECC-Based Asymmetric Encrypt / Decrypt (ECIES)
 
 ...

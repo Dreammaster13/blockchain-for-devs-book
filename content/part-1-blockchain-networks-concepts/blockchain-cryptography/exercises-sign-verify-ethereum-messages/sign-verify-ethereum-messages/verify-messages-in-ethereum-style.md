@@ -1,3 +1,3 @@
-# Verify Signed Messages in Ethereum JSON Format
+# Exercise: Verify Signed Messages in Ethereum JSON Format
 
 ...

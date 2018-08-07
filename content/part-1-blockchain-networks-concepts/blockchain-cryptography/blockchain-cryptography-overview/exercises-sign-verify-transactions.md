@@ -1,3 +1,3 @@
-# Exercises: Sign / Verify Transactions
+# Exercises: Sign / Verify Blockchain Transactions
 
 ...

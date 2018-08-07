@@ -82,6 +82,10 @@
       * [Generate Private Key and Address](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/exercises-private-key-to-blockchain-address/generate-private-key-and-address.md)
       * [Existing Private Key to Address](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/exercises-private-key-to-blockchain-address/existing-private-key-to-address.md)
     * [Exercises: Sign / Verify Transactions](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/exercises-sign-verify-transactions.md)
+      * [Sign / Verify Transactions in JavaScript](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/exercises-sign-verify-transactions/sign-verify-transactions-in-javascript.md)
+      * [Sign / Verify Transactions in Python](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/exercises-sign-verify-transactions/sign-verify-transactions-in-python.md)
+      * [Sign / Verify Transactions in C\#](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/exercises-sign-verify-transactions/sign-verify-transactions-in-csharp.md)
+      * [Sign / Verify Transactions in Java](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/exercises-sign-verify-transactions/sign-verify-transactions-in-java.md)
   * [Consensus Algorithms](content/part-1-blockchain-networks-concepts/consensus-algorithms/overview.md)
     * Decentralization And Consensus Algorithms
       * [Consensus Algorithms Overview](content/part-1-blockchain-networks-concepts/consensus-algorithms/decentralization-and-consensus-algorithms/consensus-algorithms-overview.md)

@@ -1,3 +1,3 @@
-# Symmetric Key Encryption / Decryption (using AES + SCrypt + HMAC)
+# Exercise: Symmetric Key Encryption / Decryption (using AES + SCrypt + HMAC)
 
 ...
