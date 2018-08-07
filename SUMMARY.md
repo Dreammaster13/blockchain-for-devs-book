@@ -16,8 +16,9 @@
     * [Cryptography Overview](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography-intro.md)
       * [What Is Cryptography?](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/what-is-cryptography.md)
       * [Hash Functions](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hash-functions.md)
-      * [Hash Functions Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hash-functions-examples.md)
-      * [Hmac And Key Derivation](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hmac-and-key-derivation.md)
+      * [Hash Functions - Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hash-functions-examples.md)
+      * [HMAC and Key Derivation](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hmac-and-key-derivation.md)
+      * [HMAC Calculation - Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hmac-calculation-examples.md)
     * Exercises Blockchain Cryptography
       * [Playing With Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/exercises-blockchain-cryptography/playing-with-cryptography.md)
     * Exercises Private Key To Address
