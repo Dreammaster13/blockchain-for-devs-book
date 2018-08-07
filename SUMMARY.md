@@ -151,7 +151,7 @@
     * [Overview](content/part-2-dapps-ethereum-and-solidity/blockchain-and-smart-contract-security/overview.md)
   * Client Side Web 3 And Metamask
     * Exercise Casino Dapp
-      * [Casino Dapp](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/exercise-casino-dapp/casino-dapp.md)
+      * [Casino Dapp](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/exercises-casino-dapp/casino-dapp.md)
     * Exercise Document Registry Dapp
       * [Document Registry Dapp](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/exercise-document-registry-dapp/document-registry-dapp.md)
     * Web 3 Api And Metamask
