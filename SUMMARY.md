@@ -8,13 +8,10 @@
 * [Part I: Blockchain Networks Concepts](content/part-1-blockchain-networks-concepts/overview.md)
   * [Blockchain Technologies Introduction](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/overview.md)
     * [Blockhain Dev Book Welcome](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/blockhain-dev-book-welcome/welcome.md)
-    * [Blockchain Technologies Overview](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/blockchain-technologies-overview/blockchain-technologies-introduction.md)
-    * Exercises Playing With Crypto Wallets
-      * [Play With MyEtherWallet](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/exercises-playing-with-crypto-wallets/play-with-myetherwallet.md)
-    * Blockchain Concepts
-      * [Blockchain Networks Concepts](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/blockchain-concepts/blockchain-networks-concepts.md)
-    * Exercises Build Your Own Blockchain
-      * [Building A Blockchain](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/exercises-build-your-own-blockchain/building-a-blockchain.md)
+    * [Blockchain Technologies - Overview](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/blockchain-technologies-overview/blockchain-technologies-introduction.md)
+    * [Exercises Playing with Crypto Wallets](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/exercises-playing-with-crypto-wallets/play-with-myetherwallet.md)
+    * [Blockchain Networks - Concepts](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/blockchain-concepts/blockchain-networks-concepts.md)
+    * [Exercises Build Your Own Blockchain](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/exercises-build-your-own-blockchain/building-a-blockchain.md)
   * [Blockchain Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/overview.md)
     * Blockchain Cryptography Overview
       * [Blockchain Cryptography Intro](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography-intro.md)
