@@ -1,3 +1,3 @@
-# What is cryptography?
+# What is Cryptography?
 
 ...
