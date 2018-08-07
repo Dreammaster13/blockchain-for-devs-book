@@ -267,7 +267,7 @@
 * [Part III: More Blockchain Technologies](content/part-3-other-blockchain-technologies/overview.md)
   * [Bitcoin Blockchain](content/part-3-other-blockchain-technologies/bitcoin-blockchain.md)
     * [Bitcoin Technical Intro](content/part-3-other-blockchain-technologies/bitcoin-blockchain/bitcoin-technical-intro.md)
-  * Nem Blockchain
+  * [Nem Blockchain](content/part-3-other-blockchain-technologies/nem-blockchain.md)
     * [Nem Technical Intro](content/part-3-other-blockchain-technologies/nem-blockchain/nem-technical-intro.md)
   * Neo Blockchain
     * [Neo Technical Intro](content/part-3-other-blockchain-technologies/neo-blockchain/neo-technical-intro.md)
