@@ -1,3 +1,3 @@
-# Solidity Smart Contract Language - Overview
+# Solidity Smart Contract Language - Basics
 
 ...
