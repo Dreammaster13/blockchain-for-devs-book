@@ -13,7 +13,7 @@
     * [Blockchain Networks - Concepts](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/blockchain-concepts/blockchain-networks-concepts.md)
     * [Exercises: Build Your Own Blockchain](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/exercises-build-your-own-blockchain/building-a-blockchain.md)
   * [Blockchain Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/overview.md)
-    * [Cryptography Overview](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography-intro.md)
+    * [Cryptography - Overview](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography-intro.md)
       * [What Is Cryptography?](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/what-is-cryptography.md)
       * [Hash Functions](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hash-functions.md)
         * [Hash Functions - Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hash-functions/hash-functions-examples.md)
@@ -37,8 +37,10 @@
       * [Secure Random Number Generators](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/random-number-generators.md)
         * [Random Numbers - Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/random-number-generators/random-numbers-examples.md)
         * [Entropy and HD Wallets](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/random-number-generators/entropy-and-hd-wallets.md)
-    * Exercises Blockchain Cryptography
-      * [Playing With Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/exercises-blockchain-cryptography/playing-with-cryptography.md)
+    * [Exercises: Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/exercises-blockchain-cryptography/playing-with-cryptography.md)
+    * [Blockchain Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography.md)
+    * Popular Crypto Libraries
+      * [Popular Cryptographic Libraries](content/part-1-blockchain-networks-concepts/blockchain-cryptography/popular-crypto-libraries/popular-cryptographic-libraries.md)
     * Exercises Private Key To Address
       * [Private Key To Ethereum Address](content/part-1-blockchain-networks-concepts/blockchain-cryptography/exercises-private-key-to-address/private-key-to-ethereum-address.md)
     * Exercises Sign Verify Ethereum Messages
@@ -49,10 +51,7 @@
       * [Sign Verify Java](content/part-1-blockchain-networks-concepts/blockchain-cryptography/exercises-sign-verify-transaction-java/sign-verify-java.md)
     * Exercises Sign Verify Transaction Javascript
       * [Sign Verify Javascript](content/part-1-blockchain-networks-concepts/blockchain-cryptography/exercises-sign-verify-transaction-javascript/sign-verify-javascript.md)
-    * Exercises Sign Verify Transaction Python
-      * [Sign Verify Python](content/part-1-blockchain-networks-concepts/blockchain-cryptography/exercises-sign-verify-transaction-python/sign-verify-python.md)
-    * Popular Crypto Libraries
-      * [Popular Cryptographic Libraries](content/part-1-blockchain-networks-concepts/blockchain-cryptography/popular-crypto-libraries/popular-cryptographic-libraries.md)
+    * Blockchain Cryptography
   * [Consensus Algorithms](content/part-1-blockchain-networks-concepts/consensus-algorithms/overview.md)
     * Decentralization And Consensus Algorithms
       * [Consensus Algorithms Overview](content/part-1-blockchain-networks-concepts/consensus-algorithms/decentralization-and-consensus-algorithms/consensus-algorithms-overview.md)
