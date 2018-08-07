@@ -1,6 +1,6 @@
 # Hash Functions
 
-A few words....
+A few words about hash functions ....
 
 Video
 

@@ -16,7 +16,7 @@
     * [Cryptography Overview](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography-intro.md)
       * [What Is Cryptography?](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/what-is-cryptography.md)
       * [Hash Functions](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hash-functions.md)
-      * [Hash Functions - Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hash-functions-examples.md)
+        * [Hash Functions - Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hash-functions/hash-functions-examples.md)
       * [HMAC and Key Derivation](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hmac-and-key-derivation.md)
       * [HMAC Calculation - Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hmac-calculation-examples.md)
       * [Deriving Key from Password](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/deriving-key-from-password.md)
@@ -24,7 +24,8 @@
         * [Scrypt](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/deriving-key-from-password/scrypt.md)
         * [BCrypt](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/deriving-key-from-password/bcrypt.md)
       * [Symmetric and Asymmetric Encryption](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/symmetric-and-asymmetric-encryption.md)
-        * [AES Cipher](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/symmetric-and-asymmetric-encryption/aes-cipher.md)
+      * [Symmetric Key Ciphers](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/symmetric-key-ciphers.md)
+        * [AES Cipher](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/symmetric-key-ciphers/aes-cipher.md)
     * Exercises Blockchain Cryptography
       * [Playing With Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/exercises-blockchain-cryptography/playing-with-cryptography.md)
     * Exercises Private Key To Address
