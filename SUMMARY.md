@@ -44,8 +44,12 @@
         * [Public Key Compression](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/elliptic-curve-cryptography/public-key-compression.md)
         * [ECC Parameters and secp256k1](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/elliptic-curve-cryptography/ecc-parameters-and-secp256k1.md)
         * [Digital Signatures and ECDSA](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/elliptic-curve-cryptography/digital-signatures-and-ecdsa.md)
-      * [Ethereum Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/ethereum-adresses.md)
-        * [Ethereum Key to Address – Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/ethereum-adresses/ethereum-key-to-address-examples.md)
+      * [Ethereum Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/ethereum-cryptography.md)
+        * [Ethereum Key to Address – Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/ethereum-cryptography/ethereum-key-to-address-examples.md)
+        * [Ethereum Signatures](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/ethereum-cryptography/ethereum-signatures.md)
+        * [Sign Message in Ethereum – Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/ethereum-cryptography/sign-message-in-ethereum-examples.md)
+        * [Verify Message in Ethereum – Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/ethereum-cryptography/verify-message-in-ethereum-examples.md)
+      * [EdDSA and Ed25519](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/eddsa-and-ed25519.md)
     * Popular Crypto Libraries
       * [Popular Cryptographic Libraries](content/part-1-blockchain-networks-concepts/blockchain-cryptography/popular-crypto-libraries/popular-cryptographic-libraries.md)
     * Exercises Private Key To Address
