@@ -1,12 +1,11 @@
 # Summary
 
-* [Introduction](README.md)
+* [Practical Blockchain for Developers: The Big Book](README.md)
 * [Preface](content/preface/preface.md)
   * [Acquired Skills](content/preface/acquired-skills.md)
   * [Training Curriculum](content/preface/training-curriculum.md)
   * [License](LICENSE.md)
-* [Part 1: Blockchain Networks Concepts](part-1-blockchain-networks-concepts.md)
-  * [Overview](content/part-1-blockchain-networks-concepts/overview.md)
+* [Part I: Blockchain Networks Concepts](content/part-1-blockchain-networks-concepts/overview.md)
   * [Blockchain Technologies Introduction](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction.md)
     * Blockhain Dev Book Welcome
       * [Welcome](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/blockhain-dev-book-welcome/welcome.md)
@@ -141,9 +140,7 @@
         * Peer To Peer Networks Concepts
       * [P 2 P Networking Concepts](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/peer-to-peer-networks-concepts/p2p-networking-concepts.md)
         * [Overview](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/overview.md)
-  * [Overview](content/part-1-blockchain-networks-concepts/overview.md)
-* [Part 2: DApps, Ethereum and Solidity](part-2-dapps-ethereum-and-solidity.md)
-  * [Overview](content/part-2-dapps-ethereum-and-solidity/overview.md)
+* [Part II: DApps, Ethereum and Solidity](content/part-2-dapps-ethereum-and-solidity/overview.md)
   * [Ethereum Introduction](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction.md)
     * Ethereum And Crypto Tokens
       * [Ethereum Overview](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/ethereum-and-crypto-tokens/ethereum-overview.md)
@@ -267,22 +264,20 @@
     * Rsk Sidechain
       * [Rsk](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/rsk-sidechain/rsk.md)
     * [Overview](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/overview.md)
-* [Part 3: Other Blockchain Technologies](part-3-other-blockchain-technologies.md)
-  * [Overview](content/part-3-other-blockchain-technologies/overview.md)
-  * [Bitcoin Blockchain](content/part-3-other-blockchain-technologies/bitcoin-blockchain.md)
-    * [Bitcoin Technical Intro](content/part-3-other-blockchain-technologies/bitcoin-blockchain/bitcoin-technical-intro.md)
-  * Nem Blockchain
-    * [Nem Technical Intro](content/part-3-other-blockchain-technologies/nem-blockchain/nem-technical-intro.md)
+* [Part III: More Blockchain Technologies](content/part-3-more-blockchain-technologies/overview.md)
+  * [Bitcoin Blockchain](content/part-3-more-blockchain-technologies/bitcoin-blockchain.md)
+    * [Bitcoin Technical Intro](content/part-3-more-blockchain-technologies/bitcoin-blockchain/bitcoin-technical-intro.md)
+  * [Nem Blockchain](content/part-3-more-blockchain-technologies/nem-blockchain.md)
+    * [Nem Technical Intro](content/part-3-more-blockchain-technologies/nem-blockchain/nem-technical-intro.md)
   * Neo Blockchain
-    * [Neo Technical Intro](content/part-3-other-blockchain-technologies/neo-blockchain/neo-technical-intro.md)
+    * [Neo Technical Intro](content/part-3-more-blockchain-technologies/neo-blockchain/neo-technical-intro.md)
   * EOS Blockchain
-    * [Eos Technical Intro](content/part-3-other-blockchain-technologies/eos-blockchain/eos-technical-intro.md)
+    * [Eos Technical Intro](content/part-3-more-blockchain-technologies/eos-blockchain/eos-technical-intro.md)
   * Hyperledger
-    * [Hyperledger Technical Intro](content/part-3-other-blockchain-technologies/permissionned-blockchains-and-hyperledger/hyperledger-technical-intro.md)
-  * [Blockchain-as-a-Service](content/part-3-other-blockchain-technologies/blockchaina-as-a-service.md)
-    * [Blockchain As A Service Baas](content/part-3-other-blockchain-technologies/blockchain-as-a-service/blockchain-as-a-service-baas.md)
+    * [Hyperledger Technical Intro](content/part-3-more-blockchain-technologies/permissionned-blockchains-and-hyperledger/hyperledger-technical-intro.md)
+  * [Blockchain-as-a-Service](content/part-3-more-blockchain-technologies/blockchaina-as-a-service.md)
+    * [Blockchain As A Service Baas](content/part-3-more-blockchain-technologies/blockchain-as-a-service/blockchain-as-a-service-baas.md)
   * Forking a Blockchain Network
-    * [Forking A Blockchain](content/part-3-other-blockchain-technologies/forking-a-blockchain-network/forking-a-blockchain.md)
-* [Conclusion](conclusion.md)
-  * [Conslusion](content/conclusion/conslusion.md)
+    * [Forking A Blockchain](content/part-3-more-blockchain-technologies/forking-a-blockchain-network/forking-a-blockchain.md)
+* [Conclusion](content/conclusion/conslusion.md)
 
