@@ -88,25 +88,25 @@
     * Wallet Apis And Libraries
       * [Wallets Apis And Libraries](content/part-1-blockchain-networks-concepts/wallets-and-transactions/wallet-apis-and-libraries/wallets-apis-and-libraries.md)
     * [Overview](content/part-1-blockchain-networks-concepts/wallets-and-transactions/overview.md)
-  - Practical Project: Blockchain Network
-      - Blockchain Network Architecture
-        * [Architecture Of The Blockchain Network](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/blockchain-network-architecture/architecture-of-the-blockchain-network.md)
-      - Building The Block Explorer
-        * [Implementing The Block Explorer](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-block-explorer/implementing-the-block-explorer.md)
-      - Building The Chain
-        * [Implementing The Chain](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-chain/implementing-the-chain.md)
-      - Building The Faucet
-        * [Implementing The Faucet App](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-faucet/implementing-the-faucet-app.md)
-      - Building The Miner
-        * [Implementing The Miner App](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-miner/implementing-the-miner-app.md)
-      - Building The Node
-        * [Implementing The Node](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-node/implementing-the-node.md)
-      - Building the P2P Network
-        * [P2P Chain Sync](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-p2p-network/p2p-chain-sync.md)
-      - Building the Wallet
-        * [Implementing The Wallet App](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-wallet/implementing-the-wallet-app.md)
-      * [Overview](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/overview.md)
- - [Crypto Exchanges](content/part-1-blockchain-networks-concepts/crypto-exchanges.md)
+  * [Practical Project: Blockchain Network](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network.md)
+    * Blockchain Network Architecture
+      * [Architecture Of The Blockchain Network](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/blockchain-network-architecture/architecture-of-the-blockchain-network.md)
+    * Building The Block Explorer
+      * [Implementing The Block Explorer](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-block-explorer/implementing-the-block-explorer.md)
+    * Building The Chain
+      * [Implementing The Chain](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-chain/implementing-the-chain.md)
+    * Building The Faucet
+      * [Implementing The Faucet App](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-faucet/implementing-the-faucet-app.md)
+    * Building The Miner
+      * [Implementing The Miner App](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-miner/implementing-the-miner-app.md)
+    * Building The Node
+      * [Implementing The Node](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-node/implementing-the-node.md)
+    * Building the P2P Network
+      * [P2P Chain Sync](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-p2p-network/p2p-chain-sync.md)
+    * Building the Wallet
+      * [Implementing The Wallet App](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-wallet/implementing-the-wallet-app.md)
+    * [Overview](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/overview.md)
+  * [Crypto Exchanges](content/part-1-blockchain-networks-concepts/crypto-exchanges.md)
     * [Cryptocurrency Exchanges](content/part-1-blockchain-networks-concepts/crypto-exchanges/cryptocurrency-exchanges/cryptocurrency-exchanges.md)
     * Exercise Hodl Hodl
       * [Play With Hodl Hodl](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-hodl-hodl/play-with-hodl-hodl.md)
@@ -135,62 +135,16 @@
     * Exercises Zcash Testnet
       * [Zcash Anonymous Transactions](content/part-1-blockchain-networks-concepts/anonymous-transactions/exercises-zcash-testnet/zcash-anonymous-transactions.md)
     * [Overview](content/part-1-blockchain-networks-concepts/anonymous-transactions/overview.md)
+  * [Peer To Peer Networks](content/part-1-blockchain-networks-concepts/peer-to-peer-networks.md)
+    * Exercises Libp 2 P
+      * [Building P 2 P Network With Libp 2 P](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/exercises-libp2p/building-p2p-network-with-libp2p.md)
+        * Peer To Peer Networks Concepts
+      * [P 2 P Networking Concepts](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/peer-to-peer-networks-concepts/p2p-networking-concepts.md)
+        * [Overview](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/overview.md)
   * [Overview](content/part-1-blockchain-networks-concepts/overview.md)
-* Part 2 Dapps Ethereum And Solidity
-  * Blockchain And Smart Contract Security
-    * Blockchain Security
-      * [Security Of Blockchain Networks](content/part-2-dapps-ethereum-and-solidity/blockchain-and-smart-contract-security/blockchain-security/security-of-blockchain-networks.md)
-    * Exercises Erc 20 Short Attack
-      * [Erc 20 Short Attack](content/part-2-dapps-ethereum-and-solidity/blockchain-and-smart-contract-security/exercises-erc20-short-attack/erc20-short-attack.md)
-    * Exercises Inspect Suspicious Sites For Scam
-      * [Check Site For Scam](content/part-2-dapps-ethereum-and-solidity/blockchain-and-smart-contract-security/exercises-inspect-suspicious-sites-for-scam/check-site-for-scam.md)
-    * Exercises Reentrancy Attack
-      * [Reentrancy Attack Solidity](content/part-2-dapps-ethereum-and-solidity/blockchain-and-smart-contract-security/exercises-reentrancy-attack/reentrancy-attack-solidity.md)
-    * Solidity Smart Contract Security
-      * [Smart Contract Security](content/part-2-dapps-ethereum-and-solidity/blockchain-and-smart-contract-security/solidity-smart-contract-security/smart-contract-security.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/blockchain-and-smart-contract-security/overview.md)
-  * Client Side Web 3 And Metamask
-    * Exercise Casino Dapp
-      * [Casino Dapp](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/exercises-casino-dapp/casino-dapp.md)
-    * Exercise Document Registry Dapp
-      * [Document Registry Dapp](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/exercises-document-registry-dapp/document-registry-dapp.md)
-    * Web 3 Api And Metamask
-      * [Web 3 Metamask](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/web3-api-and-metamask/web3-metamask.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/overview.md)
-  * Dapp Architectures
-    * Architectures For Dapps
-      * [Dapp Architectures](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/architectures-for-dapps/dapp-architectures.md)
-    * Exercises Client Side Wallets
-      * [Client Side Ethereum Wallets](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/exercises-client-side-wallets/client-side-ethereum-wallets.md)
-    * Exercises Voting App Client Side Wallet
-      * [Voting Dapp Client Side Wallet](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/exercises-voting-app-client-side-wallet/voting-dapp-client-side-wallet.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/overview.md)
-  * Decentralized Data
-    * Decentralized Append Only Logs
-      * [Append Only Logs](content/part-2-dapps-ethereum-and-solidity/decentralized-data/decentralized-append-only-logs/append-only-logs.md)
-    * [Decentralized Databases](content/part-2-dapps-ethereum-and-solidity/decentralized-data/decentralized-databases/decentralized-databases.md)
-    * [Decentralized Messaging](content/part-2-dapps-ethereum-and-solidity/decentralized-data/decentralized-messaging/decentralized-messaging.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/decentralized-data/overview.md)
-  * Decentralized Governance
-    * Decentralized Governance And Dao
-      * [Decentralized Autonomous Organizations Dao](content/part-2-dapps-ethereum-and-solidity/decentralized-governance/decentralized-governance-and-dao/decentralized-autonomous-organizations-dao.md)
-      * [Governance](content/part-2-dapps-ethereum-and-solidity/decentralized-governance/decentralized-governance-and-dao/governance.md)
-    * Exercises Democracy Contract
-      * [Implementing Democracy Contract](content/part-2-dapps-ethereum-and-solidity/decentralized-governance/exercises-democracy-contract/implementing-democracy-contract.md)
-    * Exercises Gnosis Multisig Wallet
-      * [Using The Gnosis Multisig Wallet](content/part-2-dapps-ethereum-and-solidity/decentralized-governance/exercises-gnosis-multisig-wallet/using-the-gnosis-multisig-wallet.md)
-    * Exercises Multisig Wallet
-      * [Implementing Multisig Wallet Solidity](content/part-2-dapps-ethereum-and-solidity/decentralized-governance/exercises-multisig-wallet/implementing-multisig-wallet-solidity.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/decentralized-governance/overview.md)
-  * Decentralized Storage
-    * Decentralized Storage And Ipfs
-      * [Ipfs](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/decentralized-storage-and-ipfs/ipfs.md)
-    * Exercises Ipfs Command Line
-      * [Ipfs Command Line](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/exercises-ipfs-command-line/ipfs-command-line.md)
-    * Exercises Ipfs Js Api
-      * [Accessing Ipfs From Javascript](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/exercises-ipfs-js-api/accessing-ipfs-from-javascript.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/overview.md)
-  * Ethereum Introduction
+* [Part 2: DApps, Ethereum and Solidity](part-2-dapps-ethereum-and-solidity.md)
+  * [Overview](content/part-2-dapps-ethereum-and-solidity/overview.md)
+  * [Ethereum Introduction](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction.md)
     * Ethereum And Crypto Tokens
       * [Ethereum Overview](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/ethereum-and-crypto-tokens/ethereum-overview.md)
     * Ethereum Overview
@@ -208,31 +162,25 @@
     * Exercise Sync Ropsten Testnet
       * [Sync The Ropsten Testnet](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-sync-ropsten-testnet/sync-the-ropsten-testnet.md)
     * [Overview](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/overview.md)
-  * Evm Based Dapp Platforms
-    * Aeternity Blockchain
-      * [Aeternity](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/aeternity-blockchain/aeternity.md)
-    * Deploy Solidity Contract In Aeternity
-      * [Deploy Smart Contract In Aeternity](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-aeternity/deploy-smart-contract-in-aeternity.md)
-    * Deploy Solidity Contract In Poa Network
-      * [Deploy Smart Contract In Poa Network](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-poa-network/deploy-smart-contract-in-poa-network.md)
-    * Deploy Solidity Contract In Qtum
-      * [Deploy Smart Contract In Qtum](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-qtum/deploy-smart-contract-in-qtum.md)
-    * Deploy Solidity Contract In Quorum
-      * [Deploy Smart Contract In Quorum](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-quorum/deploy-smart-contract-in-quorum.md)
-    * Deploy Solidity Contract In Rsk
-      * [Deploy Smart Contract In The Rsk Testnet](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-rsk/deploy-smart-contract-in-the-rsk-testnet.md)
-    * Evm Based Blockchains
-      * [Evm Based Smart Contract Platforms](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/evm-based-blockchains/evm-based-smart-contract-platforms.md)
-    * Poa Network Blockchain
-      * [Poa Network](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/poa-network-blockchain/poa-network.md)
-    * Qtum Blockchain
-      * [Qtum](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/qtum-blockchain/qtum.md)
-    * Quorum Blockchain
-      * [Quorum](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/quorum-blockchain/quorum.md)
-    * Rsk Sidechain
-      * [Rsk](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/rsk-sidechain/rsk.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/overview.md)
-  * Ganache And Truffle
+  * [Solidity Basics](content/part-2-dapps-ethereum-and-solidity/solidity-basics.md)
+    * Exercises First Steps In Solidity
+      * [Solidity First Steps](content/part-2-dapps-ethereum-and-solidity/solidity-basics/exercises-first-steps-in-solidity/solidity-first-steps.md)
+      * Solidity Basics And Simple Smart Conracts
+        * [Solidity Basics](content/part-2-dapps-ethereum-and-solidity/solidity-basics/solidity-basics-and-simple-smart-conracts/solidity-basics.md)
+  * [Solidity Advanced](content/part-2-dapps-ethereum-and-solidity/solidity-advanced.md)
+    * Exercises Build Erc 20 Token Contract
+      * [Erc 20](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/exercises-build-erc20-token-contract/erc20.md)
+    * Exercises Build Erc 721 Token Contract
+      * [Erc 721](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/exercises-build-erc721-token-contract/erc721.md)
+    * Exercises Solidity Advanced
+      * [Writing Advanced Solidity Contracts](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/exercises-solidity-advanced/writing-advanced-solidity-contracts.md)
+    * Solidity Advanced Smart Contracts
+      * [Solidity Advanced](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/solidity-advanced-smart-contracts/solidity-advanced.md)
+    * [Overview](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/overview.md)
+  * [Ganache and Truffle](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle.md)
+    * [Overview](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/overview.md)
+    * Ganache And Truffle Framework
+      * [Ganache And Truffle](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/ganache-and-truffle.md)
     * Exercises Advanced Smart Contract Unit Testing
       * [Advanced Smart Contract Unit Testing](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-advanced-smart-contract-unit-testing/advanced-smart-contract-unit-testing.md)
     * Exercises Deploy Smart Contract Ganache
@@ -243,21 +191,31 @@
       * [Truffle Deploy Invoke Contract](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-smart-contracts-with-truffle/truffle-deploy-invoke-contract.md)
     * Exercises Unit Testing Smart Contracts
       * [Smart Contract Unit Testing](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-unit-testing-smart-contracts/smart-contract-unit-testing.md)
-    * Ganache And Truffle Framework
-      * [Ganache And Truffle](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/ganache-and-truffle.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/overview.md)
-  * Practical Project - DApp
-    * Building The Dapp User Interface
-      * [Dapp Front End](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/building-the-dapp-user-interface/dapp-front-end.md)
-    * [DApp Project Requirements](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/dapp-project-requirements/dapp-project-requirements.md)
-    * Establishing The Dapp Architecture
-      * [DApp Architecture](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/establishing-the-dapp-architecture/dapp-architecture.md)
-    * Implementing Extra Functionality
-      * [DApp Extra Functionality](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/implementing-extra-functionality/dapp-extra-functionality.md)
-    * Implementing The Smart Contracts
-      * [DApp Smart Contracts](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/implementing-the-smart-contracts/dapp-smart-contracts.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/overview.md)
-  * Server Side Ethereum Apis
+  * [DApp Architectures](content/part-2-dapps-ethereum-and-solidity/dapp-architectures.md)
+    * Architectures For Dapps
+      * [Dapp Architectures](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/architectures-for-dapps/dapp-architectures.md)
+    * Exercises Client Side Wallets
+      * [Client Side Ethereum Wallets](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/exercises-client-side-wallets/client-side-ethereum-wallets.md)
+    * Exercises Voting App Client Side Wallet
+      * [Voting Dapp Client Side Wallet](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/exercises-voting-app-client-side-wallet/voting-dapp-client-side-wallet.md)
+    * [Overview](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/overview.md)
+  * [Client-Side Web3 and MetaMask](content/part-2-dapps-ethereum-and-solidity/client-side-web-3-and-metamask.md)
+    * Exercise Casino Dapp
+      * [Casino Dapp](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/exercises-casino-dapp/casino-dapp.md)
+    * Exercise Document Registry Dapp
+      * [Document Registry Dapp](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/exercises-document-registry-dapp/document-registry-dapp.md)
+    * Web 3 Api And Metamask
+      * [Web 3 Metamask](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/web3-api-and-metamask/web3-metamask.md)
+    * [Overview](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/overview.md)
+  * [Decentralized Storage](content/part-2-dapps-ethereum-and-solidity/decentralized-storage.md)
+    * Decentralized Storage And Ipfs
+      * [Ipfs](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/decentralized-storage-and-ipfs/ipfs.md)
+    * Exercises Ipfs Command Line
+      * [Ipfs Command Line](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/exercises-ipfs-command-line/ipfs-command-line.md)
+    * Exercises Ipfs Js Api
+      * [Accessing Ipfs From Javascript](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/exercises-ipfs-js-api/accessing-ipfs-from-javascript.md)
+    * [Overview](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/overview.md)
+  * Server-Side Ethereum APIs
     * Exercises Ethers Js
       * [Using Ethers Js](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-ethers-js/using-ethers-js.md)
     * Exercises Nethereum
@@ -273,41 +231,58 @@
     * Server Side Ethereum Libraries
       * [Ethereum Server Side Apis](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/server-side-ethereum-libraries/ethereum-server-side-apis.md)
     * [Overview](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/overview.md)
-  * Solidity Advanced
-    * Exercises Build Erc 20 Token Contract
-      * [Erc 20](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/exercises-build-erc20-token-contract/erc20.md)
-    * Exercises Build Erc 721 Token Contract
-      * [Erc 721](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/exercises-build-erc721-token-contract/erc721.md)
-    * Exercises Solidity Advanced
-      * [Writing Advanced Solidity Contracts](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/exercises-solidity-advanced/writing-advanced-solidity-contracts.md)
-    * Solidity Advanced Smart Contracts
-      * [Solidity Advanced](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/solidity-advanced-smart-contracts/solidity-advanced.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/overview.md)
-  * Solidity Basics
-    * Exercises First Steps In Solidity
-      * [Solidity First Steps](content/part-2-dapps-ethereum-and-solidity/solidity-basics/exercises-first-steps-in-solidity/solidity-first-steps.md)
-    * Solidity Basics And Simple Smart Conracts
-      * [Solidity Basics](content/part-2-dapps-ethereum-and-solidity/solidity-basics/solidity-basics-and-simple-smart-conracts/solidity-basics.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/solidity-basics/overview.md)
-  * [Overview](content/part-2-dapps-ethereum-and-solidity/overview.md)
-* Part 3 Other Blockchain Technologies
-  * Bitcoin Blockchain
+  * [Practical Project: DApp](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp.md)
+    * [Overview](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/overview.md)
+    * [DApp: Project Requirements](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/dapp-project-requirements/dapp-project-requirements.md)
+    * Building The Dapp User Interface
+      * [Dapp Front End](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/building-the-dapp-user-interface/dapp-front-end.md)
+    * Establishing The Dapp Architecture
+      * [Dapp Architecture](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/establishing-the-dapp-architecture/dapp-architecture.md)
+    * Implementing Extra Functionality
+      * [Dapp Extra Functionality](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/implementing-extra-functionality/dapp-extra-functionality.md)
+    * Implementing The Smart Contracts
+      * [Dapp Smart Contracts](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/implementing-the-smart-contracts/dapp-smart-contracts.md)
+  * EVM Based DApp Platforms
+    * [Overview](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/overview.md)
+    * Evm Based Blockchains
+      * [Evm Based Smart Contract Platforms](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/evm-based-blockchains/evm-based-smart-contract-platforms.md)
+    * Aeternity Blockchain
+      * [Aeternity](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/aeternity-blockchain/aeternity.md)
+    * Deploy Solidity Contract In Aeternity
+      * [Deploy Smart Contract In Aeternity](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-aeternity/deploy-smart-contract-in-aeternity.md)
+    * Deploy Solidity Contract In Poa Network
+      * [Deploy Smart Contract In Poa Network](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-poa-network/deploy-smart-contract-in-poa-network.md)
+    * Deploy Solidity Contract In Qtum
+      * [Deploy Smart Contract In Qtum](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-qtum/deploy-smart-contract-in-qtum.md)
+    * Deploy Solidity Contract In Quorum
+      * [Deploy Smart Contract In Quorum](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-quorum/deploy-smart-contract-in-quorum.md)
+    * Deploy Solidity Contract In Rsk
+      * [Deploy Smart Contract In The Rsk Testnet](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-rsk/deploy-smart-contract-in-the-rsk-testnet.md)
+    * Poa Network Blockchain
+      * [Poa Network](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/poa-network-blockchain/poa-network.md)
+    * Qtum Blockchain
+      * [Qtum](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/qtum-blockchain/qtum.md)
+    * Quorum Blockchain
+      * [Quorum](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/quorum-blockchain/quorum.md)
+    * Rsk Sidechain
+      * [Rsk](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/rsk-sidechain/rsk.md)
+    * [Overview](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/overview.md)
+* [Part 3: Other Blockchain Technologies](part-3-other-blockchain-technologies.md)
+  * [Overview](content/part-3-other-blockchain-technologies/overview.md)
+  * [Bitcoin Blockchain](content/part-3-other-blockchain-technologies/bitcoin-blockchain.md)
     * [Bitcoin Technical Intro](content/part-3-other-blockchain-technologies/bitcoin-blockchain/bitcoin-technical-intro.md)
-  * Blockchain As A Service
-    * [Blockchain As A Service Baas](content/part-3-other-blockchain-technologies/blockchain-as-a-service/blockchain-as-a-service-baas.md)
-  * Eos Blockchain
-    * [Eos Technical Intro](content/part-3-other-blockchain-technologies/eos-blockchain/eos-technical-intro.md)
-  * Ethereum Sidechains Loom
-    * [Loom Network Technical Intro](content/part-3-other-blockchain-technologies/ethereum-sidechains-loom/loom-network-technical-intro.md)
-  * Forking A Blockchain Network
-    * [Forking A Blockchain](content/part-3-other-blockchain-technologies/forking-a-blockchain-network/forking-a-blockchain.md)
   * Nem Blockchain
     * [Nem Technical Intro](content/part-3-other-blockchain-technologies/nem-blockchain/nem-technical-intro.md)
   * Neo Blockchain
     * [Neo Technical Intro](content/part-3-other-blockchain-technologies/neo-blockchain/neo-technical-intro.md)
-  * Permissionned Blockchains And Hyperledger
+  * EOS Blockchain
+    * [Eos Technical Intro](content/part-3-other-blockchain-technologies/eos-blockchain/eos-technical-intro.md)
+  * Hyperledger
     * [Hyperledger Technical Intro](content/part-3-other-blockchain-technologies/permissionned-blockchains-and-hyperledger/hyperledger-technical-intro.md)
-  * [Overview](content/part-3-other-blockchain-technologies/overview.md)
-* Conclusion
+  * [Blockchain-as-a-Service](content/part-3-other-blockchain-technologies/blockchaina-as-a-service.md)
+    * [Blockchain As A Service Baas](content/part-3-other-blockchain-technologies/blockchain-as-a-service/blockchain-as-a-service-baas.md)
+  * Forking a Blockchain Network
+    * [Forking A Blockchain](content/part-3-other-blockchain-technologies/forking-a-blockchain-network/forking-a-blockchain.md)
+* [Conclusion](conclusion.md)
   * [Conslusion](content/conclusion/conslusion.md)
 
