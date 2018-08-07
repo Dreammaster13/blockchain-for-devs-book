@@ -72,9 +72,9 @@
     * Cryptocurrency Wallets
       * [Crypto Wallets Overview](content/part-1-blockchain-networks-concepts/wallets-and-transactions/cryptocurrency-wallets/crypto-wallets-overview.md)
     * Exercise Simple Bitcoin Wallet Csharp
-      * [Simple Bitcoin Wallet In Csharp](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercise-simple-bitcoin-wallet-csharp/simple-bitcoin-wallet-in-csharp.md)
+      * [Simple Bitcoin Wallet In Csharp](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-simple-bitcoin-wallet-csharp/simple-bitcoin-wallet-in-csharp.md)
     * Exercise Simple Ethereum Wallet Csharp
-      * [Simple Ethereum Wallet In Csharp](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercise-simple-ethereum-wallet-csharp/simple-ethereum-wallet-in-csharp.md)
+      * [Simple Ethereum Wallet In Csharp](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-simple-ethereum-wallet-csharp/simple-ethereum-wallet-in-csharp.md)
     * Exercises Ethereum Hd Wallet In Javascript
       * [Ethereum Hd Wallet In Js](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-ethereum-hd-wallet-in-javascript/ethereum-hd-wallet-in-js.md)
     * Exercises Install Metamask Get Etht
@@ -109,7 +109,7 @@
  - [Crypto Exchanges](content/part-1-blockchain-networks-concepts/crypto-exchanges.md)
     * [Cryptocurrency Exchanges](content/part-1-blockchain-networks-concepts/crypto-exchanges/cryptocurrency-exchanges/cryptocurrency-exchanges.md)
     * Exercise Hodl Hodl
-      * [Play With Hodl Hodl](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercise-hodl-hodl/play-with-hodl-hodl.md)
+      * [Play With Hodl Hodl](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-hodl-hodl/play-with-hodl-hodl.md)
     * Exercises Bittrex
       * [Trading On Bittrex](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-bittrex/trading-on-bittrex.md)
     * Exercises Exchange Apis
@@ -153,7 +153,7 @@
     * Exercise Casino Dapp
       * [Casino Dapp](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/exercises-casino-dapp/casino-dapp.md)
     * Exercise Document Registry Dapp
-      * [Document Registry Dapp](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/exercise-document-registry-dapp/document-registry-dapp.md)
+      * [Document Registry Dapp](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/exercises-document-registry-dapp/document-registry-dapp.md)
     * Web 3 Api And Metamask
       * [Web 3 Metamask](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/web3-api-and-metamask/web3-metamask.md)
     * [Overview](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/overview.md)
@@ -196,17 +196,17 @@
     * Ethereum Overview
       * [Ethereum Evm Smart Contracts Intro](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/ethereum-overview/ethereum-evm-smart-contracts-intro.md)
     * Exercise Buy Send Erc 20 Tokens
-      * [Erc 20 Tokens](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercise-buy-send-erc20-tokens/erc20-tokens.md)
+      * [Erc 20 Tokens](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-buy-send-erc20-tokens/erc20-tokens.md)
     * Exercise Crowdsale Without Coding
-      * [Crowdsale Wizard Oracles Org](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercise-crowdsale-without-coding/crowdsale-wizard-oracles-org.md)
+      * [Crowdsale Wizard Oracles Org](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-crowdsale-without-coding/crowdsale-wizard-oracles-org.md)
     * Exercise Deploy Smart Contract Mist
-      * [Deploy Smart Contract Using Mist](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercise-deploy-smart-contract-mist/deploy-smart-contract-using-mist.md)
+      * [Deploy Smart Contract Using Mist](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-deploy-smart-contract-mist/deploy-smart-contract-using-mist.md)
     * Exercise Ethereum Mist
-      * [Ethereum Mist](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercise-ethereum-mist/ethereum-mist.md)
+      * [Ethereum Mist](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-ethereum-mist/ethereum-mist.md)
     * Exercise Local Ethereum Network
-      * [Run Local Ethereum Network](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercise-local-ethereum-network/run-local-ethereum-network.md)
+      * [Run Local Ethereum Network](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-local-ethereum-network/run-local-ethereum-network.md)
     * Exercise Sync Ropsten Testnet
-      * [Sync The Ropsten Testnet](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercise-sync-ropsten-testnet/sync-the-ropsten-testnet.md)
+      * [Sync The Ropsten Testnet](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-sync-ropsten-testnet/sync-the-ropsten-testnet.md)
     * [Overview](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/overview.md)
   * Evm Based Dapp Platforms
     * Aeternity Blockchain
