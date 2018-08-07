@@ -1,3 +1,3 @@
-# Scrypt: Reliable Key Derivation
+# Scrypt: Derive Key from Password
 
 ...
