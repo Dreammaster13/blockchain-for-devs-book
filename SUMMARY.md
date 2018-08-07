@@ -1,6 +1,6 @@
 # Summary
 
-* [Practical Blockchain for Developers: The Big Book](README.md)
+* [Welcome](README.md)
 * [Preface](content/preface/preface.md)
   * [Acquired Skills](content/preface/acquired-skills.md)
   * [Training Curriculum](content/preface/training-curriculum.md)
