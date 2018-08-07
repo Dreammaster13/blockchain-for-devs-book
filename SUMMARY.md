@@ -7,10 +7,8 @@
   * [License](LICENSE.md)
 * [Part I: Blockchain Networks Concepts](content/part-1-blockchain-networks-concepts/overview.md)
   * [Blockchain Technologies Introduction](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/overview.md)
-    * Blockhain Dev Book Welcome
-      * [Welcome](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/blockhain-dev-book-welcome/welcome.md)
-    * Blockchain Technologies Overview
-      * [Blockchain Technologies Introduction](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/blockchain-technologies-overview/blockchain-technologies-introduction.md)
+    * [Blockhain Dev Book Welcome](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/blockhain-dev-book-welcome/welcome.md)
+    * [Blockchain Technologies Overview](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/blockchain-technologies-overview/blockchain-technologies-introduction.md)
     * Exercises Playing With Crypto Wallets
       * [Play With MyEtherWallet](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/exercises-playing-with-crypto-wallets/play-with-myetherwallet.md)
     * Blockchain Concepts
