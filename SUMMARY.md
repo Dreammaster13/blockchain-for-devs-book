@@ -6,7 +6,7 @@
   * [Training Curriculum](content/preface/training-curriculum.md)
   * [License](LICENSE.md)
 * [Part I: Blockchain Networks Concepts](content/part-1-blockchain-networks-concepts/overview.md)
-  * [Blockchain Technologies Introduction](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction.md)
+  * [Blockchain Technologies Introduction](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/overview.md)
     * Blockhain Dev Book Welcome
       * [Welcome](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/blockhain-dev-book-welcome/welcome.md)
     * Blockchain Technologies Overview
@@ -17,8 +17,7 @@
       * [Blockchain Networks Concepts](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/blockchain-concepts/blockchain-networks-concepts.md)
     * Exercises Build Your Own Blockchain
       * [Building A Blockchain](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/exercises-build-your-own-blockchain/building-a-blockchain.md)
-    * [Overview](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/overview.md)
-  * [Blockchain Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography.md)
+  * [Blockchain Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/overview.md)
     * Blockchain Cryptography Overview
       * [Blockchain Cryptography Intro](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography-intro.md)
       * [Hash Functions Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hash-functions-examples.md)
@@ -134,7 +133,7 @@
     * Exercises Zcash Testnet
       * [Zcash Anonymous Transactions](content/part-1-blockchain-networks-concepts/anonymous-transactions/exercises-zcash-testnet/zcash-anonymous-transactions.md)
     * [Overview](content/part-1-blockchain-networks-concepts/anonymous-transactions/overview.md)
-  * [Peer To Peer Networks](content/part-1-blockchain-networks-concepts/peer-to-peer-networks.md)
+  * [Peer-To-Peer Networks](content/part-1-blockchain-networks-concepts/peer-to-peer-networks.md)
     * Exercises Libp 2 P
       * [Building P 2 P Network With Libp 2 P](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/exercises-libp2p/building-p2p-network-with-libp2p.md)
         * Peer To Peer Networks Concepts
