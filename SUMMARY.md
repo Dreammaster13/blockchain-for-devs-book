@@ -40,6 +40,7 @@
     * [Exercises: Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/exercises-blockchain-cryptography/playing-with-cryptography.md)
     * [Blockchain Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography.md)
       * [Elliptic Curve Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/elliptic-curve-cryptography.md)
+        * [Elliptic Curves - Concepts](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/elliptic-curve-cryptography/elliptic-curves-concepts.md)
     * Popular Crypto Libraries
       * [Popular Cryptographic Libraries](content/part-1-blockchain-networks-concepts/blockchain-cryptography/popular-crypto-libraries/popular-cryptographic-libraries.md)
     * Exercises Private Key To Address
