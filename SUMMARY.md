@@ -44,6 +44,7 @@
         * [Public Key Compression](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/elliptic-curve-cryptography/public-key-compression.md)
         * [ECC Parameters and secp256k1](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/elliptic-curve-cryptography/ecc-parameters-and-secp256k1.md)
         * [Digital Signatures and ECDSA](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/elliptic-curve-cryptography/digital-signatures-and-ecdsa.md)
+      * [Ethereum Adresses](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/ethereum-adresses.md)
     * Popular Crypto Libraries
       * [Popular Cryptographic Libraries](content/part-1-blockchain-networks-concepts/blockchain-cryptography/popular-crypto-libraries/popular-cryptographic-libraries.md)
     * Exercises Private Key To Address
