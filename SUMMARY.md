@@ -24,6 +24,7 @@
         * [Scrypt](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/deriving-key-from-password/scrypt.md)
         * [BCrypt](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/deriving-key-from-password/bcrypt.md)
       * [Symmetric and Asymmetric Encryption](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/symmetric-and-asymmetric-encryption.md)
+        * [AES Cipher](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/symmetric-and-asymmetric-encryption/aes-cipher.md)
     * Exercises Blockchain Cryptography
       * [Playing With Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/exercises-blockchain-cryptography/playing-with-cryptography.md)
     * Exercises Private Key To Address
