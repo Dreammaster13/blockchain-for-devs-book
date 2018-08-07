@@ -50,6 +50,12 @@
         * [Sign Message in Ethereum – Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/ethereum-cryptography/sign-message-in-ethereum-examples.md)
         * [Verify Message in Ethereum – Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/ethereum-cryptography/verify-message-in-ethereum-examples.md)
       * [EdDSA and Ed25519](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/eddsa-and-ed25519.md)
+        * [Sign / Verify Message with Ed25519](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/eddsa-and-ed25519/sign-verify-message-with-ed25519.md)
+      * [Wallets, Keys, Signatures](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/wallets-keys-signatures.md)
+        * [From Wallet to Ethereum Address](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/wallets-keys-signatures/from-wallet-to-ethereum-address.md)
+        * [From Wallet to Bitcoin Address](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/wallets-keys-signatures/from-wallet-to-bitcoin-address.md)
+        * [Generate Bitcoin Address - Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/wallets-keys-signatures/generate-bitcoin-address-examples.md)
+      * [Merkle Trees](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/merkle-trees.md)
     * Popular Crypto Libraries
       * [Popular Cryptographic Libraries](content/part-1-blockchain-networks-concepts/blockchain-cryptography/popular-crypto-libraries/popular-cryptographic-libraries.md)
     * Exercises Private Key To Address
