@@ -14,7 +14,7 @@
     * [Exercises: Build Your Own Blockchain](content/part-1-blockchain-networks-concepts/blockchain-technologies-introduction/exercises-build-your-own-blockchain/building-a-blockchain.md)
   * [Blockchain Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/overview.md)
     * [Cryptography Overview](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography-intro.md)
-      * [What Is Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/what-is-cryptography.md)
+      * [What Is Cryptography?](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/what-is-cryptography.md)
       * [Hash Functions](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hash-functions.md)
       * [Hash Functions Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hash-functions-examples.md)
       * [Hmac And Key Derivation](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hmac-and-key-derivation.md)
