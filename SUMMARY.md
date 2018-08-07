@@ -38,6 +38,8 @@
         * [Random Numbers - Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/random-number-generators/random-numbers-examples.md)
         * [Entropy and HD Wallets](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/random-number-generators/entropy-and-hd-wallets.md)
     * [Exercises: Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/exercises-blockchain-cryptography/playing-with-cryptography.md)
+      * [Calculate Hashes](content/part-1-blockchain-networks-concepts/blockchain-cryptography/exercises-blockchain-cryptography/playing-with-cryptography/calculate-hashes.md)
+      * [Calculate HMAC](content/part-1-blockchain-networks-concepts/blockchain-cryptography/exercises-blockchain-cryptography/playing-with-cryptography/calculate-hmac.md)
     * [Blockchain Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography.md)
       * [Elliptic Curve Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/elliptic-curve-cryptography.md)
         * [Elliptic Curves - Concepts](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/elliptic-curve-cryptography/elliptic-curves-concepts.md)
@@ -56,6 +58,9 @@
         * [From Wallet to Bitcoin Address](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/wallets-keys-signatures/from-wallet-to-bitcoin-address.md)
         * [Generate Bitcoin Address - Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/wallets-keys-signatures/generate-bitcoin-address-examples.md)
       * [Merkle Trees](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/merkle-trees.md)
+      * [Quantum-Safe Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/blockchain-cryptography/quantum-safe-cryptography.md)
+    * [Exercises: Blockchain Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/exercises-blockchain-cryptography.md)
+      * [Create Ethereum Signature](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/exercises-blockchain-cryptography/create-ethereum-signature.md)
     * Popular Crypto Libraries
       * [Popular Cryptographic Libraries](content/part-1-blockchain-networks-concepts/blockchain-cryptography/popular-crypto-libraries/popular-cryptographic-libraries.md)
     * Exercises Private Key To Address
@@ -66,9 +71,6 @@
       * [Sign Verify Csharp](content/part-1-blockchain-networks-concepts/blockchain-cryptography/exercises-sign-verify-transaction-csharp/sign-verify-csharp.md)
     * Exercises Sign Verify Transaction Java
       * [Sign Verify Java](content/part-1-blockchain-networks-concepts/blockchain-cryptography/exercises-sign-verify-transaction-java/sign-verify-java.md)
-    * Exercises Sign Verify Transaction Javascript
-      * [Sign Verify Javascript](content/part-1-blockchain-networks-concepts/blockchain-cryptography/exercises-sign-verify-transaction-javascript/sign-verify-javascript.md)
-    * Blockchain Cryptography
   * [Consensus Algorithms](content/part-1-blockchain-networks-concepts/consensus-algorithms/overview.md)
     * Decentralization And Consensus Algorithms
       * [Consensus Algorithms Overview](content/part-1-blockchain-networks-concepts/consensus-algorithms/decentralization-and-consensus-algorithms/consensus-algorithms-overview.md)
