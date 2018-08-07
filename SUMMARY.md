@@ -19,6 +19,7 @@
       * [Hash Functions - Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hash-functions-examples.md)
       * [HMAC and Key Derivation](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hmac-and-key-derivation.md)
       * [HMAC Calculation - Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hmac-calculation-examples.md)
+      * [Deriving Key from Password](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/deriving-key-from-password.md)
     * Exercises Blockchain Cryptography
       * [Playing With Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/exercises-blockchain-cryptography/playing-with-cryptography.md)
     * Exercises Private Key To Address
