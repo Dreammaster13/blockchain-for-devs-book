@@ -155,8 +155,8 @@
       * [Solidity First Steps](content/part-2-dapps-ethereum-and-solidity/solidity-basics/exercises-first-steps-in-solidity/solidity-first-steps.md)
       * Solidity Basics And Simple Smart Conracts
         * [Solidity Basics](content/part-2-dapps-ethereum-and-solidity/solidity-basics/solidity-basics-and-simple-smart-conracts/solidity-basics.md)
-  * [Solidity Advanced](content/part-2-dapps-ethereum-and-solidity/solidity-advanced.md)
-    * Exercises Build Erc 20 Token Contract
+  * [Solidity Advanced](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/overview.md)
+    * [Exercises Build Erc 20 Token Contract](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/overview/exercises-build-erc-20-token-contract.md)
       * [Erc 20](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/exercises-build-erc20-token-contract/erc20.md)
     * Exercises Build Erc 721 Token Contract
       * [Erc 721](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/exercises-build-erc721-token-contract/erc721.md)
@@ -164,9 +164,7 @@
       * [Writing Advanced Solidity Contracts](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/exercises-solidity-advanced/writing-advanced-solidity-contracts.md)
     * Solidity Advanced Smart Contracts
       * [Solidity Advanced](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/solidity-advanced-smart-contracts/solidity-advanced.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/overview.md)
-  * [Ganache and Truffle](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/overview.md)
+  * [Ganache and Truffle](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/overview.md)
     * Ganache And Truffle Framework
       * [Ganache And Truffle](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/ganache-and-truffle.md)
     * Exercises Advanced Smart Contract Unit Testing
@@ -179,31 +177,28 @@
       * [Truffle Deploy Invoke Contract](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-smart-contracts-with-truffle/truffle-deploy-invoke-contract.md)
     * Exercises Unit Testing Smart Contracts
       * [Smart Contract Unit Testing](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-unit-testing-smart-contracts/smart-contract-unit-testing.md)
-  * [DApp Architectures](content/part-2-dapps-ethereum-and-solidity/dapp-architectures.md)
+  * [DApp Architectures](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/overview.md)
     * Architectures For Dapps
       * [Dapp Architectures](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/architectures-for-dapps/dapp-architectures.md)
     * Exercises Client Side Wallets
       * [Client Side Ethereum Wallets](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/exercises-client-side-wallets/client-side-ethereum-wallets.md)
     * Exercises Voting App Client Side Wallet
       * [Voting Dapp Client Side Wallet](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/exercises-voting-app-client-side-wallet/voting-dapp-client-side-wallet.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/overview.md)
-  * [Client-Side Web3 and MetaMask](content/part-2-dapps-ethereum-and-solidity/client-side-web-3-and-metamask.md)
-    * Exercise Casino Dapp
+  * [Client-Side Web3 and MetaMask](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/overview.md)
+    * [Exercise Casino Dapp](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/overview/exercise-casino-dapp.md)
       * [Casino Dapp](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/exercises-casino-dapp/casino-dapp.md)
     * Exercise Document Registry Dapp
       * [Document Registry Dapp](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/exercises-document-registry-dapp/document-registry-dapp.md)
     * Web 3 Api And Metamask
       * [Web 3 Metamask](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/web3-api-and-metamask/web3-metamask.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/overview.md)
-  * [Decentralized Storage](content/part-2-dapps-ethereum-and-solidity/decentralized-storage.md)
-    * Decentralized Storage And Ipfs
+  * [Decentralized Storage](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/overview.md)
+    * [Decentralized Storage and IPFS](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/decentralized-storage-and-ipfs.md)
       * [Ipfs](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/decentralized-storage-and-ipfs/ipfs.md)
-    * Exercises Ipfs Command Line
+    * [Exercises: IPFS Command Line](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/exercises-ipfs-command-line.md)
       * [Ipfs Command Line](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/exercises-ipfs-command-line/ipfs-command-line.md)
-    * Exercises Ipfs Js Api
+    * Exercises: IPFS JavaScript API
       * [Accessing Ipfs From Javascript](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/exercises-ipfs-js-api/accessing-ipfs-from-javascript.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/overview.md)
-  * Server-Side Ethereum APIs
+  * [Server-Side Ethereum APIs](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/overview.md)
     * Exercises Ethers Js
       * [Using Ethers Js](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-ethers-js/using-ethers-js.md)
     * Exercises Nethereum
@@ -218,9 +213,7 @@
       * [Using Web 3 Javascript](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercuses-web3js/using-web3-javascript.md)
     * Server Side Ethereum Libraries
       * [Ethereum Server Side Apis](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/server-side-ethereum-libraries/ethereum-server-side-apis.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/overview.md)
-  * [Practical Project: DApp](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/overview.md)
+  * [Practical Project: DApp](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/overview.md)
     * [DApp: Project Requirements](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/dapp-project-requirements/dapp-project-requirements.md)
     * Building The Dapp User Interface
       * [Dapp Front End](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/building-the-dapp-user-interface/dapp-front-end.md)
@@ -230,9 +223,8 @@
       * [Dapp Extra Functionality](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/implementing-extra-functionality/dapp-extra-functionality.md)
     * Implementing The Smart Contracts
       * [Dapp Smart Contracts](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/implementing-the-smart-contracts/dapp-smart-contracts.md)
-  * EVM Based DApp Platforms
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/overview.md)
-    * Evm Based Blockchains
+  * [EVM-Based DApp Platforms](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/overview.md)
+    * [EVM-Based Blockchains](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/overview/evm-based-blockchains.md)
       * [Evm Based Smart Contract Platforms](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/evm-based-blockchains/evm-based-smart-contract-platforms.md)
     * Aeternity Blockchain
       * [Aeternity](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/aeternity-blockchain/aeternity.md)
@@ -254,7 +246,6 @@
       * [Quorum](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/quorum-blockchain/quorum.md)
     * Rsk Sidechain
       * [Rsk](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/rsk-sidechain/rsk.md)
-    * [Overview](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/overview.md)
 * [Part III: More Blockchain Technologies](content/part-3-more-blockchain-technologies/overview.md)
   * [Bitcoin Blockchain](content/part-3-more-blockchain-technologies/bitcoin-blockchain.md)
     * [Bitcoin Technical Intro](content/part-3-more-blockchain-technologies/bitcoin-blockchain/bitcoin-technical-intro.md)
