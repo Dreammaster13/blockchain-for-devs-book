@@ -1,3 +1,3 @@
-# Ethereum Addresses and secp256k1
+# Ethereum Cryptography, Keys, Addresses and secp256k1
 
 ...
