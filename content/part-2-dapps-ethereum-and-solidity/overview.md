@@ -1,3 +1,3 @@
-# DApps, Ethereum and Solidity
+# Part II. DApps, Ethereum and Solidity
 
 ...

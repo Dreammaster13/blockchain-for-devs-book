@@ -1,3 +1,3 @@
-# Popular Blockchain and Smart Contract Technologies
+# Part III. More Blockchain and Smart Contract Technologies
 
 ...

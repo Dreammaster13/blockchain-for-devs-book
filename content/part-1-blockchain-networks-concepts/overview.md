@@ -1,3 +1,3 @@
-# Blockchain Networks: Fundamental Concepts
+# Part I. Blockchain Networks: Fundamental Concepts
 
 ...
