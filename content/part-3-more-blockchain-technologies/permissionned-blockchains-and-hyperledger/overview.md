@@ -1,3 +1,3 @@
-# Permissioned Blockchains and Hyperledger Fabric
+# Hyperledger Fabric and Permissioned Blockchains
 
 ...

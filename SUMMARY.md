@@ -247,19 +247,12 @@
     * Rsk Sidechain
       * [Rsk](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/rsk-sidechain/rsk.md)
 * [Part III: More Blockchain Technologies](content/part-3-more-blockchain-technologies/overview.md)
-  * [Bitcoin Blockchain](content/part-3-more-blockchain-technologies/bitcoin-blockchain.md)
-    * [Bitcoin Technical Intro](content/part-3-more-blockchain-technologies/bitcoin-blockchain/bitcoin-technical-intro.md)
-  * [Nem Blockchain](content/part-3-more-blockchain-technologies/nem-blockchain.md)
-    * [Nem Technical Intro](content/part-3-more-blockchain-technologies/nem-blockchain/nem-technical-intro.md)
-  * Neo Blockchain
-    * [Neo Technical Intro](content/part-3-more-blockchain-technologies/neo-blockchain/neo-technical-intro.md)
-  * EOS Blockchain
-    * [Eos Technical Intro](content/part-3-more-blockchain-technologies/eos-blockchain/eos-technical-intro.md)
-  * Hyperledger
-    * [Hyperledger Technical Intro](content/part-3-more-blockchain-technologies/permissionned-blockchains-and-hyperledger/hyperledger-technical-intro.md)
-  * [Blockchain-as-a-Service](content/part-3-more-blockchain-technologies/blockchaina-as-a-service.md)
-    * [Blockchain As A Service Baas](content/part-3-more-blockchain-technologies/blockchain-as-a-service/blockchain-as-a-service-baas.md)
-  * Forking a Blockchain Network
-    * [Forking A Blockchain](content/part-3-more-blockchain-technologies/forking-a-blockchain-network/forking-a-blockchain.md)
+  * [Bitcoin Blockchain](content/part-3-more-blockchain-technologies/bitcoin-blockchain/overview.md)
+  * [NEM Blockchain](content/part-3-more-blockchain-technologies/nem-blockchain/overview.md)
+  * [NEO Blockchain](content/part-3-more-blockchain-technologies/neo-blockchain/overview.md)
+  * [EOS Blockchain](content/part-3-more-blockchain-technologies/eos-blockchain/overview.md)
+  * [Hyperledger](content/part-3-more-blockchain-technologies/permissionned-blockchains-and-hyperledger/overview.md)
+  * [Blockchain-as-a-Service](content/part-3-more-blockchain-technologies/blockchain-as-a-service/overview.md)
+  * [Forking a Blockchain Network](content/part-3-more-blockchain-technologies/forking-a-blockchain-network/overview.md)
 * [Conclusion](content/conclusion/conslusion.md)
 
