@@ -1,5 +1,9 @@
 {
-    "plugins": ["ga", "meta", "collapsible-menu"],
+    "plugins": [
+        "ga",
+        "meta",
+        "expandable-chapters-small"
+    ],
     "pluginsConfig": {
         "ga": {
             "token": "UA-11309924-25"
