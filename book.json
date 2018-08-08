@@ -1,5 +1,5 @@
 {
-    "plugins": ["ga", "meta"],
+    "plugins": ["ga", "meta", "collapsible-menu"],
     "pluginsConfig": {
         "ga": {
             "token": "UA-11309924-25"
