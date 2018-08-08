@@ -8,9 +8,9 @@ If the hash function is not broken[^1], it's not possible to predict how you nee
 
 To make this a bit more concrete, let's take Bitcoin for example. Miners there do the following:
 
-    1. Collect transactions from the network and build a block.
-    2. Pick a starting nonce.[^2]
-    3. Iterate until ```SHA256(SHA256(block_header))``` meets the network difficulty requirements.[^3]
+1. Collect transactions from the network and build a block.
+2. Pick a starting nonce.[^2]
+3. Iterate until ```SHA256(SHA256(block_header))``` meets the network difficulty requirements.[^3]
     
 The network difficulty changes over time, so that new blocks are created roughly every 10 minutes, no matter how many miners are there - if more join, the difficulty increases; if they leave, it decreases.
 

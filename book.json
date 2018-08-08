@@ -3,7 +3,8 @@
         "ga",
         "meta",
         "anchors",
-        "expandable-chapters-small"
+        "expandable-chapters-small",
+        "katex"
     ],
     "pluginsConfig": {
         "ga": {
