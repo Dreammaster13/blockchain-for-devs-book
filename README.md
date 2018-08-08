@@ -11,3 +11,7 @@ This projects intends to develop and publish and **open-source book for blockcha
 ISBN: **978-619-00-0802-6**
 
 Book preview: [https://books.google.bg/books?id=M71lDwAAQBAJ](https://books.google.bg/books?id=M71lDwAAQBAJ)
+
+{% for article in glossary.terms['gitbook'].articles %}
+* [{{ article.title }}]({{ article.path }})
+{% endfor %}
