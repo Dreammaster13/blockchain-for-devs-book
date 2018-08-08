@@ -96,6 +96,7 @@
   * [1.4. Mining and Mining Pools](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/overview.md)
     * [What Is Mining?](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/what-is-mining.md)
     * [How Does Mining Work?](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/how-does-mining-work.md)
+    * [Mining Rewards and Mining Difficulty](/content/part-1-blockchain-networks-concepts/mining-and-mining-pools/mining-rewards-and-difficulty.md)
     * [Exercises Mine Ethereum Siacoin](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-mine-ethereum-siacoin.md)
       * [Mine Ethereum And Siacoin](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-mine-ethereum-siacoin/mine-ethereum-and-siacoin.md)
     * [Exercises Mine Monero Js](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-mine-monero-js.md)
