@@ -1,0 +1,3 @@
+# What is mining?
+
+As we covered in the previous chapter, [Consensus Algorithms](/content/part-1-blockchain-networks-concepts/consensus-algorithms/overview.md), mining is one possible way to protect the network against [Sybil attacks](https://en.wikipedia.org/wiki/Sybil_attack), by letting the network participants "vote" in proportion to their computational power - thus making it expensive to gain network majority by creating "fake accounts".

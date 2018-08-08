@@ -94,13 +94,15 @@
     * Exercises Implement Proof Of Stake Consensus
       * [Implement Proof Of Stake In Javascript](content/part-1-blockchain-networks-concepts/consensus-algorithms/exercises-implement-proof-of-stake-consensus/implement-proof-of-stake-in-javascript.md)
   * [1.4. Mining and Mining Pools](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/overview.md)
+    * [What Is Mining?](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/what-is-mining.md)
+    * [How Does Mining Work?](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/how-does-mining-work.md)
     * [Exercises Mine Ethereum Siacoin](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-mine-ethereum-siacoin.md)
       * [Mine Ethereum And Siacoin](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-mine-ethereum-siacoin/mine-ethereum-and-siacoin.md)
     * [Exercises Mine Monero Js](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-mine-monero-js.md)
       * [Mine Monero In The Browser](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-mine-monero-js/mine-monero-in-the-browser.md)
     * [Exercises Simple Pow Mining Js](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-simple-pow-mining-js.md)
       * [Implement Simple Proof Of Work Miner](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-simple-pow-mining-js/implement-simple-proof-of-work-miner.md)
-    * Exercises What To Mine
+    * [Exercises What To Mine](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-what-to-mine.md)
       * [Research What To Mine](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-what-to-mine/research-what-to-mine.md)
     * [Mining Process And Mining Pools](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/mining-process-and-mining-pools.md)
       * [Mining And Pools](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/mining-process-and-mining-pools/mining-and-pools.md)
