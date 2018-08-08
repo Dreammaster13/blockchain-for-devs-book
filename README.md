@@ -4,12 +4,10 @@
 
 **Authors**: Svetlin Nakov and SoftUni Team
 
-Lead author and content developer: D-r Svetlin Nakov, PhD
-
-This projects intends to develop and publish and **open-source book for blockchain developers**.
+This projects is work in progress and intends to develop and publish an **open-source book for blockchain developers**.
 
 ISBN: **978-619-00-0802-6**
 
-Book preview: [https://books.google.bg/books?id=M71lDwAAQBAJ](https://books.google.bg/books?id=M71lDwAAQBAJ)
-
 {% include "SUMMARY.md" %}
+
+Book preview: [https://books.google.bg/books?id=M71lDwAAQBAJ](https://books.google.bg/books?id=M71lDwAAQBAJ)
