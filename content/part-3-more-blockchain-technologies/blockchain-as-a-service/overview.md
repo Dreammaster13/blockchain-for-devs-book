@@ -1,3 +1,3 @@
-# Blockchain-as-a-Service: Blockchain on Azure, Amazon AWS and IBM Cloud
+# Chapter 3.6. Blockchain-as-a-Service: Blockchain on Azure, Amazon AWS and IBM Cloud
 
 ...

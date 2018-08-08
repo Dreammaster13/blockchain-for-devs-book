@@ -1,3 +1,3 @@
-# Hyperledger Fabric and Permissioned Blockchains
+# Chapter 3.2. Hyperledger Fabric and Permissioned Blockchains
 
 ...

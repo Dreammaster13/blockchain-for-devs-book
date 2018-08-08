@@ -1,3 +1,3 @@
-# Bitcoin: Technical Introduction
+# Chapter 3.1. Bitcoin: Technical Introduction
 
 ...

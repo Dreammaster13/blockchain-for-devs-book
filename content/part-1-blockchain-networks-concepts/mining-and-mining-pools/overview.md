@@ -1,3 +1,3 @@
-# Mining and Mining Pools
+# Chapter 1.4. Mining and Mining Pools
 
 ...

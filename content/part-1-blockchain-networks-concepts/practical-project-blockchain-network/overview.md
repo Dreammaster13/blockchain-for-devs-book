@@ -1,3 +1,3 @@
-# Practical Project: Building a Blockchain Network (Node, Chain, Transactions, Wallet, Faucet, Miner, API, Block Explorer)
+# Chapter 1.6. Practical Project: Building a Blockchain Network (Node, Chain, Transactions, Wallet, Faucet, Miner, API, Block Explorer)
 
 ...

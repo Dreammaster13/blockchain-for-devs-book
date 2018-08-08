@@ -1,3 +1,3 @@
-# Introduction to Consensus Algorithms
+# Chapter 1.3. Introduction to Consensus Algorithms
 
 ...

@@ -1,3 +1,3 @@
-# NEM Blockchain: Technical Introduction
+# Chapter 3.4. NEM Blockchain: Technical Introduction
 
 ...

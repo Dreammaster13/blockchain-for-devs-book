@@ -1,3 +1,3 @@
-# Forking a Blockchain Network: Build Own Custom Blockchain
+# Chapter 3.7. Forking a Blockchain Network: Build Own Custom Blockchain
 
 ...

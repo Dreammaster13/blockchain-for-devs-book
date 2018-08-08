@@ -1,3 +1,3 @@
-# Introduction to Blockchain Technologies
+# Chapter 1.1. Introduction to Blockchain Technologies
 
 ...
