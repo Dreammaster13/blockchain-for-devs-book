@@ -1,3 +1,3 @@
-# Exercise: Sign / Verify Blockchain Transactions in C#
+# Exercise: Sign / Verify Blockchain Transactions in C# and .NET Core
 
 ...
