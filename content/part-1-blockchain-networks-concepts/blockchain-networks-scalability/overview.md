@@ -1,3 +1,3 @@
-# Scalability of Blockchain Networks: Sharding, Sidechains, Offchain Transactions, Payment Channels, State Channels
+# Chapter 1.8. Scalability of Blockchain Networks: Sharding, Sidechains, Offchain Transactions, Payment Channels, State Channels
 
 ...

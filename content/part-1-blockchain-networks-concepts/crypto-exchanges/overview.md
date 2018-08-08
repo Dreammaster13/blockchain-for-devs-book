@@ -1,3 +1,3 @@
-# Crypto Trading and Exchanges - Overview
+# Chapter 1.7. Crypto Trading and Exchanges - Overview
 
 ...

@@ -1,3 +1,3 @@
-# Wallets, Transactions and APIs
+# Chapter 1.5. Wallets, Transactions and APIs
 
 ...

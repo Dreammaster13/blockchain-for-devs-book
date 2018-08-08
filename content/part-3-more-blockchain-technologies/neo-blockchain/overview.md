@@ -1,3 +1,3 @@
-# NEO Blockchain: Technical Introduction
+# Chapter 3.5. NEO Blockchain: Technical Introduction
 
 ...
