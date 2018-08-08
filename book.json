@@ -2,6 +2,7 @@
     "plugins": [
         "ga",
         "meta",
+        "anchors",
         "expandable-chapters-small"
     ],
     "pluginsConfig": {
