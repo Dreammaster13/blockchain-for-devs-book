@@ -12,6 +12,4 @@ ISBN: **978-619-00-0802-6**
 
 Book preview: [https://books.google.bg/books?id=M71lDwAAQBAJ](https://books.google.bg/books?id=M71lDwAAQBAJ)
 
-{% for article in glossary.terms['gitbook'].articles %}
-* [{{ article.title }}]({{ article.path }})
-{% endfor %}
+{% include "SUMMARY.md" %}
