@@ -1,0 +1,3 @@
+# Exercises: Mine Monero in Pool
+
+...
