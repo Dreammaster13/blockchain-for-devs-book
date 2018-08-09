@@ -1,0 +1,3 @@
+# Exercises: Create Bitcoin Wallet in C# and NBitcoin and QBitNinja
+
+...
