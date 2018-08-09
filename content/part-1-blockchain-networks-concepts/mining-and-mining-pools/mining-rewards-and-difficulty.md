@@ -12,7 +12,9 @@ The transaction fees are the difference between the sum of the inputs and the su
 # Mining difficulty
 
 In order to keep the block time relatively constant (e.g. 10 minutes in Bitcoin), even when the total hash rate of the miners in the network fluctuates, the requirements for which block hashes are considered "acceptable" can change dynamically. In Bitcoin, every 2016 blocks the timestamps of the blocks are evaluated, and if they're less than 10 minutes apart (on average), the difficulty will increase; the hashes will be required to have a smaller numeric value than what was required before. Conversely, if they are more than 10 minutes apart, the difficulty will be decreased - the "limit" will be moved up, so that more possible hashes are acceptable. Here's a graph of Bitcoin's mining difficulty over time:
+
 ![](/content/part-1-blockchain-networks-concepts/mining-and-mining-pools/difficulty.png)
+
 Something interesting to note is that there's a correlation between Bitcoin's price and mining difficulty; as Bitcoin increases in value, more miners are attracted to it, thus increasing its security (a network with more hash rate is harder to attack).
 
 In the next chapter, we will talk about [mining pools](/content/part-1-blockchain-networks-concepts/mining-and-mining-pools/mining-pools.md).
