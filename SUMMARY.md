@@ -152,37 +152,24 @@
     * [Exercises: Crowdsale without Coding](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-crowdsale-without-coding/crowdsale-wizard-oracles-org.md)
     * [Exercises: Sync the Ropsten Testnet](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-sync-ropsten-testnet/sync-the-ropsten-testnet.md)
   * [2.2. Solidity Basics](content/part-2-dapps-ethereum-and-solidity/solidity-basics/overview.md)
-    * [Solidity Basics: Simple Smart Contracts](content/part-2-dapps-ethereum-and-solidity/solidity-basics/solidity-basics-and-simple-smart-conracts/solidity-basics.md)
+    * [Solidity Basics: Simple Contracts](content/part-2-dapps-ethereum-and-solidity/solidity-basics/solidity-basics-and-simple-smart-conracts/solidity-basics.md)
     * [Exercises: First Steps in Solidity](content/part-2-dapps-ethereum-and-solidity/solidity-basics/exercises-first-steps-in-solidity/solidity-first-steps.md)
   * [2.3. Solidity Advanced](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/overview.md)
-    * [Exercises Build Erc 20 Token Contract](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/overview/exercises-build-erc-20-token-contract.md)
-      * [Erc 20](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/exercises-build-erc20-token-contract/erc20.md)
-    * Exercises Build Erc 721 Token Contract
-      * [Erc 721](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/exercises-build-erc721-token-contract/erc721.md)
-    * Exercises Solidity Advanced
-      * [Writing Advanced Solidity Contracts](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/exercises-solidity-advanced/writing-advanced-solidity-contracts.md)
-    * Solidity Advanced Smart Contracts
-      * [Solidity Advanced](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/solidity-advanced-smart-contracts/solidity-advanced.md)
+    * [Solidity Advanced Smart Contracts](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/solidity-advanced-smart-contracts/solidity-advanced.md)
+    * [Exercises: Advanced Solidity Contracts](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/exercises-solidity-advanced/writing-advanced-solidity-contracts.md)
+    * [Exercises: ERC20 Token Contract](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/exercises-build-erc20-token-contract/erc20.md)
+    * [Exercises: ERC721 Token](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/exercises-build-erc721-token-contract/erc721.md)
   * [2.4. Ganache and Truffle](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/overview.md)
-    * Ganache And Truffle Framework
-      * [Ganache And Truffle](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/ganache-and-truffle.md)
-    * Exercises Advanced Smart Contract Unit Testing
-      * [Advanced Smart Contract Unit Testing](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-advanced-smart-contract-unit-testing/advanced-smart-contract-unit-testing.md)
-    * Exercises Deploy Smart Contract Ganache
-      * [Deploy Smart Contract Ganache](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-deploy-smart-contract-ganache/deploy-smart-contract-ganache.md)
-    * Exercises Install Ganache And Truffle
-      * [Install Ganache Truffle](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-install-ganache-and-truffle/install-ganache-truffle.md)
-    * Exercises Smart Contracts With Truffle
-      * [Truffle Deploy Invoke Contract](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-smart-contracts-with-truffle/truffle-deploy-invoke-contract.md)
-    * Exercises Unit Testing Smart Contracts
-      * [Smart Contract Unit Testing](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-unit-testing-smart-contracts/smart-contract-unit-testing.md)
+    * [Ganache and Truffle Framework](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/ganache-and-truffle.md)
+    * [Exercises: Install Ganache and Truffle](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-install-ganache-and-truffle/install-ganache-truffle.md)
+    * [Exercises: Run Smart Contract in Ganache](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-deploy-smart-contract-ganache/deploy-smart-contract-ganache.md)
+    * [Exercises: Truffle Framework](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-smart-contracts-with-truffle/truffle-deploy-invoke-contract.md)
+    * [Exercises: Unit Testing Smart Contract](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-unit-testing-smart-contracts/smart-contract-unit-testing.md)
+    * [Exercises: Advanced Unit Testing](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-advanced-smart-contract-unit-testing/advanced-smart-contract-unit-testing.md)
   * [2.5. DApp Architectures](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/overview.md)
-    * Architectures For Dapps
-      * [Dapp Architectures](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/architectures-for-dapps/dapp-architectures.md)
-    * Exercises Client Side Wallets
-      * [Client Side Ethereum Wallets](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/exercises-client-side-wallets/client-side-ethereum-wallets.md)
-    * Exercises Voting App Client Side Wallet
-      * [Voting Dapp Client Side Wallet](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/exercises-voting-app-client-side-wallet/voting-dapp-client-side-wallet.md)
+    * [DApps Architectures](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/architectures-for-dapps/dapp-architectures.md)
+    * [Exercises: Client-Side Ethereum Wallets](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/exercises-client-side-wallets/client-side-ethereum-wallets.md)
+    * [Exercises: Voting DApp](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/exercises-voting-app-client-side-wallet/voting-dapp-client-side-wallet.md)
   * [2.6. Client-Side Web3 and MetaMask](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/overview.md)
     * [Exercise Casino Dapp](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/overview/exercise-casino-dapp.md)
       * [Casino Dapp](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/exercises-casino-dapp/casino-dapp.md)

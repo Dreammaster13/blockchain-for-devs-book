@@ -1,3 +1,3 @@
-# Exercises: Deploy a Solidity Smart Contract in Ganache
+# Exercises: Deploy and Run a Solidity Smart Contract in Ganache
 
 ...

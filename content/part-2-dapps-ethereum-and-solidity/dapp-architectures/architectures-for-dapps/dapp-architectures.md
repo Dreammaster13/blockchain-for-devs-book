@@ -1,3 +1,3 @@
-# DApps Architectures
+# DApps: Architectures, Components, Wallets, Client-Side and Server-Side Interaction with the Blockchain
 
 ...

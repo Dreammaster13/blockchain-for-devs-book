@@ -1,3 +1,3 @@
-# Advanced Solidity Programming
+# Advanced Solidity and Smart Contract Programming
 
 ...

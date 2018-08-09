@@ -1,3 +1,3 @@
-# Exercises: Using a Client-Side Wallet for Ethereum
+# Exercises: Using a Client-Side Ethereum Wallet  in the Web Browser
 
 ...

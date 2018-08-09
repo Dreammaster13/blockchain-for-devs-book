@@ -1,3 +1,3 @@
-# Chapter 2.3. Advanced Solidity and Smart Contract Programming
+# Chapter 2.3. Advanced Solidity and Smart Contract Programming - Overview
 
 ...

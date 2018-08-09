@@ -1,3 +1,3 @@
-# Chapter 2.5. DApp Architectures
+# Chapter 2.5. DApp Architectures - Overview
 
 ...
