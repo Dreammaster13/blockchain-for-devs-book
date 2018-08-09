@@ -1,3 +1,3 @@
-# Consensus Algortihms: Proof-of-Work, Proof-of-Stake, Others
+# Consensus Algorithms: Proof-of-Work, Proof-of-Stake, Others
 
 ...

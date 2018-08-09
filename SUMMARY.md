@@ -87,12 +87,9 @@
       * [Sign / Verify Transactions in C\#](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/exercises-sign-verify-transactions/sign-verify-transactions-in-csharp.md)
       * [Sign / Verify Transactions in Java](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/exercises-sign-verify-transactions/sign-verify-transactions-in-java.md)
   * [1.3. Consensus Algorithms](content/part-1-blockchain-networks-concepts/consensus-algorithms/overview.md)
-    * Decentralization And Consensus Algorithms
-      * [Consensus Algorithms Overview](content/part-1-blockchain-networks-concepts/consensus-algorithms/decentralization-and-consensus-algorithms/consensus-algorithms-overview.md)
-    * Exercises Implement Proof Of Work Consensus
-      * [Implement Proof Of Work In Javascript](content/part-1-blockchain-networks-concepts/consensus-algorithms/exercises-implement-proof-of-work-consensus/implement-proof-of-work-in-javascript.md)
-    * Exercises Implement Proof Of Stake Consensus
-      * [Implement Proof Of Stake In Javascript](content/part-1-blockchain-networks-concepts/consensus-algorithms/exercises-implement-proof-of-stake-consensus/implement-proof-of-stake-in-javascript.md)
+    * [Decentralization and Consensus Algorithms](content/part-1-blockchain-networks-concepts/consensus-algorithms/decentralization-and-consensus-algorithms/consensus-algorithms-overview.md)
+    * [Exercises: Implement Proof-of-Work Consensus](content/part-1-blockchain-networks-concepts/consensus-algorithms/exercises-implement-proof-of-work-consensus/implement-proof-of-work-in-javascript.md)
+    * [Exercises: Implement Proof-of-Stake Consensus](content/part-1-blockchain-networks-concepts/consensus-algorithms/exercises-implement-proof-of-stake-consensus/implement-proof-of-stake-in-javascript.md)
   * [1.4. Mining and Mining Pools](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/overview.md)
     * [What Is Mining?](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/what-is-mining.md)
     * [How Does Mining Work?](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/how-does-mining-work.md)
