@@ -114,43 +114,27 @@
     * [Exercises: Create Ethereum Wallet in JS](content/part-1-blockchain-networks-concepts/transactions/exercises-ethereum-wallet-in-js/create-ethereum-wallet-in-js.md)
     * [Exercises: Create Bitcoin Wallet in C\#](content/part-1-blockchain-networks-concepts/transactions/exercises-create-bitcoin-wallet-in-csharp/create-bitcoin-wallet-csharp.md)
   * [1.7. Practical Project: Blockchain Network](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/overview.md)
-    * Blockchain Network Architecture
-      * [Architecture Of The Blockchain Network](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/blockchain-network-architecture/architecture-of-the-blockchain-network.md)
-    * Building The Block Explorer
-      * [Implementing The Block Explorer](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-block-explorer/implementing-the-block-explorer.md)
-    * Building The Chain
-      * [Implementing The Chain](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-chain/implementing-the-chain.md)
-    * Building The Faucet
-      * [Implementing The Faucet App](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-faucet/implementing-the-faucet-app.md)
-    * Building The Miner
-      * [Implementing The Miner App](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-miner/implementing-the-miner-app.md)
-    * Building The Node
-      * [Implementing The Node](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-node/implementing-the-node.md)
-    * Building the P2P Network
-      * [P2P Chain Sync](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-p2p-network/p2p-chain-sync.md)
-    * Building the Wallet
-      * [Implementing The Wallet App](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-wallet/implementing-the-wallet-app.md)
+    * [Blockchain Network Architecture](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/blockchain-network-architecture/architecture-of-the-blockchain-network.md)
+    * [Building the Node](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-node/implementing-the-node.md)
+    * [Building the Chain](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-chain/implementing-the-chain.md)
+    * [Building the Miner](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-miner/implementing-the-miner-app.md)
+    * [Building the Wallet](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-wallet/implementing-the-wallet-app.md)
+    * [Building the Faucet](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-faucet/implementing-the-faucet-app.md)
+    * [Implementing the p2p Sync](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-p2p-network/p2p-chain-sync.md)
+    * [Building the Block Explorer](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-block-explorer/implementing-the-block-explorer.md)
   * [1.8. Crypto Trading and Exchanges](content/part-1-blockchain-networks-concepts/crypto-exchanges/overview.md)
     * [Cryptocurrency Exchanges](content/part-1-blockchain-networks-concepts/crypto-exchanges/cryptocurrency-exchanges/cryptocurrency-exchanges.md)
-    * Exercise Hodl Hodl
-      * [Play With Hodl Hodl](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-hodl-hodl/play-with-hodl-hodl.md)
-    * Exercises Bittrex
-      * [Trading On Bittrex](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-bittrex/trading-on-bittrex.md)
-    * [Exercises Exchange Apis](content/part-1-blockchain-networks-concepts/crypto-exchanges/cryptocurrency-exchanges/exercises-exchange-apis.md)
-      * [Using Exchange Apis](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-exchange-apis/using-exchange-apis.md)
+    * [Exercises: Hodl Hodl p2p Exchange](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-hodl-hodl/play-with-hodl-hodl.md)
+    * [Exercises: Trading on Bittrex](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-bittrex/trading-on-bittrex.md)
+    * [Exercises: Exchange APIs](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-exchange-apis/using-exchange-apis.md)
   * [1.9. Blockchain Networks Scalability](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/overview.md)
-    * Exercises Lightning Network Desktop App
-      * [Lightning Network Desktop App](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/exercises-lightning-network-desktop-app/lightning-network-desktop-app.md)
-    * Exercises Lightning Network Mobile App
-      * [Lightning Network Mobile App](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/exercises-lightning-network-mobile-app/lightning-network-mobile-app.md)
-    * Exercises Lightning Network Web Wallet
-      * [Lightning Network Web Wallet](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/exercises-lightning-network-web-wallet/lightning-network-web-wallet.md)
-    * Exercises Lnd Api
-      * [Lightning Network Lnd Api](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/exercises-lnd-api/lightning-network-lnd-api.md)
-    * [Offchain Transactions Payment Channels](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/sidechains/offchain-transactions-payment-channels.md)
-      * [Offchain Transactions](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/offchain-transactions-payment-channels/offchain-transactions.md)
-    * [Sidechains](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/sidechains/sidechains.md)
+    * [Offchain and Payment Channels](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/offchain-transactions-payment-channels/offchain-transactions.md)
+    * [Exercises: Lightning Network Desktop App](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/exercises-lightning-network-desktop-app/lightning-network-desktop-app.md)
+    * [Exercises: Lightning Network Mobile App](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/exercises-lightning-network-mobile-app/lightning-network-mobile-app.md)
+    * [Exercises: Lightning Network Web Wallet](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/exercises-lightning-network-web-wallet/lightning-network-web-wallet.md)
+    * [Exercises: LND API](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/exercises-lnd-api/lightning-network-lnd-api.md)
     * [State Channels](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/state-channels/state-channels.md)
+    * [Sidechains](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/sidechains/sidechains.md)
   * [1.10. Anonymous Transactions](content/part-1-blockchain-networks-concepts/anonymous-transactions/overview.md)
     * [Anonymous Transactions Overview](content/part-1-blockchain-networks-concepts/anonymous-transactions/overview/anonymous-transactions-overview.md)
       * [Anonymous Transactions](content/part-1-blockchain-networks-concepts/anonymous-transactions/anonymous-transactions-overview/anonymous-transactions.md)

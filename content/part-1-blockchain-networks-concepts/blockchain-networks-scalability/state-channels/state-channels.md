@@ -1,3 +1,3 @@
-# State Channels
+# State Channels: Concepts and Implementation
 
 ...
