@@ -100,7 +100,7 @@
     * [Exercises: Mine Ethereum and Siacoin](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-mine-ethereum-siacoin/mine-ethereum-and-siacoin.md)
     * [Exercises: Mine Monero in the Browser](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-mine-monero-js/mine-monero-in-the-browser.md)
     * [Exercises: Mine Monero in Pool](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-mine-monero-in-pool.md)
-  * [1.5. Crypto Wallets](content/part-1-blockchain-networks-concepts/wallets-and-transactions/overview.md)
+  * [1.5. Wallets and Wallet Standards](content/part-1-blockchain-networks-concepts/wallets-and-transactions/overview.md)
     * [Cryptocurrency Wallets - Overview](content/part-1-blockchain-networks-concepts/wallets-and-transactions/cryptocurrency-wallets/crypto-wallets-overview.md)
     * [Exercises: Install MetaMask and Get ETHt](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-install-metamask-get-etht/metamask-and-ethereum-testnet.md)
     * [Exercises: Playing with Jaxx Wallet](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-playing-with-jaxx-wallet-on-ropsten/jaxx-wallet-ethereum-testnet.md)
@@ -109,7 +109,8 @@
     * [Blockchain Transactions](content/part-1-blockchain-networks-concepts/wallets-and-transactions/blockchain-transactions/blockchain-transactions.md)
     * [Exercises: Building a Ethereum Wallet in C\#](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-simple-ethereum-wallet-csharp/simple-ethereum-wallet-in-csharp.md)
     * [Exercises: Building a Bitcoin Wallet in C\#](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-simple-bitcoin-wallet-csharp/simple-bitcoin-wallet-in-csharp.md)
-  * [1.6. Practical Project: Blockchain Network](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/overview.md)
+  * [1.6. Transactions](content/part-1-blockchain-networks-concepts/transactions/overview.md)
+  * [1.7. Practical Project: Blockchain Network](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/overview.md)
     * Blockchain Network Architecture
       * [Architecture Of The Blockchain Network](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/blockchain-network-architecture/architecture-of-the-blockchain-network.md)
     * Building The Block Explorer
@@ -126,7 +127,7 @@
       * [P2P Chain Sync](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-p2p-network/p2p-chain-sync.md)
     * Building the Wallet
       * [Implementing The Wallet App](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-wallet/implementing-the-wallet-app.md)
-  * [1.7. Crypto Trading and Exchanges](content/part-1-blockchain-networks-concepts/crypto-exchanges/overview.md)
+  * [1.8. Crypto Trading and Exchanges](content/part-1-blockchain-networks-concepts/crypto-exchanges/overview.md)
     * [Cryptocurrency Exchanges](content/part-1-blockchain-networks-concepts/crypto-exchanges/cryptocurrency-exchanges/cryptocurrency-exchanges.md)
     * Exercise Hodl Hodl
       * [Play With Hodl Hodl](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-hodl-hodl/play-with-hodl-hodl.md)
@@ -134,7 +135,7 @@
       * [Trading On Bittrex](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-bittrex/trading-on-bittrex.md)
     * [Exercises Exchange Apis](content/part-1-blockchain-networks-concepts/crypto-exchanges/cryptocurrency-exchanges/exercises-exchange-apis.md)
       * [Using Exchange Apis](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-exchange-apis/using-exchange-apis.md)
-  * [1.8. Blockchain Networks Scalability](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/overview.md)
+  * [1.9. Blockchain Networks Scalability](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/overview.md)
     * Exercises Lightning Network Desktop App
       * [Lightning Network Desktop App](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/exercises-lightning-network-desktop-app/lightning-network-desktop-app.md)
     * Exercises Lightning Network Mobile App
@@ -147,17 +148,17 @@
       * [Offchain Transactions](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/offchain-transactions-payment-channels/offchain-transactions.md)
     * [Sidechains](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/sidechains/sidechains.md)
     * [State Channels](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/state-channels/state-channels.md)
-  * [1.9. Anonymous Transactions](content/part-1-blockchain-networks-concepts/anonymous-transactions/overview.md)
+  * [1.10. Anonymous Transactions](content/part-1-blockchain-networks-concepts/anonymous-transactions/overview.md)
     * [Anonymous Transactions Overview](content/part-1-blockchain-networks-concepts/anonymous-transactions/overview/anonymous-transactions-overview.md)
       * [Anonymous Transactions](content/part-1-blockchain-networks-concepts/anonymous-transactions/anonymous-transactions-overview/anonymous-transactions.md)
     * [Exercises Zcash Testnet](content/part-1-blockchain-networks-concepts/anonymous-transactions/overview/exercises-zcash-testnet.md)
       * [Zcash Anonymous Transactions](content/part-1-blockchain-networks-concepts/anonymous-transactions/exercises-zcash-testnet/zcash-anonymous-transactions.md)
-  * [1.10. Peer-To-Peer Networks](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/overview.md)
+  * [1.11. Peer-To-Peer Networks](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/overview.md)
     * [Exercises: Libp2p](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/overview/exercises-libp-2-p.md)
       * [Building P 2 P Network With Libp 2 P](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/exercises-libp2p/building-p2p-network-with-libp2p.md)
         * Peer To Peer Networks Concepts
       * [P 2 P Networking Concepts](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/peer-to-peer-networks-concepts/p2p-networking-concepts.md)
-        * [Overview](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/overview.md)
+        * [Overview](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/overview.md)     
 * [Part II: DApps, Ethereum and Solidity](content/part-2-dapps-ethereum-and-solidity/overview.md)
   * [2.1. Ethereum - Introduction](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/overview.md)
     * [Ethereum And Crypto Tokens](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/overview/ethereum-and-crypto-tokens.md)

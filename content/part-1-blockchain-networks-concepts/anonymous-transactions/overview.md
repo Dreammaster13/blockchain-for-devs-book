@@ -1,3 +1,3 @@
-# Chapter 1.9. Anonymous Transactions
+# Chapter 1.10. Anonymous Transactions
 
 ...
