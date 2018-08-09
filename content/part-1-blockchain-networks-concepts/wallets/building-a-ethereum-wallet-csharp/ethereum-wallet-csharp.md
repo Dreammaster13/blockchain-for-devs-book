@@ -1,3 +1,0 @@
-# Exercise: Building a Simple Ethereum Wallet in C#
-
-...
