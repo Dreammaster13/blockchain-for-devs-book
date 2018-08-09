@@ -105,7 +105,7 @@
     * [Exercises: Install MetaMask and Get ETHt](content/part-1-blockchain-networks-concepts/wallets/exercises-install-metamask-get-etht/metamask-and-ethereum-testnet.md)
     * [Exercises: Playing with Jaxx Wallet](content/part-1-blockchain-networks-concepts/wallets/exercises-playing-with-jaxx-wallet-on-ropsten/jaxx-wallet-ethereum-testnet.md)
     * [Exercises: Multisignature Wallet with Electrum](content/part-1-blockchain-networks-concepts/wallets/exercises-multisignature-wallet-electrum/electrum-miltisig-wallet.md)
-    * [Wallets, Standards, APIs and Libraries](content/part-1-blockchain-networks-concepts/wallets/wallet-apis-and-libraries/wallets-apis-and-libraries.md)
+    * [Wallets Standards, APIs and Libraries](content/part-1-blockchain-networks-concepts/wallets/wallet-apis-and-libraries/wallets-apis-and-libraries.md)
     * [Blockchain Transactions](content/part-1-blockchain-networks-concepts/wallets/blockchain-transactions/blockchain-transactions.md)
     * [Exercises: Building a Ethereum Wallet in C\#](content/part-1-blockchain-networks-concepts/wallets/exercises-simple-ethereum-wallet-csharp/simple-ethereum-wallet-in-csharp.md)
     * [Exercises: Building a Bitcoin Wallet in C\#](content/part-1-blockchain-networks-concepts/wallets/exercises-simple-bitcoin-wallet-csharp/simple-bitcoin-wallet-in-csharp.md)
@@ -158,7 +158,7 @@
       * [Building P 2 P Network With Libp 2 P](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/exercises-libp2p/building-p2p-network-with-libp2p.md)
         * Peer To Peer Networks Concepts
       * [P 2 P Networking Concepts](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/peer-to-peer-networks-concepts/p2p-networking-concepts.md)
-        * [Overview](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/overview.md)     
+        * [Overview](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/overview.md)
 * [Part II: DApps, Ethereum and Solidity](content/part-2-dapps-ethereum-and-solidity/overview.md)
   * [2.1. Ethereum - Introduction](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/overview.md)
     * [Ethereum And Crypto Tokens](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/overview/ethereum-and-crypto-tokens.md)
