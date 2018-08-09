@@ -106,9 +106,8 @@
     * [Exercises: Playing with Jaxx Wallet](content/part-1-blockchain-networks-concepts/wallets/exercises-playing-with-jaxx-wallet-on-ropsten/jaxx-wallet-ethereum-testnet.md)
     * [Exercises: Multisignature Wallet with Electrum](content/part-1-blockchain-networks-concepts/wallets/exercises-multisignature-wallet-electrum/electrum-miltisig-wallet.md)
     * [Wallets Standards, APIs and Libraries](content/part-1-blockchain-networks-concepts/wallets/wallet-apis-and-libraries/wallets-apis-and-libraries.md)
-    * [Blockchain Transactions](content/part-1-blockchain-networks-concepts/wallets/blockchain-transactions/blockchain-transactions.md)
-    * [Exercises: Building a Ethereum Wallet in C\#](content/part-1-blockchain-networks-concepts/wallets/exercises-simple-ethereum-wallet-csharp/simple-ethereum-wallet-in-csharp.md)
-    * [Exercises: Building a Bitcoin Wallet in C\#](content/part-1-blockchain-networks-concepts/wallets/exercises-simple-bitcoin-wallet-csharp/simple-bitcoin-wallet-in-csharp.md)
+    * [Exercises: Simple Ethereum Wallet in JS](content\part-1-blockchain-networks-concepts\wallets\exercises-simple-ethereum-wallet-in-javascript\ethereum-simple-wallet-in-js.md)
+    * [Exercises: Ethereum HD Wallet in JS](content/part-1-blockchain-networks-concepts/wallets/exercises-ethereum-hd-wallet-in-javascript/ethereum-hd-wallet-in-js.md)
   * [1.6. Transactions](content/part-1-blockchain-networks-concepts/transactions/overview.md)
   * [1.7. Practical Project: Blockchain Network](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/overview.md)
     * Blockchain Network Architecture
