@@ -94,7 +94,7 @@
     * [What Is Mining?](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/what-is-mining.md)
     * [How Does Mining Work?](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/how-does-mining-work.md)
     * [Mining Rewards and Mining Difficulty](/content/part-1-blockchain-networks-concepts/mining-and-mining-pools/mining-rewards-and-difficulty.md)
-    * [Mining Process and Mining Pools](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/mining-process-and-mining-pools/mining-and-pools.md)
+    * [Mining Pools](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/mining-pools.md)
     * [Exercises: Simple PoW Miner in JS](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-simple-pow-mining-js/implement-simple-proof-of-work-miner.md)
     * [Exercises: What To Mine?](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-what-to-mine/research-what-to-mine.md)
     * [Exercises: Mine Ethereum and Siacoin](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-mine-ethereum-siacoin/mine-ethereum-and-siacoin.md)
