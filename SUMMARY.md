@@ -109,6 +109,8 @@
     * [Exercises: Simple Ethereum Wallet in JS](content\part-1-blockchain-networks-concepts\wallets\exercises-simple-ethereum-wallet-in-javascript\ethereum-simple-wallet-in-js.md)
     * [Exercises: Ethereum HD Wallet in JS](content/part-1-blockchain-networks-concepts/wallets/exercises-ethereum-hd-wallet-in-javascript/ethereum-hd-wallet-in-js.md)
   * [1.6. Transactions](content/part-1-blockchain-networks-concepts/transactions/overview.md)
+    * [Blockchain Transactions](content/part-1-blockchain-networks-concepts/transactions/blockchain-transactions/blockchain-transactions.md)
+    * [Exercises: Create Ethereum Wallet in C\#](content/part-1-blockchain-networks-concepts/transactions/exercises-ethereum-wallet-csharp/exercises-create-ethereum-wallet-in-csharp.md)
   * [1.7. Practical Project: Blockchain Network](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/overview.md)
     * Blockchain Network Architecture
       * [Architecture Of The Blockchain Network](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/blockchain-network-architecture/architecture-of-the-blockchain-network.md)
