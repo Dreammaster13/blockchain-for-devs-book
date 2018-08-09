@@ -180,18 +180,12 @@
     * [Exercises: IPFS JavaScript API](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/exercises-ipfs-js-api/accessing-ipfs-from-javascript.md)
   * [2.8. Server-Side Ethereum APIs](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/overview.md)
     * [Server Side Ethereum Libraries](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/server-side-ethereum-libraries/ethereum-server-side-apis.md)
-    * [Exercises: Using Web3.js](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-web3js/using-web3-javascript.md)
-    * Exercises Nethereum
-      * [Using Nethereum Csharp](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-nethereum/using-nethereum-csharp.md)
-    * Exercises Ethers Js
-      * [Using Ethers Js](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-ethers-js/using-ethers-js.md)
-    * [Exercises Simple Voting Contract](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/server-side-ethereum-libraries/exercises-simple-voting-contract.md)
-      * [Simple Voting Contract](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-simple-voting-contract/simple-voting-contract.md)
-    * Exercises Web 3 J
-      * [Using Web 3 J Java](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-web3j/using-web3j-java.md)
-    * Exercises Web 3 Py
-      * [Using Web 3 Py Python](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-web3py/using-web3py-python.md)
-    * [Exercuses Web 3 Js](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/server-side-ethereum-libraries/exercuses-web-3-js.md)
+    * [Exercises: Using Web3.js from JS](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-web3js/using-web3-javascript.md)
+    * [Exercises: Simple Voting \(Web3.js\)](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-simple-voting-contract/simple-voting-contract.md)
+    * [Exercises: Using Ethers.js from JS](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-ethers-js/using-ethers-js.md)
+    * [Exercises: Using Nethereum from C\#](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-nethereum/using-nethereum-csharp.md)
+    * [Exercises: Using Web3j from Java](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-web3j/using-web3j-java.md)
+    * [Exercises: Using Web3.py from Python](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-web3py/using-web3py-python.md)
   * [2.9. Practical Project: DApp](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/overview.md)
     * [DApp: Project Requirements](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/dapp-project-requirements/dapp-project-requirements.md)
     * Building The Dapp User Interface
