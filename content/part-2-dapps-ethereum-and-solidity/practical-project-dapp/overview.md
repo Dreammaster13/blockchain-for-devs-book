@@ -1,3 +1,3 @@
-# Practical Project: DApp Development
+# Chapter 2.9. Practical Project: DApp Development
 
 ...

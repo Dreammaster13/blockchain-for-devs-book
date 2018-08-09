@@ -1,3 +1,3 @@
-# Introduction to Ethereum and Crypto Tokens
+# Smart Contracts, Crypto Tokens and DApps
 
 ...

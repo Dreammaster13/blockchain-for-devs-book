@@ -1,3 +1,3 @@
-# Decentralized Storage: IPFS and Other P2P Storage Systems
+# Chapter 2.7. Decentralized Storage: IPFS and Other P2P Storage Systems
 
 ...

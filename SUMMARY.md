@@ -143,27 +143,17 @@
     * [Exercises: Libp2p](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/exercises-libp2p/building-p2p-network-with-libp2p.md)
 * [Part II: DApps, Ethereum and Solidity](content/part-2-dapps-ethereum-and-solidity/overview.md)
   * [2.1. Ethereum - Introduction](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/overview.md)
-    * [Ethereum And Crypto Tokens](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/overview/ethereum-and-crypto-tokens.md)
-      * [Ethereum Overview](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/ethereum-and-crypto-tokens/ethereum-overview.md)
-    * Ethereum Overview
-      * [Ethereum Evm Smart Contracts Intro](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/ethereum-overview/ethereum-evm-smart-contracts-intro.md)
-    * Exercise Buy Send Erc 20 Tokens
-      * [Erc 20 Tokens](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-buy-send-erc20-tokens/erc20-tokens.md)
-    * Exercise Crowdsale Without Coding
-      * [Crowdsale Wizard Oracles Org](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-crowdsale-without-coding/crowdsale-wizard-oracles-org.md)
-    * Exercise Deploy Smart Contract Mist
-      * [Deploy Smart Contract Using Mist](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-deploy-smart-contract-mist/deploy-smart-contract-using-mist.md)
-    * Exercise Ethereum Mist
-      * [Ethereum Mist](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-ethereum-mist/ethereum-mist.md)
-    * Exercise Local Ethereum Network
-      * [Run Local Ethereum Network](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-local-ethereum-network/run-local-ethereum-network.md)
-    * Exercise Sync Ropsten Testnet
-      * [Sync The Ropsten Testnet](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-sync-ropsten-testnet/sync-the-ropsten-testnet.md)
+    * [Ethereum - Overview](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/ethereum-overview/ethereum-evm-smart-contracts-intro.md)
+    * [Exercises: Ethereum Mist](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-ethereum-mist/ethereum-mist.md)
+    * [Exercises: Local Ethereum Network](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-local-ethereum-network/run-local-ethereum-network.md)
+    * [Smart Contracts and Crypto Tokens](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/ethereum-and-crypto-tokens/ethereum-overview.md)
+    * [Exercises: Buy and Send ERC20 Tokens](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-buy-send-erc20-tokens/erc20-tokens.md)
+    * [Exercises: Deploy Smart Contract in Mist](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-deploy-smart-contract-mist/deploy-smart-contract-using-mist.md)
+    * [Exercises: Crowdsale without Coding](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-crowdsale-without-coding/crowdsale-wizard-oracles-org.md)
+    * [Exercises: Sync the Ropsten Testnet](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/exercises-sync-ropsten-testnet/sync-the-ropsten-testnet.md)
   * [2.2. Solidity Basics](content/part-2-dapps-ethereum-and-solidity/solidity-basics/overview.md)
-    * Exercises First Steps In Solidity
-      * [Solidity First Steps](content/part-2-dapps-ethereum-and-solidity/solidity-basics/exercises-first-steps-in-solidity/solidity-first-steps.md)
-      * Solidity Basics And Simple Smart Conracts
-        * [Solidity Basics](content/part-2-dapps-ethereum-and-solidity/solidity-basics/solidity-basics-and-simple-smart-conracts/solidity-basics.md)
+    * [Solidity Basics: Simple Smart Contracts](content/part-2-dapps-ethereum-and-solidity/solidity-basics/solidity-basics-and-simple-smart-conracts/solidity-basics.md)
+    * [Exercises: First Steps in Solidity](content/part-2-dapps-ethereum-and-solidity/solidity-basics/exercises-first-steps-in-solidity/solidity-first-steps.md)
   * [2.3. Solidity Advanced](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/overview.md)
     * [Exercises Build Erc 20 Token Contract](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/overview/exercises-build-erc-20-token-contract.md)
       * [Erc 20](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/exercises-build-erc20-token-contract/erc20.md)

@@ -1,3 +1,3 @@
-# Introduction to Ethereum, EVM and Smart Contracts
+# Overview of Ethereum, EVM and Smart Contracts
 
 ...

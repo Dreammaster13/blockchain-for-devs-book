@@ -1,3 +1,3 @@
-# EVM-Based Smart Contract Platforms
+# Chapter 2.10. EVM-Based Smart Contract Platforms
 
 ...

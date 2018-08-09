@@ -1,3 +1,3 @@
-# Solidity Smart Contract Language - Basics
+# Chapter 2.2. Solidity Smart Contract Language - Basics
 
 ...

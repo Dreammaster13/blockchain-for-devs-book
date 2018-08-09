@@ -1,3 +1,3 @@
-# Ganache and Truffle Framework - Overview
+# Chapter 2.4. Ganache and Truffle Framework - Overview
 
 ...

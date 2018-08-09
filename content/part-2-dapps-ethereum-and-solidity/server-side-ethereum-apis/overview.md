@@ -1,3 +1,3 @@
-# Server-Side Ethereum APIs - Overview
+# Chapter 2.8. Server-Side Ethereum APIs - Overview
 
 ...

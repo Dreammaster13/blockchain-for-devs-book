@@ -1,3 +1,3 @@
-# Client-Side Interaction with Ethereum - Overview
+# Chapter 2.6. Client-Side Interaction with Ethereum - Overview
 
 ...
