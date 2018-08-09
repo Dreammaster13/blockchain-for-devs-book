@@ -100,30 +100,15 @@
     * [Exercises: Mine Ethereum and Siacoin](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-mine-ethereum-siacoin/mine-ethereum-and-siacoin.md)
     * [Exercises: Mine Monero in the Browser](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-mine-monero-js/mine-monero-in-the-browser.md)
     * [Exercises: Mine Monero in Pool](content/part-1-blockchain-networks-concepts/mining-and-mining-pools/exercises-mine-monero-in-pool.md)
-  * [1.5. Wallets and Transactions](content/part-1-blockchain-networks-concepts/wallets-and-transactions/overview.md)
+  * [1.5. Crypto Wallets](content/part-1-blockchain-networks-concepts/wallets-and-transactions/overview.md)
+    * [Cryptocurrency Wallets - Overview](content/part-1-blockchain-networks-concepts/wallets-and-transactions/cryptocurrency-wallets/crypto-wallets-overview.md)
+    * [Exercises: Install MetaMask and Get ETHt](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-install-metamask-get-etht/metamask-and-ethereum-testnet.md)
+    * [Exercises: Playing with Jaxx Wallet](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-playing-with-jaxx-wallet-on-ropsten/jaxx-wallet-ethereum-testnet.md)
+    * [Exercises: Multisignature Wallet with Electrum](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-multisignature-wallet-electrum/electrum-miltisig-wallet.md)
+    * [Wallets, Standards, APIs and Libraries](content/part-1-blockchain-networks-concepts/wallets-and-transactions/wallet-apis-and-libraries/wallets-apis-and-libraries.md)
     * [Blockchain Transactions](content/part-1-blockchain-networks-concepts/wallets-and-transactions/blockchain-transactions/blockchain-transactions.md)
-    * [Building A Bitcoin Wallet In Csharp](content/part-1-blockchain-networks-concepts/wallets-and-transactions/blockchain-transactions/building-a-bitcoin-wallet-in-csharp.md)
-      * [Bitcoin Wallet Csharp](content/part-1-blockchain-networks-concepts/wallets-and-transactions/building-a-bitcoin-wallet-in-csharp/bitcoin-wallet-csharp.md)
-    * Building A Ethereum Wallet Csharp
-      * [Ethereum Wallet Csharp](content/part-1-blockchain-networks-concepts/wallets-and-transactions/building-a-ethereum-wallet-csharp/ethereum-wallet-csharp.md)
-    * Cryptocurrency Wallets
-      * [Crypto Wallets Overview](content/part-1-blockchain-networks-concepts/wallets-and-transactions/cryptocurrency-wallets/crypto-wallets-overview.md)
-    * Exercise Simple Bitcoin Wallet Csharp
-      * [Simple Bitcoin Wallet In Csharp](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-simple-bitcoin-wallet-csharp/simple-bitcoin-wallet-in-csharp.md)
-    * Exercise Simple Ethereum Wallet Csharp
-      * [Simple Ethereum Wallet In Csharp](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-simple-ethereum-wallet-csharp/simple-ethereum-wallet-in-csharp.md)
-    * Exercises Ethereum Hd Wallet In Javascript
-      * [Ethereum Hd Wallet In Js](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-ethereum-hd-wallet-in-javascript/ethereum-hd-wallet-in-js.md)
-    * Exercises Install Metamask Get Etht
-      * [Metamask And Ethereum Testnet](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-install-metamask-get-etht/metamask-and-ethereum-testnet.md)
-    * Exercises Multisignature Wallet Electrum
-      * [Electrum Miltisig Wallet](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-multisignature-wallet-electrum/electrum-miltisig-wallet.md)
-    * Exercises Playing With Jaxx Wallet On Ropsten
-      * [Jaxx Wallet Ethereum Testnet](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-playing-with-jaxx-wallet-on-ropsten/jaxx-wallet-ethereum-testnet.md)
-    * Exercises Simple Ethereum Wallet In Javascript
-      * [Ethereum Simple Wallet In Js](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-simple-ethereum-wallet-in-javascript/ethereum-simple-wallet-in-js.md)
-    * Wallet Apis And Libraries
-      * [Wallets Apis And Libraries](content/part-1-blockchain-networks-concepts/wallets-and-transactions/wallet-apis-and-libraries/wallets-apis-and-libraries.md)
+    * [Exercises: Building a Ethereum Wallet in C\#](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-simple-ethereum-wallet-csharp/simple-ethereum-wallet-in-csharp.md)
+    * [Exercises: Building a Bitcoin Wallet in C\#](content/part-1-blockchain-networks-concepts/wallets-and-transactions/exercises-simple-bitcoin-wallet-csharp/simple-bitcoin-wallet-in-csharp.md)
   * [1.6. Practical Project: Blockchain Network](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/overview.md)
     * Blockchain Network Architecture
       * [Architecture Of The Blockchain Network](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/blockchain-network-architecture/architecture-of-the-blockchain-network.md)

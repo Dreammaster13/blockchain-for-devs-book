@@ -1,3 +1,3 @@
-# Exercises: Playing with Jaxx Wallet on the Etehreum Ropsten Testnet
+# Exercises: Playing with Jaxx Wallet on the Ethereum Ropsten Testnet
 
 ...
