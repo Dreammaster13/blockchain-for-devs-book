@@ -139,11 +139,8 @@
     * [Anonymous Transactions - Overview](content/part-1-blockchain-networks-concepts/anonymous-transactions/anonymous-transactions-overview/anonymous-transactions.md)
     * [Exercises: Zcash Testnet](content/part-1-blockchain-networks-concepts/anonymous-transactions/exercises-zcash-testnet/zcash-anonymous-transactions.md)
   * [1.11. Peer-To-Peer Networks](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/overview.md)
-    * [Exercises: Libp2p](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/overview/exercises-libp-2-p.md)
-      * [Building P 2 P Network With Libp 2 P](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/exercises-libp2p/building-p2p-network-with-libp2p.md)
-        * Peer To Peer Networks Concepts
-      * [P 2 P Networking Concepts](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/peer-to-peer-networks-concepts/p2p-networking-concepts.md)
-        * [Overview](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/overview.md)
+    * [P2P Networking Concepts](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/peer-to-peer-networks-concepts/p2p-networking-concepts.md)
+    * [Exercises: Libp2p](content/part-1-blockchain-networks-concepts/peer-to-peer-networks/exercises-libp2p/building-p2p-network-with-libp2p.md)
 * [Part II: DApps, Ethereum and Solidity](content/part-2-dapps-ethereum-and-solidity/overview.md)
   * [2.1. Ethereum - Introduction](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/overview.md)
     * [Ethereum And Crypto Tokens](content/part-2-dapps-ethereum-and-solidity/ethereum-introduction/overview/ethereum-and-crypto-tokens.md)
