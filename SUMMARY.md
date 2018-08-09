@@ -175,27 +175,23 @@
     * [Exercises: Document Registry DApp](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/exercises-document-registry-dapp/document-registry-dapp.md)
     * [Exercises: Casino DApp](content/part-2-dapps-ethereum-and-solidity/client-side-web3-and-metamask/exercises-casino-dapp/casino-dapp.md)
   * [2.7. Decentralized Storage](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/overview.md)
-    * [Decentralized Storage and IPFS](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/decentralized-storage-and-ipfs.md)
-      * [Ipfs](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/decentralized-storage-and-ipfs/ipfs.md)
-    * [Exercises: IPFS Command Line](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/exercises-ipfs-command-line.md)
-      * [Ipfs Command Line](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/exercises-ipfs-command-line/ipfs-command-line.md)
-    * Exercises: IPFS JavaScript API
-      * [Accessing Ipfs From Javascript](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/exercises-ipfs-js-api/accessing-ipfs-from-javascript.md)
+    * [Decentralized Storage and IPFS](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/decentralized-storage-and-ipfs/ipfs.md)
+    * [Exercises: IPFS Command Line](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/exercises-ipfs-command-line/ipfs-command-line.md)
+    * [Exercises: IPFS JavaScript API](content/part-2-dapps-ethereum-and-solidity/decentralized-storage/exercises-ipfs-js-api/accessing-ipfs-from-javascript.md)
   * [2.8. Server-Side Ethereum APIs](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/overview.md)
-    * Exercises Ethers Js
-      * [Using Ethers Js](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-ethers-js/using-ethers-js.md)
+    * [Server Side Ethereum Libraries](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/server-side-ethereum-libraries/ethereum-server-side-apis.md)
     * Exercises Nethereum
       * [Using Nethereum Csharp](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-nethereum/using-nethereum-csharp.md)
-    * Exercises Simple Voting Contract
+    * Exercises Ethers Js
+      * [Using Ethers Js](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-ethers-js/using-ethers-js.md)
+    * [Exercises Simple Voting Contract](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/server-side-ethereum-libraries/exercises-simple-voting-contract.md)
       * [Simple Voting Contract](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-simple-voting-contract/simple-voting-contract.md)
     * Exercises Web 3 J
       * [Using Web 3 J Java](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-web3j/using-web3j-java.md)
     * Exercises Web 3 Py
       * [Using Web 3 Py Python](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-web3py/using-web3py-python.md)
-    * Exercuses Web 3 Js
+    * [Exercuses Web 3 Js](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/server-side-ethereum-libraries/exercuses-web-3-js.md)
       * [Using Web 3 Javascript](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercuses-web3js/using-web3-javascript.md)
-    * Server Side Ethereum Libraries
-      * [Ethereum Server Side Apis](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/server-side-ethereum-libraries/ethereum-server-side-apis.md)
   * [2.9. Practical Project: DApp](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/overview.md)
     * [DApp: Project Requirements](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/dapp-project-requirements/dapp-project-requirements.md)
     * Building The Dapp User Interface

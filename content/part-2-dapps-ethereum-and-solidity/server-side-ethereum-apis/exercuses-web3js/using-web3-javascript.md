@@ -1,3 +1,3 @@
-# Exercises: Using Web3.js to Access Ethereum Smart Contracts from JavaScript
+# Exercises: Using Web3.js to Access Ethereum Smart Contracts from JavaScript through Infura
 
 ...
