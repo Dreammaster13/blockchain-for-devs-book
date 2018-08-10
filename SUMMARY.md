@@ -193,28 +193,17 @@
     * [DApp Front-End](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/building-the-dapp-user-interface/dapp-front-end.md)
     * [DApp Extra Functionality](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/implementing-extra-functionality/dapp-extra-functionality.md)
   * [2.10. EVM-Based DApp Platforms](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/overview.md)
-    * [EVM-Based Blockchains](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/overview/evm-based-blockchains.md)
-      * [Evm Based Smart Contract Platforms](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/evm-based-blockchains/evm-based-smart-contract-platforms.md)
-    * Aeternity Blockchain
-      * [Aeternity](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/aeternity-blockchain/aeternity.md)
-    * Deploy Solidity Contract In Aeternity
-      * [Deploy Smart Contract In Aeternity](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-aeternity/deploy-smart-contract-in-aeternity.md)
-    * Deploy Solidity Contract In Poa Network
-      * [Deploy Smart Contract In Poa Network](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-poa-network/deploy-smart-contract-in-poa-network.md)
-    * Deploy Solidity Contract In Qtum
-      * [Deploy Smart Contract In Qtum](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-qtum/deploy-smart-contract-in-qtum.md)
-    * Deploy Solidity Contract In Quorum
-      * [Deploy Smart Contract In Quorum](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-quorum/deploy-smart-contract-in-quorum.md)
-    * Deploy Solidity Contract In Rsk
-      * [Deploy Smart Contract In The Rsk Testnet](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-rsk/deploy-smart-contract-in-the-rsk-testnet.md)
-    * Poa Network Blockchain
-      * [Poa Network](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/poa-network-blockchain/poa-network.md)
-    * Qtum Blockchain
-      * [Qtum](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/qtum-blockchain/qtum.md)
-    * Quorum Blockchain
-      * [Quorum](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/quorum-blockchain/quorum.md)
-    * Rsk Sidechain
-      * [Rsk](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/rsk-sidechain/rsk.md)
+    * [EVM-Based Smart Contract Platforms](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/evm-based-blockchains/evm-based-smart-contract-platforms.md)
+    * [RSK Sidechain](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/rsk-sidechain/rsk.md)
+    * [Exercises: Deploy Contract in RSK](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-rsk/deploy-smart-contract-in-the-rsk-testnet.md)
+    * [Qtum Blockchain](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/qtum-blockchain/qtum.md)
+    * [Exercises: Deploy Contract in Qtum](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-qtum/deploy-smart-contract-in-qtum.md)
+    * [Quorum Permissioned Blockchain](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/quorum-blockchain/quorum.md)
+    * [Deploy Smart Contract in Quorum](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-quorum/deploy-smart-contract-in-quorum.md)
+    * [Aeternity Blockchain](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/aeternity-blockchain/aeternity.md)
+    * [Exercises: Deploy Contract in Aeternity](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-aeternity/deploy-smart-contract-in-aeternity.md)
+    * [POA Network](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/poa-network-blockchain/poa-network.md)
+    * [Exercises: Deploy Contract In POA Network](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/deploy-solidity-contract-in-poa-network/deploy-smart-contract-in-poa-network.md)
 * [Part III: More Blockchain Technologies](content/part-3-more-blockchain-technologies/overview.md)
   * [3.1. Bitcoin Blockchain](content/part-3-more-blockchain-technologies/bitcoin-blockchain/overview.md)
   * [3.2. Hyperledger](content/part-3-more-blockchain-technologies/permissionned-blockchains-and-hyperledger/overview.md)
