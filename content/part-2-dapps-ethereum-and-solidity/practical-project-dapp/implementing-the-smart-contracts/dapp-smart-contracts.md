@@ -1,3 +1,3 @@
-# Practical Project: Implementing the Smart Contracts for the DApp
+# Practical Project: Designing and Implementing the Smart Contracts for the DApp
 
 ...

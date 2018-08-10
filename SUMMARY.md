@@ -188,14 +188,10 @@
     * [Exercises: Using Web3.py from Python](content/part-2-dapps-ethereum-and-solidity/server-side-ethereum-apis/exercises-web3py/using-web3py-python.md)
   * [2.9. Practical Project: DApp](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/overview.md)
     * [DApp: Project Requirements](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/dapp-project-requirements/dapp-project-requirements.md)
-    * Building The Dapp User Interface
-      * [Dapp Front End](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/building-the-dapp-user-interface/dapp-front-end.md)
-    * Establishing The Dapp Architecture
-      * [Dapp Architecture](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/establishing-the-dapp-architecture/dapp-architecture.md)
-    * Implementing Extra Functionality
-      * [Dapp Extra Functionality](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/implementing-extra-functionality/dapp-extra-functionality.md)
-    * Implementing The Smart Contracts
-      * [Dapp Smart Contracts](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/implementing-the-smart-contracts/dapp-smart-contracts.md)
+    * [DApp Architecture](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/establishing-the-dapp-architecture/dapp-architecture.md)
+    * [DApp Smart Contracts](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/implementing-the-smart-contracts/dapp-smart-contracts.md)
+    * [DApp Front-End](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/building-the-dapp-user-interface/dapp-front-end.md)
+    * [DApp Extra Functionality](content/part-2-dapps-ethereum-and-solidity/practical-project-dapp/implementing-extra-functionality/dapp-extra-functionality.md)
   * [2.10. EVM-Based DApp Platforms](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/overview.md)
     * [EVM-Based Blockchains](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/overview/evm-based-blockchains.md)
       * [Evm Based Smart Contract Platforms](content/part-2-dapps-ethereum-and-solidity/evm-based-dapp-platforms/evm-based-blockchains/evm-based-smart-contract-platforms.md)
