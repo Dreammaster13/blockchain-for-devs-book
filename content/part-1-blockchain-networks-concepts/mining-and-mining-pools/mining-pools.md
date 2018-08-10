@@ -9,7 +9,7 @@ Mining "solo" is the simple, straight-forward solution: you run a network node, 
 
 In pooled mining, you band together with lots of other miners, and when one of you finds a block, you split the reward with everybody else who contributed. If we disregard the pool fees (which are usually relatively small, typically around 1%), you end up making the same amount over time, but instead of one big payment every couple of years, you get smaller payments every day or every week - in other words, pooled mining decreases the *variance* of your payouts.
 
-## How do pools work?
+## How Do Pools Work?
 
 The above immediately raises some questions - like, how do we split the rewards fairly?
 
@@ -44,4 +44,4 @@ Notice that just a couple of these pools banding together might result in them h
 
 There have been attempts to fix that at the pool protocol level, by letting individual miners create blocks themselves, and merely submit proofs to the pool that they have included them as receiver of the coinbase transaction (because obviously the pool wouldn't want to pay for shares that don't have them as reward receiver). But it seems the main thing stopping pools from performing such attacks are actually game-theoretic considerations.
 
-In the next chapter, we will talk about mining equipment.
+In the next chapter, we will talk about [mining equipment](//content/part-1-blockchain-networks-concepts/mining-and-mining-pools/mining-equipment.md).

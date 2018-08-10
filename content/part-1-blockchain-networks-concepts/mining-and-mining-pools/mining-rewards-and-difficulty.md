@@ -9,7 +9,7 @@ The block subsidy is a special transaction (called "coinbase[^1] transaction") t
 
 The transaction fees are the difference between the sum of the inputs and the sum of the outputs - users determine what fees they want to pay by not using up the entire inputs, and miners determine what transactions they'll include in a block based on how much they will profit. Usually miners are looking at "Satoshis[^2] per byte", because there's a limit to how big blocks can be, so accepting a large transaction might mean not having room for several smaller ones.
 
-# Mining difficulty
+# Mining Difficulty
 
 In order to keep the block time relatively constant (e.g. 10 minutes in Bitcoin), even when the total hash rate of the miners in the network fluctuates, the requirements for which block hashes are considered "acceptable" can change dynamically. In Bitcoin, every 2016 blocks the timestamps of the blocks are evaluated, and if they're less than 10 minutes apart (on average), the difficulty will increase; the hashes will be required to have a smaller numeric value than what was required before. Conversely, if they are more than 10 minutes apart, the difficulty will be decreased - the "limit" will be moved up, so that more possible hashes are acceptable. Here's a graph of Bitcoin's mining difficulty over time:
 
