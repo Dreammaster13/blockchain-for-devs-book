@@ -2,6 +2,8 @@
 
 In this chapter we will introduce the **cryptography concepts** used in the blockchain networks, hashes, elliptic curves, public and private keys, encryption, the cryptography behind wallets and transactions.
 
+![](/assets/blockchain-cryptography.jpg)
+
 We shall start by major cryptography concepts like hashing and cryptographic **hash functions**, **HMAC** and **key derivation** algorithms, symmetric and asymmetric **encryption algorithms**, **secure random generators** and pseudo-random generator functions \(PRNG\).
 
 After introducing the first few crypto concepts, we shall write some code to play with them. We shall implement **calculation of hashes**, **HMAC calculations** by text and key, password to key derivation using **Scrypt** and **AES**-based **symmetric key encryption** and **decryption** with HMAC for message integrity.
