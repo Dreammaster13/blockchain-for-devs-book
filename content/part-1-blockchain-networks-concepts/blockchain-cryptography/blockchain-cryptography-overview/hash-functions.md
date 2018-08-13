@@ -1,14 +1,10 @@
 # Hashing and Hash Functions
 
-In computer programming **hash functions **map text values to numbers. Usually different input text maps to different output number, but sometimes a **collision** may happen \(different input with same output\).
+In computer programming **hash functions **map text \(or other data\) to integer numbers. Usually different inputs maps to different outputs, but sometimes a **collision** may happen \(different input with the same output\). The process of calculating the value of certain hash function is called "**hashing**".
 
 ![](/assets/hash-function.jpg)
 
-In cryptography **hash functions** map input data \(or text message\) of arbitrary size to a result of fixed size, which is called **hash value** \(or hash code, message digest, or simply hash\). **Collisions** in cryptographic hash functions are **extremely unlikely** to happen, so crypto **hashes **are considered to almost uniquely identify their corresponding input.
+In the above example the text `John Smith` is hashed to the hash value `02` and `Lisa Smith` is hashed to `01`. The input texts `John Smith` and `Sandra Dee` both are hashed to `02` and this is called "**collision**".
 
-![](/assets/crypto-hash-function.jpg)
-
-Cryptographic hash functions are **irreversible by design**, which means that there is no fast algorithm to reproduce the input message from its hash value.
-
-**Hash functions** are widely used in cryptography, in programming and in blockchain systems.
+In programming hash functions are used in the implementation of the data structure **hash-table** \(associative array\) which maps values of certain input type to values of another type, e.g. map product name \(text\) to product price \(decimal number\).
 
