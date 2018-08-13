@@ -6,17 +6,7 @@ In cryptography, **hash functions** transform **input data** of arbitrary size \
 SHA-256("hello") = "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824"
 ```
 
-There is no efficient algorithm to find the input message \(in the above example `hello`\) from its hash value \(in the above example `2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824`\).
+There is no efficient algorithm to find the input message \(in the above example `hello`\) from its hash value \(in the above example `2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824`\). It is well-known that cryptographic hash functions **cannot be reversed **back, so they are used widely to encode an input without revealing it \(e.g. encode a private key to a blockchain address without revealing the key\).
 
-## Cryptographic Hash Functions and Collisions
-
-**Collisions** in the cryptographic hash functions are **extremely unlikely** to happen, so crypto **hashes **are considered to almost uniquely identify their corresponding input. Moreover, it is extremely hard to find an input message that hashes to given value.
-
-Cryptographic hash functions are **one-way hash functions**, which are **infeasible to invert**. The chance to find a collision for a strong cryptographic hash function \(like SHA-256\) is extremely little. Let's define this in more details:
-
-* Let's have hash value `h` =`hash(p)` for certain strong cryptographic hash function `hash`.
-* It is expected to be **extremely hard** to find an input `p'`, such that `hash(p')` = `h`.
-* For most modern strong cryptographic hash functions there are **no known collisions**.
-
-**Cryptographic hash functions** are widely used in cryptography, in computer programming and in blockchain systems.
+**Cryptographic hash functions **are widely used in cryptography, in computer programming and in blockchain systems.
 
