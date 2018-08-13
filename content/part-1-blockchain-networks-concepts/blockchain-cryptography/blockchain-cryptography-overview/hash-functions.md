@@ -6,5 +6,7 @@ In computer programming **hash functions **map text \(or other data\) to integer
 
 In the above example the text `John Smith` is hashed to the hash value `02` and `Lisa Smith` is hashed to `01`. The input texts `John Smith` and `Sandra Dee` both are hashed to `02` and this is called "**collision**".
 
-In programming hash functions are used in the implementation of the data structure **hash-table** \(associative array\) which maps values of certain input type to values of another type, e.g. map product name \(text\) to product price \(decimal number\).
+Hash functions are **irreversible by design**, which means that there is no fast algorithm to restore the input message from its hash value.
+
+In programming **hash functions** are used in the implementation of the data structure "**hash-table**" \(associative array\) which maps values of certain input type to values of another type, e.g. map product name \(text\) to product price \(decimal number\).
 
