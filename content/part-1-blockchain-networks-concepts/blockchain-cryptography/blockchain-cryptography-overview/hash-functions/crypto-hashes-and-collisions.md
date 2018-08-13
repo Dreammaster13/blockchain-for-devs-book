@@ -14,11 +14,11 @@ Cryptographic hash functions are **one-way hash functions**, which are **infeasi
 
 The ideal cryptographic hash function should have the following properties:
 
-* **Deterministic**: the same input message should always result in the same hash   value.
-* **Quick**: it should be fast to compute the hash value for any given message  .
-* **Hard to analyze**: a small change to the input message should totally change the output hash value  .
-* **Irreversible  **: generating a valid input message from its hash value should be **infeasible  **. This means that there should be no significantly better way than brute force \(try all possible input messages\)  .
-* **No collisions**: it should be extremely hard \(or practically impossible\) to find two different messages with the same hash  .
+* **Deterministic**: the same input message should always result in the same hash value.
+* **Quick**: it should be fast to compute the hash value for any given message.
+* **Hard to analyze**: a small change to the input message should totally change the output hash value.
+* **Irreversible**: generating a valid input message from its hash value should be **infeasible**. This means that there should be no significantly better way than brute force \(try all possible input messages\).
+* **No collisions**: it should be extremely hard \(or practically impossible\) to find two different messages with the same hash.
 
 
 
