@@ -1,4 +1,4 @@
-# Chapter 1.2. Blockchain Cryptography: Elliptic Curves, Hashes, Keys, Blockchain Addresses, Encryption, Key Derivation, Crypto Wallets
+# Chapter 1.2. Blockchain Cryptography: Hashes, Elliptic Curves, Keys, Blockchain Addresses, Encryption, Key Derivation, Crypto Wallets
 
 In this chapter we will introduce the **cryptography concepts** used in the blockchain networks, hashes, elliptic curves, public and private keys, encryption, the cryptography behind wallets and transactions.
 
