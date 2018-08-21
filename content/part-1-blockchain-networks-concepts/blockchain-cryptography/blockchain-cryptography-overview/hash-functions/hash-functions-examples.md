@@ -2,7 +2,7 @@
 
 In this section we shall provide a few **examples **about calculating cryptographic hash functions in Python.
 
-## Calculating SHA-256, SHA3-256, RIPEMD-160 and BLAKE2s in Python
+## Calculating Cryptographic Hash Functions in Python
 
 We shall use the standard Python library `hashlib`. The input data for hashing should be given as** bytes sequence** \(bytes object\), so we need to **encode the input string** using some text encoding, e.g. `utf8`. The produced **output data** is also a bytes sequence, which can be printed as hex digits using `binascii.hexlify()` as shown below:
 
