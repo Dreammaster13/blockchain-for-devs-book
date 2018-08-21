@@ -18,14 +18,14 @@ In the past, many **cryptographic hash algorithms** were proposed and used by so
   * The 160-bit variant is considered cryptographically stronger than the other variations like RIPEMD-128, RIPEMD-256 and RIPEMD-320.
   * SHA-256 and SHA3-256 are more stronger than RIPEMD-160, due to higher bit length and less chance for collisions.
 * **BLAKE** / **BLAKE2 **/ **BLAKE2s **/ **BLAKE2b** is a family of fast, secure cryptographic hash functions.
-  * T    he **BLAKE2 **function is improved version of **BLAKE**.
+  * The **BLAKE2 **function is improved version of **BLAKE**.
   * **BLAKE **has **256-bit** variant \(BLAKE-256, BLAKE2s\) and **512-bit **variant \(BLAKE-512, BLAKE2b\).
   * The BLAKE2 hash function has similar security strength like SHA-256.
 
-As of Mar 2018, **no collisions are known **for: **SHA256**, **SHA3-256**, **Keccak-256**, **BLAKE2s**, RIPEMD160
+As of Mar 2018, **no collisions are known **for: **SHA256**, **SHA3-256**, **Keccak-256**, **BLAKE2s**, **RIPEMD160 **and few others
 
-* **Brute forcing **to find collision costs: 2^128 for SHA256 / SHA3-256 and 2^80 for RIPEMD160.
-* Respectively, on a powerful enough quantum computer, it will cost less time: 2^256/3 and 2^160/3 respectively.
+* **Brute forcing **to find collision costs: 2<sup>128</sup> for SHA256 / SHA3-256 and 2<sup>80</sup> for RIPEMD160.
+* Respectively, on a powerful enough **quantum computer**, it will cost less time: 2<sup>256/3</sup> and 2<sup>160/3</sup> respectively.
 
 Learn more about cryptographic hash functions, their strenght and **attack resistance** at: [https://z.cash/technology/history-of-hash-function-attacks.html](https://z.cash/technology/history-of-hash-function-attacks.html)
 
