@@ -12,7 +12,7 @@ Cryptographic hash functions are **one-way hash functions**, which are **infeasi
 * It is expected to be **extremely hard **to find an input `p'`, such that `hash(p')`=`h`.
 * For most modern strong cryptographic hash functions there are **no known collisions**.
 
-The ideal cryptographic hash function should have the following properties:
+The **ideal cryptographic hash function** should have the following properties:
 
 * **Deterministic**: the same input message should always result in the same hash value.
 * **Quick**: it should be fast to compute the hash value for any given message.

@@ -25,9 +25,7 @@ In the past, many **cryptographic hash algorithms** were proposed and used by so
 As of Mar 2018, **no collisions are known **for: **SHA256**, **SHA3-256**, **Keccak-256**, **BLAKE2s**, **RIPEMD160 **and few others
 
 * **Brute forcing **to find collision costs: 2<sup>128</sup> for SHA256 / SHA3-256 and 2<sup>80</sup> for RIPEMD160.
-* Respectively, on a powerful enough **quantum computer**, it will cost less time: 2<sup>256/3</sup> and 2<sup>160/3</sup> respectively.
+* Respectively, on a powerful enough **quantum computer**, it will cost less time: 2<sup>256/3</sup> and 2<sup>160/3</sup> respectively. Still (as of Mar 2018) so powerful quantum computers are not known to exist.
 
-Learn more about cryptographic hash functions, their strenght and **attack resistance** at: [https://z.cash/technology/history-of-hash-function-attacks.html](https://z.cash/technology/history-of-hash-function-attacks.html)
-
-Play with hash functions online: [http://hash-functions.online-domain-tools.com](http://hash-functions.online-domain-tools.com/).
+Learn more about cryptographic hash functions, their strength and **attack resistance** at: [https://z.cash/technology/history-of-hash-function-attacks.html](https://z.cash/technology/history-of-hash-function-attacks.html)
 

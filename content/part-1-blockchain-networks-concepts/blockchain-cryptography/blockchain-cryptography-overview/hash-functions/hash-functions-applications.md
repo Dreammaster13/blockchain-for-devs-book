@@ -1,4 +1,4 @@
-# Hash Functions: Applications
+# Cryptographic Hash Functions: Applications
 
 Cryptographic hash functions \(like SHA-256 and SHA3-256\) are used in many scenarios:
 
@@ -8,5 +8,5 @@ Cryptographic hash functions \(like SHA-256 and SHA3-256\) are used in many scen
 * **Pseudorandom generation **and key derivation. Hash values can serve as random numbers. A simple way to generate a random sequence is like this: start from a **random seed **\(entropy collected from random events, such like keyboard clicks or mouse moves\). Append "**1**" and calculate the hash to obtain the first random number, then append "**2**" and calculate the hash to obtain the second random number, etc.
 * **Proof-of-work **\(PoW\) algorithms. Most proof-of-work algorithms calculate a hash value which is bigger than certain value \(known as mining difficulty\). To find this hash value, miners calculate billions of different hashes and take the biggest of them, because hash numbers are unpredictable. For example, the proof of work problem might be defined as follows: find a number `p`, such that `hash(x + p)` holds 10 zero bits at its beginning.
 
-Hash functions are so widely used, that they are often implemented as **build-in functions **in the standard libraries for the modern programming languages and platforms.
+Cryptographic hash functions are so widely used, that they are often implemented as **build-in functions **in the standard libraries for the modern programming languages and platforms.
 
