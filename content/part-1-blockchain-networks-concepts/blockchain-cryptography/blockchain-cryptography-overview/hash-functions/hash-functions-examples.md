@@ -1,4 +1,4 @@
-# Hash Functions - Examples
+# Hash Functions - Examples in Python
 
 In this section we shall provide a few **examples **about calculating cryptographic hash functions in Python.
 
