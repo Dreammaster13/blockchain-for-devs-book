@@ -2,7 +2,7 @@
 
 **Different input **messages are expected to produce **different output **hash values \(message digest\).
 
-![](blob:https://legacy.gitbook.com/d83de357-2cf7-403d-bca7-5194f82a400d)
+![](/assets/crypto-hash-function-examples.jpg)
 
 **Collisions **in the cryptographic hash functions are **extremely unlikely **to happen, so crypto **hashes **are considered to almost uniquely identify their corresponding input. Moreover, it is extremely hard to find an input message that hashes to given value.
 
