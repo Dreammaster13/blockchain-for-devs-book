@@ -10,3 +10,5 @@ Hash functions are **irreversible by design**, which means that there is no fast
 
 In programming **hash functions** are used in the implementation of the data structure "**hash-table**" \(associative array\) which maps values of certain input type to values of another type, e.g. map product name \(text\) to product price \(decimal number\).
 
+A **naive hash function **is just to sum the bytes of the input data / text. It causes a lot of collisions, e.g. `hello` and `ehllo` will have the same hash code. **Better hash functions** use the [Merkle–Damgård construction](https://en.wikipedia.org/wiki/Merkle%E2%80%93Damg%C3%A5rd_construction) scheme, which takes the first byte as **state**, then **transforms the state** \(e.g. multiplies it by a prime number like 31\), then **adds the next byte** to the state, then again transforms the state and adds the next byte, etc. This significantly reduces the rate of collisions and produces better distribution.
+
