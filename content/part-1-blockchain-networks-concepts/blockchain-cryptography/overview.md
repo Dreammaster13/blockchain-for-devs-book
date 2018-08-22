@@ -2,7 +2,7 @@
 
 In this chapter we will introduce the **cryptography concepts** used in the blockchain networks, hashes, elliptic curves, public and private keys, encryption, the cryptography behind wallets and transactions.
 
-![](/assets/blockchain-cryptography.jpg)
+
 
 We shall start by major cryptography concepts like hashing and cryptographic **hash functions**, **HMAC** and **key derivation** algorithms, symmetric and asymmetric **encryption algorithms**, **secure random generators** and pseudo-random generator functions \(PRNG\).
 
@@ -13,6 +13,8 @@ The core of this lesson will be devoted to practical **elliptic curve cryptograp
 Next, we shall explain the cryptography behind the **crypto wallets**, the concept of **hierarchical \(HD\) wallets**, the BIP39 and BIP44 standards, the seed words and hierarchical key derivation.
 
 A few words will be devoted to **quantum-safe cryptography** and which classical crypto algorithms are quantum-safe \(like hashes and symmetric key ciphers\) and which are **quantum-broken** \(like most digital signature schemes and ECDSA\).
+
+![](/assets/blockchain-cryptography.jpg)
 
 After the next portion of concepts, we shall **write some code**: play with Ethereum message signing and signatures verification, generating private keys, deriving public keys and addresses for the Ethereum and Bitcoin networks, as well as implementing RSA-based asymmetric encryption.
 
