@@ -2,6 +2,11 @@
 
 In this section we shall provide a few **examples **about calculating cryptographic hash functions in Python.
 
+<div class="video-player">
+  Watch the video: <a target="_blank" href="https://youtu.be/7U-hAvU01WI">https://youtu.be/7U-hAvU01WI</a>.
+</div>
+<script src="/assets/js/video.js"></script>
+
 ## Calculating Cryptographic Hash Functions in Python
 
 We shall use the standard Python library `hashlib`. The input data for hashing should be given as** bytes sequence** \(bytes object\), so we need to **encode the input string** using some text encoding, e.g. `utf8`. The produced **output data** is also a bytes sequence, which can be printed as hex digits using `binascii.hexlify()` as shown below:

@@ -2,6 +2,11 @@
 
 Blockchain **proof-of-work mining **algorithms use a special class of hash functions which are **computational-intensive **and **memory-intensive**. These hash functions are designed to consume a lot of computational resources and a lot of memory and to be very hard to be implemented in a hardware devices \(such as [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array) integrated circuits or [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) miners\). Such hash functions are known as "**ASIC-resistant**".
 
+<div class="video-player">
+  Watch the video: <a target="_blank" href="https://youtu.be/m5wLcVsIXvs">https://youtu.be/m5wLcVsIXvs</a>.
+</div>
+<script src="/assets/js/video.js"></script>
+
 Many hash functions are designed for proof-of-work mining algorithms, e.g. **ETHash**, **Equihash**, **CryptoNight** and **Cookoo Cycle**. These hash functions are **slow to calculate**, and usually use **GPU **hardware \([rigs](https://en.bitcoin.it/wiki/Mining_rig) of graphics cards like NVIDIA GTX 1080\) or powerful **CPU** hardware \(like Intel Core i7-8700K\) and a lot of fast **RAM **memory \(like DDR4 chips\). The goal of these mining algorithms is to **minimize the centralization of mining** by stimulating the small miners \(home users and small mining farms\) and limit the power of big players in the mining industry \(who can afford to build giant mining facilities and data centers\). A big number of **small players means better decentralization **than a small number of big players.
 
 The main weapon in the hands of the big mining corporations is considered the [ASIC miners](https://en.bitcoin.it/wiki/Mining_hardware_comparison), so the design of modern cryptocurrencies and usually includes proof-of-work mining using an **ASIC-resistant hashing algorithm **or **proof-of-stake** consensus protocol.
