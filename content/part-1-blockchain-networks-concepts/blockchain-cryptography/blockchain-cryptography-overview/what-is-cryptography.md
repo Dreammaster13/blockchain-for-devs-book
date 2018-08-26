@@ -2,9 +2,14 @@
 
 **Cryptography **is the science of providing **security **and **protection **of information. It is widely used in blockchain systems to sign transactions, securely transfer blockchain assets, encrypt wallets and in many other scenarios.
 
-![](/assets/cryptography-key.jpg)
+<div class="video-player">
+  Watch the video: <a target="_blank" href="https://youtu.be/BLXRNfif6o4">https://youtu.be/BLXRNfif6o4</a>.
+</div>
+<script src="/assets/js/video.js"></script>
 
 Cryptography deals with **storing and transmitting data in a secure way**, such that only those, for whom it is intended, can read and process it. This may involve **encrypting and decrypting data** using symmetric or asymmetric encryption schemes \(like AES and RSA\), where one or more **keys** are used to transform data from plain to encrypted form and back. **Symmetric encryption** uses the same key to encrypt and decrypt messages, while **asymmetric encryption** uses a key pair \(encryption key and corresponding decryption key\). In blockchain encryption is used in wallets to protect the private keys and user's assets on the chain from unauthorized access.
+
+![](/assets/cryptography-key.jpg)
 
 Cryptography deals with **keys** \(large secret numbers\) and in many scenarios these **keys are derived **from numbers, passwords or passphrases using **key derivation algorithms** \(like PBKDF2 and Scrypt\). Wallets in the blockchain systems hold the user's keys, usually protected by a password or PIN code and sign transactions.
 
