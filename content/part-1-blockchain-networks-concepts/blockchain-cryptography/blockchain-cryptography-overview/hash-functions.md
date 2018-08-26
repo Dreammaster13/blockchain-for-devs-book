@@ -1,6 +1,13 @@
 # Hashing and Hash Functions
 
-In computer programming **hash functions **map text \(or other data\) to integer numbers. Usually different inputs maps to different outputs, but sometimes a **collision** may happen \(different input with the same output\). The process of calculating the value of certain hash function is called "**hashing**".
+In computer programming **hash functions **map text \(or other data\) to integer numbers. Usually different inputs maps to different outputs, but sometimes a **collision** may happen \(different input with the same output\).
+
+<div class="video-player">
+  Watch the video: <a target="_blank" href="https://youtu.be/FIJVl16e2tI">https://youtu.be/FIJVl16e2tI</a>.
+</div>
+<script src="/assets/js/video.js"></script>
+
+The process of calculating the value of certain hash function is called "**hashing**".
 
 ![](/assets/hash-function.jpg)
 
