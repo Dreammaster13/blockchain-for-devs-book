@@ -1,5 +1,3 @@
-# RSA Encryption / Decryption - Examples
+# RSA Encryption / Decryption - Examples in Python
 
 ...
-
-
