@@ -2,6 +2,7 @@
 
 In this chapter we will introduce the **cryptography concepts** used in the blockchain networks, hashes, elliptic curves, public and private keys, encryption, the cryptography behind wallets and transactions.
 
+## Video
 <div class="video-player">
   Watch the video: <a target="_blank" href="https://www.youtube.com/watch?v=QbKJfQgQaU4">https://www.youtube.com/watch?v=QbKJfQgQaU4</a>.
 </div>
