@@ -3,7 +3,7 @@
 In computer programming **hash functions **map text \(or other data\) to integer numbers. Usually different inputs maps to different outputs, but sometimes a **collision** may happen \(different input with the same output\).
 
 <div class="video-player">
-  Watch the video: <a target="_blank" href="https://youtu.be/FIJVl16e2tI">https://youtu.be/FIJVl16e2tI</a>.
+  Watch the video: <a target="_blank" href="https://www.youtube.com/watch?v=FIJVl16e2tI">https://www.youtube.com/watch?v=FIJVl16e2tI</a>.
 </div>
 <script src="/assets/js/video.js"></script>
 

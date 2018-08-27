@@ -3,7 +3,7 @@
 **Cryptography **is the science of providing **security **and **protection **of information. It is widely used in blockchain systems to sign transactions, securely transfer blockchain assets, encrypt wallets and in many other scenarios.
 
 <div class="video-player">
-  Watch the video: <a target="_blank" href="https://youtu.be/BLXRNfif6o4">https://youtu.be/BLXRNfif6o4</a>.
+  Watch the video: <a target="_blank" href="https://www.youtube.com/watch?v=BLXRNfif6o4">https://www.youtube.com/watch?v=BLXRNfif6o4</a>.
 </div>
 <script src="/assets/js/video.js"></script>
 

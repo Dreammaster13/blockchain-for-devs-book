@@ -3,7 +3,7 @@
 In this section we shall provide a few **examples **about calculating cryptographic hash functions in Python.
 
 <div class="video-player">
-  Watch the video: <a target="_blank" href="https://youtu.be/7U-hAvU01WI">https://youtu.be/7U-hAvU01WI</a>.
+  Watch the video: <a target="_blank" href="https://www.youtube.com/watch?v=7U-hAvU01WI">https://www.youtube.com/watch?v=7U-hAvU01WI</a>.
 </div>
 <script src="/assets/js/video.js"></script>
 

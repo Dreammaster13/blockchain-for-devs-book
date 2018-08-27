@@ -3,7 +3,7 @@
 Blockchain **proof-of-work mining **algorithms use a special class of hash functions which are **computational-intensive **and **memory-intensive**. These hash functions are designed to consume a lot of computational resources and a lot of memory and to be very hard to be implemented in a hardware devices \(such as [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array) integrated circuits or [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) miners\). Such hash functions are known as "**ASIC-resistant**".
 
 <div class="video-player">
-  Watch the video: <a target="_blank" href="https://youtu.be/m5wLcVsIXvs">https://youtu.be/m5wLcVsIXvs</a>.
+  Watch the video: <a target="_blank" href="https://www.youtube.com/watch?v=m5wLcVsIXvs">https://www.youtube.com/watch?v=m5wLcVsIXvs</a>.
 </div>
 <script src="/assets/js/video.js"></script>
 
