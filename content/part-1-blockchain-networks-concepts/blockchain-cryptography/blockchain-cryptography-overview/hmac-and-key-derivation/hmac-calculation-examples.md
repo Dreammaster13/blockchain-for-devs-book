@@ -14,5 +14,5 @@ print(binascii.hexlify(hmac_sha256(key, msg)))
 ```
 The above code will calculate and print the expected HMAC code (like in our previous example):
 ```
-ee40ca7bc90df844d2f5b5667b27361a2350fad99352d8a6ce061c6
+ee40ca7bc90df844d2f5b5667b27361a2350fad99352d8a6ce061c69e41e5d32
 ```
