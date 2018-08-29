@@ -36,6 +36,7 @@ To get a better idea of **HMAC** and how it is calculated, try this online tool:
 
 Play with calculating **HMAC('sample message', '12345', 'SHA256')**:
 ```
-HMAC('sample message', '12345', 'SHA256') = 'ee40ca7bc90df844d2f5b5667b27361a2350fad99352d8a6ce061c69e41e5d32'
+HMAC('sample message', '12345', 'SHA256') =
+  'ee40ca7bc90df844d2f5b5667b27361a2350fad99352d8a6ce061c69e41e5d32'
 ```
 Try the above yourself.
