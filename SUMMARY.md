@@ -28,6 +28,7 @@
         * [HMAC Calculation - Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hmac-and-key-derivation/hmac-calculation-examples.md)
       * [Deriving Key from Password](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/deriving-key-from-password.md)
         * [PBKDF2](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/deriving-key-from-password/pbkdf2.md)
+        * [Modern Key Derivation Functions](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/deriving-key-from-password/modern-key-derivation-functions.md)
         * [Scrypt](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/deriving-key-from-password/scrypt.md)
         * [Bcrypt](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/deriving-key-from-password/bcrypt.md)
       * [Diffie-Hellman Key Exchange](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/diffie-hellman-key-exchange.md)
