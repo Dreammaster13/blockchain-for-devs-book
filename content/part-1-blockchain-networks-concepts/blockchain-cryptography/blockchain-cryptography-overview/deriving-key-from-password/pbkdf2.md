@@ -11,6 +11,8 @@ Technically, the **input data** for **PBKDF2** consists of:
 
 The **output data** is the **derived key** (e.g. 256 bits).
 
+## PBKDF2 and Number of Iterations
+
 **PBKDF2** allows to configure the number of **iterations** and thus to configure the time required to derive the key.
  - **Slower key derivation** means high login time / slower decryption / etc. and **higher resistance** to password cracking attacks.
  - **Faster key derivation** means short login time / faster decryption / etc. and **lower resistance** to password cracking attacks.
@@ -23,3 +25,17 @@ Try PBKDF2 key derivation online here: https://asecuritysite.com/encryption/PBKD
 ![](/assets/PBKDF2-calculator.png)
 
 Try to **increase the iterations count** to see how this affects the speed of key derivation.
+
+## PBKDF2 Calculation in Python - Example
+
+Now, we shall write some **code in Python** to derive a key from a password using the PBKDF2 algorithm.
+
+First, install the Python package `backports.pbkdf2` using the command:
+```
+pip install backports.pbkdf2
+```
+
+Now, write the Python code to calculate PBKDF2:
+```python
+
+```
