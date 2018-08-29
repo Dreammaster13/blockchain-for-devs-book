@@ -54,4 +54,4 @@ print("Derived key:", binascii.hexlify(key))
 
 The **Scrypt** calculation function takes several **input parameters**: the **password** (bytes sequence), the **salt** (bytes sequence), **iterations** count, **block size** for each iteration, **parallelism** factor and the output **key length** (number of bytes for the derived key).
 
-Try to change the number of **iterations** or the **block size** and see how it affects the **execution time**.
+Try to change the number of **iterations** or the **block size** and see how they affect the **execution time**.
