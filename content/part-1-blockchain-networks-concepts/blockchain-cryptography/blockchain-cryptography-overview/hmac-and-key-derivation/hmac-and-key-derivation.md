@@ -27,3 +27,15 @@ As **very simple KDF function**, we can use SHA256: just hash the password. Don'
 As more complicated KDF function, you can derive a password by calculating **HMAC(salt, msg, SHA256)** using some random value called "**salt**", which is stored along with the derived key and used later to derive the same key again from the password.
 
 Using **HKDF (HMAC-based key derivation)** for key derivation is ** less secure** than modern KDFs, so experts recommend using stronger key derivation functions like [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2), [Bcrypt](https://en.wikipedia.org/wiki/Bcrypt), [Scrypt](https://en.wikipedia.org/wiki/Scrypt) and [Argon2](https://en.wikipedia.org/wiki/Argon2). We shall discuss all these KDF functions later.
+
+## HMAC Calculation - Example
+
+To get a better idea of **HMAC** and how it is calculated, try this online tool: https://www.freeformatter.com/hmac-generator.html 
+
+![](/assets/HMAC-online.png)
+
+Play with calculating **HMAC('sample message', '12345', 'SHA256')**:
+```
+HMAC('sample message', '12345', 'SHA256') = 'ee40ca7bc90df844d2f5b5667b27361a2350fad99352d8a6ce061c69e41e5d32'
+```
+Try the above yourself.
