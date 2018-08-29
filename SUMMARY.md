@@ -31,6 +31,7 @@
         * [Modern Key Derivation Functions](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/deriving-key-from-password/modern-key-derivation-functions.md)
         * [Scrypt](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/deriving-key-from-password/scrypt.md)
         * [Bcrypt](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/deriving-key-from-password/bcrypt.md)
+        * [Argon2](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/deriving-key-from-password/argon2.md)
       * [Diffie-Hellman Key Exchange](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/diffie-hellman-key-exchange.md)
       * [Symmetric and Asymmetric Encryption](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/symmetric-and-asymmetric-encryption.md)
         * [Symmetric Encryption](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/symmetric-and-asymmetric-encryption/symmetric-encryption.md)
