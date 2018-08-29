@@ -1,4 +1,4 @@
-# Deriving Key from Password: Key-Derivation Functions (KDF)
+# Deriving Key from Password: Key Derivation Functions (KDF)
 
 ...
 

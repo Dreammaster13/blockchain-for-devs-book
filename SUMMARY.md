@@ -23,6 +23,8 @@
         * [Hash Functions - Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hash-functions/hash-functions-examples.md)
         * [Proof-of-Work Hash Functions](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hash-functions/proof-of-work-hash-functions.md)
       * [HMAC and Key Derivation](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hmac-and-key-derivation.md)
+        * [Message Authentication Code \(MAC\)](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hmac-and-key-derivation/message-authentication-code-mac.md)
+        * [HMAC and Key Derivation](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hmac-and-key-derivation/hmac-and-key-derivation.md)
         * [HMAC Calculation - Examples](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hmac-and-key-derivation/hmac-calculation-examples.md)
       * [Deriving Key from Password](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/deriving-key-from-password.md)
         * [PBKDF2](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/deriving-key-from-password/pbkdf2.md)
