@@ -28,7 +28,7 @@ Try to **increase the iterations count** to see how this affects the speed of ke
 
 ## PBKDF2 Calculation in Python - Example
 
-Now, we shall write some **code in Python** to derive a key from a password using the PBKDF2 algorithm.
+Now, we shall write some **code in Python** to derive a key from a password using the **PBKDF2** algorithm.
 
 First, install the Python package `backports.pbkdf2` using the command:
 ```
@@ -47,5 +47,10 @@ print("Derived key:", binascii.hexlify(key))
 ```
 
 The **PBKDF2** calculation function takes several **input parameters**: **hash function** for the HMAC, the **password** (bytes sequence), the **salt** (bytes sequence), **iterations** count and the output **key length** (number of bytes for the derived key).
+
+The **output** from the above code execution is the following:
+```
+Derived key: b'78856da569d1aa59c42c19f6b6c96ba773a4bb1f4d7a2787cd75095d6d7fd145'
+```
 
 Try to change the number of **iterations** and see whether and how the **execution time** changes.

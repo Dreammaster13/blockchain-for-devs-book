@@ -35,7 +35,7 @@ You can play with **Scrypt** key derivation online here: https://8gwifi.org/scry
 
 ## Scrypt Calculation in Python - Example
 
-Now, we shall write some **code in Python** to derive a key from a password using the Scrypt algorithm.
+Now, we shall write some **code in Python** to derive a key from a password using the **Scrypt** algorithm.
 
 First, install the Python package `scrypt` using the command:
 ```
@@ -53,5 +53,10 @@ print("Derived key:", binascii.hexlify(key))
 ```
 
 The **Scrypt** calculation function takes several **input parameters**: the **password** (bytes sequence), the **salt** (bytes sequence), **iterations** count, **block size** for each iteration, **parallelism** factor and the output **key length** (number of bytes for the derived key).
+
+The **output** from the above code execution is the following:
+```
+Derived key: b'f393c3c50ffdbd4a2f60d51b7a5bef3138c5b11f27e82304c465ea161442bb4c'
+```
 
 Try to change the number of **iterations** or the **block size** and see how they affect the **execution time**.
