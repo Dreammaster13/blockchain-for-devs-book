@@ -15,3 +15,11 @@ The **output data** is the **derived key** (e.g. 256 bits).
  - **Slower key derivation** means high login time / slower decryption / etc. and **higher resistance** to password cracking attacks.
  - **Faster key derivation** means short login time / faster decryption / etc. and **lower resistance** to password cracking attacks.
  - PBKDF2 is **not resistant** to [GPU attacks](https://security.stackexchange.com/questions/118147/how-are-gpus-used-in-brute-force-attacks) (parallel password cracking using video cards) and to [ASIC attacks](https://en.wikipedia.org/wiki/Custom_hardware_attack) (specialized password cracking hardware). This is the main motivation behind more modern KDF functions.
+ 
+## PBKDF2 - Example
+ 
+Try PBKDF2 key derivation online here: https://asecuritysite.com/encryption/PBKDF2z.
+
+![](/assets/PBKDF2-calculator.png)
+
+Try to **increase the iterations count** to see how this affects the speed of key derivation.
