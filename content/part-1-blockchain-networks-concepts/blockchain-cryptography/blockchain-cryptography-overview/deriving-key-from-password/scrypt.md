@@ -7,6 +7,8 @@ The Scrypt algorithms takes several **input parameters**:
 key = Scrypt(password, salt, N, r, p, derived-key-len)
 ```
 
+## Scrypt Parameters
+
 The **Scrypt parameters** are:
  - `N` – iterations count (affects memory and CPU usage), e.g. 16384
  - `r` – block size (affects memory and CPU usage), e.g. 8
@@ -24,3 +26,32 @@ Example: e.g. 128 \* N \* r \* p = 128 \* 16384 \* 8 \* 1 = 16 MB
  - Sample parameters for **file encryption**: N=1048576, r=8, p=1 (RAM = 1GB)
 
 You can perform tests and choose the Scrypt parameters yourself. In **MyEtherWallet**, the default parameters are  N=8192, r=8, p=1 (which is not strong enough for crypto wallet, but this is how it works).
+
+## Scrypt - Example
+
+You can play with **Scrypt** key derivation online here: https://8gwifi.org/scrypt.jsp.
+
+![](/assets/Scrypt-key-derivation.png)
+
+## Scrypt Calculation in Python - Example
+
+Now, we shall write some **code in Python** to derive a key from a password using the Scrypt algorithm.
+
+First, install the Python package `scrypt` using the command:
+```
+pip install scrypt
+```
+
+Now, write the Python code to calculate Scrypt:
+```python
+import scrypt, binascii
+
+salt = binascii.unhexlify('df1f2d3f4d77ac66e9c5a6c3d8f921b6')
+passwd = "p@$Sw0rD~3".encode("utf8")
+key = scrypt.hash(passwd, salt, 16384, 8, 1, 32)
+print("Derived key:", binascii.hexlify(key))
+```
+
+The **Scrypt** calculation function takes several **input parameters**: the **password** (bytes sequence), the **salt** (bytes sequence), **iterations** count, **block size** for each iteration, **parallelism** factor and the output **key length** (number of bytes for the derived key).
+
+Try to change the number of **iterations** or the **block size** and see how it affects the **execution time**.
