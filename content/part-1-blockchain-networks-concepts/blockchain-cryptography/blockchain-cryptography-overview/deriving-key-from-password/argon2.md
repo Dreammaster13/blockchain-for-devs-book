@@ -1,6 +1,6 @@
 # Argon2: Derive Key from Password
 
-**[Argon2](https://en.wikipedia.org/wiki/Argon2)** is modern **ASIC-resistant** and **GPU-resistant** key derivation function. It has better password cracking resistance than PBKDF2, Bcrypt and Scrypt (for similar configuration parameters).
+**[Argon2](https://en.wikipedia.org/wiki/Argon2)** is modern **ASIC-resistant** and **GPU-resistant** key derivation function. It has better password cracking resistance than **PBKDF2**, **Bcrypt** and **Scrypt** (for similar configuration parameters).
 
 It is considered that when configured correctly, **Argon2 is more secure** than Scrypt, Bcrypt and PBKDF2.
 
