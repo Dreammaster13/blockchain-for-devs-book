@@ -6,7 +6,7 @@ It is considered that when configured correctly, **Argon2 is more secure** than 
 
 ## Variants of Argon2
 
-The Argon2 function has several variants:
+The **Argon2** function has several variants:
 
  - **Argon2d** – provides strong GPU resistance, but has potential side-channel attacks (possible in very special situations)
  - **Argon2i** – provides less GPU resistance, but has no side-channel attacks
