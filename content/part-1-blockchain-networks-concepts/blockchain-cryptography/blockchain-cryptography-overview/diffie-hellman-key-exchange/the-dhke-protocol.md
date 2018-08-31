@@ -26,7 +26,7 @@ Now, after we are familiar with the above mathematical properties of the modular
 
 Let's explain each step of this key-exchange process:
 
- - Alice and Bob agree to use tow public integers: **modulus p** and **base g**.
+ - Alice and Bob agree to use two public integers: **modulus p** and **base g**.
    - For example, let **p** = 23 and **g** = 5.
    - The integers **g** and **p** are public, typically hard-coded constants in the source code.
    
