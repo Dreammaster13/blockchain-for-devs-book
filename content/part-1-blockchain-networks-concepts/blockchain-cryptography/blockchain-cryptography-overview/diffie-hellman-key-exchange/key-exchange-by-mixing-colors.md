@@ -1,8 +1,8 @@
 # Key Exchange by Mixing Colors
 
-The Diffie–Hellman Key Exchange protocol is very similar to the concept of "**key exchanging by mixing colors**", which have good visual representation, which simplifies its understanding. This is why we shall first explain how to exchange secret color by color mixing.
+The Diffie–Hellman Key Exchange protocol is very similar to the concept of "**key exchanging by mixing colors**", which has a good visual representation, which simplifies its understanding. This is why we shall first explain how to exchange a secret color by **color mixing**.
 
-The design of color mixing key exchange assumes that if we have two liquids of different colors, we can **easily mix the colors** and obtain a new color, but the reverse operation is almost impossible: **no way to separate the mixed colors** back to their original color components.
+The design of color mixing key exchange scheme assumes that if we have two liquids of different colors, we can **easily mix the colors** and obtain a new color, but the reverse operation is almost impossible: **no way to separate the mixed colors** back to their original color components.
 
 This is the color exchange **scenario**, step by step:
 
@@ -12,7 +12,7 @@ This is the color exchange **scenario**, step by step:
 
 ![](/assets/key-exchange-by-color-mixing-part-1.png)
 
-The next steps in the color exchange scenario are as follows:
+The next steps in the color exchanging scenario are as follows:
 
 - **Alice** and **Bob** publicly **exchange** the two **mixed colors**.
   - We assume that there is no efficient way to extract (separate) the secret color from the mixed color, so third parties cannot reveal the secret colors.
