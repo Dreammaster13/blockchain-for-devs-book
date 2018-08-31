@@ -6,4 +6,4 @@ DHKE was one of the first **public-key protocols**, which allows two parties to 
 
 The Diffie–Hellman (DH) method allows two parties that have no prior knowledge of each other to jointly establish a **shared secret key over an insecure channel**.
 
-Note that the DHKE method is **resistant to [sniffing attacks](https://en.wikipedia.org/wiki/Sniffing_attack)** (data interception), but it is vulnerable on **[man-in-the-middle attacks](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)** (attacker secretly relays and possibly **alters the communication** between two parties).
+Note that the DHKE method is **resistant to [sniffing attacks](https://en.wikipedia.org/wiki/Sniffing_attack)** (data interception), but it is vulnerable to **[man-in-the-middle attacks](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)** (attacker secretly relays and possibly **alters the communication** between two parties).
