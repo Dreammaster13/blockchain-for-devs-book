@@ -16,7 +16,7 @@ In computing theory, these is no efficient algorithm which can find a secret exp
 
 m = g<sup>s</sup> mod p
 
-there is not efficient (fast) algorithm to find the secret modular exponent **s**.
+there is not efficient (fast) algorithm to find the secret exponent **s**.
 
 ## The DHKE Protocol
 
