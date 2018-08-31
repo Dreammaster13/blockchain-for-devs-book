@@ -22,6 +22,6 @@ The next steps in the color exchanging scenario are as follows:
 
 ![](/assets/key-exchange-by-color-mixing-part-2.png)
 
-If a third party has intercepted the color exchange, it would be computationally difficult for them to determine the secret colors.
+If a third parties have intercepted the color exchanging process, it would be computationally difficult for them to determine the secret colors.
 
 The **Diffie-Hellman Key Exchange** protocol is based on similar concept, but uses **discrete logarithms** and **modular exponentiations** instead of color mixing.
