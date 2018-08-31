@@ -17,7 +17,5 @@ In order to keep the block time relatively constant (e.g. 10 minutes in Bitcoin)
 
 Something interesting to note is that there's a correlation between Bitcoin's price and mining difficulty; as Bitcoin increases in value, more miners are attracted to it, thus increasing its security (a network with more hash rate is harder to attack).
 
-In the next chapter, we will talk about [mining pools](/content/part-1-blockchain-networks-concepts/mining-and-mining-pools/mining-pools.md).
-
 [^1]: Not related to the cryptocurrency exchange of the same name.
 [^2]: A Satoshi is the smallest unit of Bitcoin, kind of like cents for US dollars.

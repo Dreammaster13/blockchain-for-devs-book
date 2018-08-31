@@ -16,7 +16,7 @@ When a miner is successful at finding the proper nonce, they broadcast the block
 
 To see a visualization of the mining process in your browser, go to [http://yogh.io/#mine:last](http://yogh.io/#mine:last)
 
-Next, we will cover [mining rewards and mining difficulty](/content/part-1-blockchain-networks-concepts/mining-and-mining-pools/mining-rewards-and-difficulty.md).
+![](/content/part-1-blockchain-networks-concepts/mining-and-mining-pools/live_miner.png)
 
 [^1]: A hash function is "cryptographically broken" when it fails to meet one of the criteria for cryptographic hash functions outlined in the previous chapter on [hash functions](/content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/hash-functions.md).
 [^2]: A nonce in this context is a field in the header that doesn't matter, except when it comes to making the hash come out different.

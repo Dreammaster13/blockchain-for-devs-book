@@ -43,5 +43,3 @@ In practice, most people end up joining pools - practically everybody except the
 Notice that just a couple of these pools banding together might result in them having enough hash power to perform a [51% attack](https://en.bitcoin.it/wiki/Majority_attack).
 
 There have been attempts to fix that at the pool protocol level, by letting individual miners create blocks themselves, and merely submit proofs to the pool that they have included them as receiver of the coinbase transaction (because obviously the pool wouldn't want to pay for shares that don't have them as reward receiver). But it seems the main thing stopping pools from performing such attacks are actually game-theoretic considerations.
-
-In the next chapter, we will talk about [mining equipment](//content/part-1-blockchain-networks-concepts/mining-and-mining-pools/mining-equipment.md).
