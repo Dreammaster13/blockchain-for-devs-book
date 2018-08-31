@@ -7,6 +7,8 @@
 </div>
 <script src="/assets/js/video.js"></script>
 
-In the next few sections we shall explain how DHKE works and the math behind it.
+In the next few sections we shall explain **how DHKE works** and the math behind it. In short, the process is outlined on the below scheme:
 
 ![](/assets/Diffie-Hellman-Key-Exchange-Protocol.png)
+
+Let's see the details under these calculations.
