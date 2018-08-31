@@ -14,10 +14,10 @@ This is the color exchange **scenario**, step by step:
 
 The next steps in the color exchanging scenario are as follows:
 
-- **Alice** and **Bob** publicly **exchange** the two **mixed colors**.
-  - We assume that there is no efficient way to extract (separate) the secret color from the mixed color, so third parties cannot reveal the secret colors.
+- **Alice** and **Bob** publicly **exchange** their two **mixed colors**.
+  - We assume that there is no efficient way to extract (separate) the secret color from the mixed color, so third parties who know the mixed colors cannot reveal the secret colors.
 - Finally, **Alice** and **Bob** mix together the color they received from the partner with their own secret color.
-  - The result is the **final color mixture** (_yellow-brown_) that is identical to the partner's color mixture.
+  - The result is the **final color mixture** (_yellow-brown_) which is identical to the partner's color mixture.
   - It is the **securely exchanged shared key**.
 
 ![](/assets/key-exchange-by-color-mixing-part-2.png)
