@@ -35,6 +35,7 @@
       * [Diffie-Hellman Key Exchange](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/diffie-hellman-key-exchange.md)
         * [Diffie–Hellman - Concepts](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/diffie-hellman-key-exchange/diffiehellman-concepts.md)
         * [Key Exchange by Mixing Colors](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/diffie-hellman-key-exchange/key-exchange-by-mixing-colors.md)
+        * [The DHKE Protocol](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/diffie-hellman-key-exchange/the-dhke-protocol.md)
       * [Symmetric and Asymmetric Encryption](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/symmetric-and-asymmetric-encryption.md)
         * [Symmetric Encryption](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/symmetric-and-asymmetric-encryption/symmetric-encryption.md)
         * [Public Key Cryptography](content/part-1-blockchain-networks-concepts/blockchain-cryptography/blockchain-cryptography-overview/symmetric-and-asymmetric-encryption/public-key-cryptography.md)
