@@ -1,6 +1,6 @@
 # The Diffie-Hellman Key Exchange (DHKE) Protocol
 
-Now, let's explain how the DHKE works.
+Now, let's explain how the DHKE protocol works.
 
 ## The Math behind DHKE
 
@@ -8,7 +8,9 @@ It is based on a simple property of **modular exponentiations**:
 
 (g<sup>a</sup>)<sup>b</sup> mod p = (g<sup>b</sup>)<sup>a</sup> mod p
 
-where **g**, **a**, **b** and **p** are positive integers. Thus, if we have **g<sup>a</sup>** mod **p** and **g<sup>b</sup>** mod **p**, we can calculate **g<sup>ab</sup>** mod **p**, without revealing **a** or **b** (which are called **secret exponents**).
+where **g**, **a**, **b** and **p** are positive integers.
+
+If we have **A** = **g<sup>a</sup>** mod **p** and **B** = **g<sup>b</sup>** mod **p**, we can calculate **g<sup>ab</sup>** mod **p**, without revealing **a** or **b** (which are called **secret exponents**).
 
 In math, these is no efficient algorithm which can find a secret exponent. If we have **m**, **g** and **p** from the below equation:
 
