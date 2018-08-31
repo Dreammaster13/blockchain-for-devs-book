@@ -46,9 +46,23 @@ Let's explain each step of this key-exchange process:
  - Alice and Bob now share a **secret number s**
    - **s** = A<sup>b</sup> mod p = B<sup>a</sup> mod p = (g<sup>a</sup>)<sup>b</sup> mod p = (g<sup>b</sup>)<sup>a</sup> mod p = g<sup>ab</sup> mod p = **18**
    - The shared secret key **s** cannot be computed from the publicly available numbers **A** and **B**, because the secret exponents **a** and **b** cannot be efficiently calculated.
+   
+## Security of the DHKE Protocol
 
 This is how DHKE works. It exchanges a **non-secret sequence of integer numbers** over insecure, public (sniffable) channel (such as signal going through a cable or propagated by waves in the air), but does not reveal the secretly-exchanged shared private key.
 
 Again, be warned that DHKE protocol is **vulnerable to man-in-the-middle attacks** where a hacker can intercept and modify the messages exchanged between the parties.
 
 Finally, not that the integers **g**, **p**, **a** and **p** are typically very big numbers (1024, 2048 or 4096 bits or even bigger) and this makes the **[brute-force attacks](https://en.wikipedia.org/wiki/Brute-force_attack)** non-sense.
+
+## DHKE - Live Example
+
+As live example, you can play with this online DHKE tool: http://www.irongeek.com/diffie-hellman.php 
+
+![](/assets/Diffie-Hellman-online.png)
+
+## ECDH - Elliptic Curves-based Diffie-Hellman Key Exchange Protocol
+
+The **[Elliptic-Curve Diffie–Hellman (ECDH)](https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman)** is an anonymous key agreement protocol that allows two parties, each having an **elliptic-curve public–private key pair**, to establish a shared secret over an insecure channel.
+
+ECDH is a variant of the classical DHKE protocol, where the **modular exponentiation** calculations are replaced with **elliptic-curve** calculations for improved security. We shall explain in details the **elliptic-curve cryptography (ECC)** later in this chapter.
