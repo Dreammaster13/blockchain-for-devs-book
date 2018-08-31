@@ -12,7 +12,7 @@ where **g**, **a**, **b** and **p** are positive integers.
 
 If we have **A** = **g<sup>a</sup>** mod **p** and **B** = **g<sup>b</sup>** mod **p**, we can calculate **g<sup>ab</sup>** mod **p**, without revealing **a** or **b** (which are called **secret exponents**).
 
-In math, these is no efficient algorithm which can find a secret exponent. If we have **m**, **g** and **p** from the below equation:
+In computing theory, these is no efficient algorithm which can find a secret exponent. If we have **m**, **g** and **p** from the below equation:
 
 m = g<sup>s</sup> mod p
 
