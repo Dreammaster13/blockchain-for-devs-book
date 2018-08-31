@@ -51,3 +51,4 @@ This is how DHKE works. It exchanges a **non-secret sequence of integer numbers*
 
 Again, be warned that DHKE protocol is **vulnerable to man-in-the-middle attacks** where a hacker can intercept and modify the messages exchanged between the parties.
 
+Finally, not that the integers **g**, **p**, **a** and **p** are typically very big numbers (1024, 2048 or 4096 bits or even bigger) and this makes the **[brute-force attacks](https://en.wikipedia.org/wiki/Brute-force_attack)** non-sense.
