@@ -122,7 +122,7 @@
     * [Wallets Standards, APIs and Libraries](content/part-1-blockchain-networks-concepts/wallets/wallet-apis-and-libraries/wallets-apis-and-libraries.md)
     * [Exercises: Simple Ethereum Wallet in JS](content\part-1-blockchain-networks-concepts\wallets\exercises-simple-ethereum-wallet-in-javascript\ethereum-simple-wallet-in-js.md)
     * [Exercises: Ethereum HD Wallet in JS](content/part-1-blockchain-networks-concepts/wallets/exercises-ethereum-hd-wallet-in-javascript/ethereum-hd-wallet-in-js.md)
-  * [1.6. Transactions](content/part-1-blockchain-networks-concepts/transactions/overview.md)
+  * [1.6. Blockchain Transactions](content/part-1-blockchain-networks-concepts/transactions/overview.md)
     * [Blockchain Transactions](content/part-1-blockchain-networks-concepts/transactions/blockchain-transactions/blockchain-transactions.md)
     * [Exercises: Create Ethereum Wallet in C\#](content/part-1-blockchain-networks-concepts/transactions/exercises-ethereum-wallet-csharp/exercises-create-ethereum-wallet-in-csharp.md)
     * [Exercises: Create Ethereum Wallet in JS](content/part-1-blockchain-networks-concepts/transactions/exercises-ethereum-wallet-in-js/create-ethereum-wallet-in-js.md)
