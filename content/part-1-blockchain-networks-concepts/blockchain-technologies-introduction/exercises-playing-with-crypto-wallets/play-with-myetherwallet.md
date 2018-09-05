@@ -2,7 +2,7 @@
 
 In this exercise we shall install a **cryptocurrency wallet** and will play with **cryptocurrencies**. We shall install wallet software, generate **private keys** and digital currency **addresses** , send **transactions** , track the transaction processing.
 
-For this exercise we shall use Web-based crypto-wallet software called **MyEtherWallet** ( **MEW** ), which behaves like locally installed Ethereum crypto wallets, but is accessible through the Web, without any software installation.
+For this exercise we shall use Web-based crypto-wallet software called **MyEtherWallet** (**MEW**), which behaves like locally installed Ethereum crypto wallets, but is accessible through the Web, without any software installation.
 
 - MyEtherWallet is a **client-side wallet software**. It does not store your private keys, neither sends them at the server-side. Keeping your private keys is a secure place is your obligation.
 - MEW connects to the Ethereum blockchain through **JSON RPC API** over HTTP (using client-side AJAX calls from JavaScript). The MyEtherWallet API is officially documented here: [https://www.myetherapi.com](https://www.myetherapi.com).
