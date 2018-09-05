@@ -339,10 +339,6 @@ https://www.hyperledger.org/members
 ![](/assets/blockchain-technologies-overview-summary-01.png)
 
 
-# Blockchain Technologies – Overview
-- http://academytoken.com
-
-
 # Resources
 - IBM Blockchain 101 – Infographic:https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XI912346USEN
 - Ethereum Blockchain Explorer: https://etherscan.io
