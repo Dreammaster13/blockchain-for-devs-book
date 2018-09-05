@@ -327,9 +327,6 @@
 ![](/assets/blockchain-concepts-summary-01.png)
 
 
-# Blockchain Concepts
-- http://academytoken.com
-
 
 
 
