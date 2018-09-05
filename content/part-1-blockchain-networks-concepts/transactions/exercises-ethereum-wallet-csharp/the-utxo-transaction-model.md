@@ -12,7 +12,7 @@ As an analogy, you can think of an UTXO as a **bank note** in your wallet. The m
 
 The above may sound a bit complicated, but it has a big advantage when it comes to how easy it is to implement **efficiently**. For example, everything that a node needs to know in order to validate a new transaction is the **UTXO set**, which is relatively constant in size:
 
-![](/content/part-1-blockchain-networks-concepts/transactions/utxo_set.png)
+![](/content/part-1-blockchain-networks-concepts/transactions/blockchain-transactions/utxo_set.png)
 
 *(from https://statoshi.info/dashboard/db/unspent-transaction-output-set)*
 
