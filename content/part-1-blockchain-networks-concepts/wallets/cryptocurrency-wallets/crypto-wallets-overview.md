@@ -2,15 +2,6 @@
 
 
 ## Types of Crypto Wallets: Web, Mobile, Desktop, Hardware, Paper Wallets
-![](/assets/cryptocurrency-wallets-types-of-crypto-wallets-web-mobile-desktop-hardware-paper-wallets-01.png)
-![](/assets/cryptocurrency-wallets-types-of-crypto-wallets-web-mobile-desktop-hardware-paper-wallets-02.png)
-![](/assets/cryptocurrency-wallets-types-of-crypto-wallets-web-mobile-desktop-hardware-paper-wallets-03.png)
-![](/assets/cryptocurrency-wallets-types-of-crypto-wallets-web-mobile-desktop-hardware-paper-wallets-04.png)
-![](/assets/cryptocurrency-wallets-types-of-crypto-wallets-web-mobile-desktop-hardware-paper-wallets-05.png)
-![](/assets/cryptocurrency-wallets-types-of-crypto-wallets-web-mobile-desktop-hardware-paper-wallets-06.png)
-![](/assets/cryptocurrency-wallets-types-of-crypto-wallets-web-mobile-desktop-hardware-paper-wallets-07.png)
-
-
 
 
 # Table of Content
@@ -353,11 +344,5 @@ glad cup dance version wood apart jazz hard aunt ethics kick game
 ![](/assets/cryptocurrency-wallets-summary-01.png)
 ![](/assets/cryptocurrency-wallets-summary-02.png)
 ![](/assets/cryptocurrency-wallets-summary-03.png)
-
-
-# Cryptocurrency Wallets
-- http://www.kingsland.academy
-
-
 
 
