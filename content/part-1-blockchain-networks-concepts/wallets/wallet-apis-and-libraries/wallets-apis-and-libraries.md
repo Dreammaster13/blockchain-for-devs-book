@@ -258,10 +258,6 @@ console.log("Address: " + wallet.address);
 ![](/assets/wallet-apis-and-libraries-summary-01.png)
 
 
-# Wallet APIs and Libraries
-- http://www.kingsland.academy
-
-
 # Resources
 - The JSON / UTC Keystore Format:  https://github.com/ethereum/wiki/wiki/Web3-Secret-Storage-Definition 
 - BIP32: https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki
