@@ -1,17 +1,6 @@
 # Consensus Algorithms: Proof-of-Work, Proof-of-Stake, Others
 
 ## Decentralized Consensus on the Blockchain,Proof-of-Work, Proof-of-Stake, Network Forks
-![](/assets/decentralization-and-consensus-algorithms-decentralized-consensus-on-the-blockchain-proof-of-work-proof-of-stake-network-forks-01.png)
-![](/assets/decentralization-and-consensus-algorithms-decentralized-consensus-on-the-blockchain-proof-of-work-proof-of-stake-network-forks-02.png)
-![](/assets/decentralization-and-consensus-algorithms-decentralized-consensus-on-the-blockchain-proof-of-work-proof-of-stake-network-forks-03.png)
-![](/assets/decentralization-and-consensus-algorithms-decentralized-consensus-on-the-blockchain-proof-of-work-proof-of-stake-network-forks-04.png)
-![](/assets/decentralization-and-consensus-algorithms-decentralized-consensus-on-the-blockchain-proof-of-work-proof-of-stake-network-forks-05.png)
-![](/assets/decentralization-and-consensus-algorithms-decentralized-consensus-on-the-blockchain-proof-of-work-proof-of-stake-network-forks-06.png)
-![](/assets/decentralization-and-consensus-algorithms-decentralized-consensus-on-the-blockchain-proof-of-work-proof-of-stake-network-forks-07.png)
-![](/assets/decentralization-and-consensus-algorithms-decentralized-consensus-on-the-blockchain-proof-of-work-proof-of-stake-network-forks-08.png)
-
-
-
 
 # Table of Contents
 - The Meaning of **Decentralization**
@@ -535,9 +524,6 @@ Distributed Ledger Technologies(DLT) without a Blockchain
 ![](/assets/decentralization-and-consensus-algorithms-summary-01.png)
 
 
-# Decentralization and Consensus Algorithms
-- http://www.kingsland.academy
-
 
 # Resources
 - Decentralization: https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
@@ -553,7 +539,4 @@ Distributed Ledger Technologies(DLT) without a Blockchain
 - 51 % Attack: https://www.investopedia.com/terms/1/51-attack.asp 
 - HashGraph: https://medium.com/@justindanneman/blockchain-just-became-obsolete-the-future-is-hashgraph-de4948609cbf
 - Tangle: https://iota.org/  
-
-
-
 
