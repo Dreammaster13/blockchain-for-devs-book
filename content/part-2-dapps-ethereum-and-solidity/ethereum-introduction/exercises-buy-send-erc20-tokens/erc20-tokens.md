@@ -57,30 +57,30 @@ Let's get some tokens now.
 
 3.  We will select from the drop-down menu and access it:
 
-![](/assets/exercises-buy-and-send-erc20-tokens-01.png)
+![](/assets/exercises-buy-and-send-erc20-tokens-04.png)
 
 4.  Now you will see the functions of the contract and select the
     **"buyTokenPay"** to buy tokens from the contract and click
     **Write**.
 
-![](/assets/exercises-buy-and-send-erc20-tokens-01.png)
+![](/assets/exercises-buy-and-send-erc20-tokens-05.png)
 
-![](/assets/exercises-buy-and-send-erc20-tokens-01.png)
+![](/assets/exercises-buy-and-send-erc20-tokens-06.png)
 
 5.  Write **1 ether** for amount to send. The **Gas Limit** is
     calculated automatically. You can write it manually and **Generate
     Transaction**. Then click **"Yes, I am sure! Make transaction"**
 
-![](/assets/exercises-buy-and-send-erc20-tokens-01.png)
+![](/assets/exercises-buy-and-send-erc20-tokens-07.png)
 
 6.  Now go to view your wallet info. Click "**Load Tokens**" (you can
     add the tokens by yourself by clicking "Add Custom Token").
 
-![](/assets/exercises-buy-and-send-erc20-tokens-01.png)
+![](/assets/exercises-buy-and-send-erc20-tokens-08.png)
 
 7.  You will see the tokens you've bought:
 
-![](/assets/exercises-buy-and-send-erc20-tokens-01.png)
+![](/assets/exercises-buy-and-send-erc20-tokens-09.png)
 
 Congrats, now you have 0.1 PLASMA tokens!
 
@@ -97,17 +97,17 @@ Send Tokens to Another Address
 
 3.  Click **"Load Tokens"** to see the PLASMA token.
 
-![](/assets/exercises-buy-and-send-erc20-tokens-01.png)
+![](/assets/exercises-buy-and-send-erc20-tokens-010.png)
 
 4.  Do the same step from **exercise 3**. Sending tokens is like sending
     ethers.
 
-![](/assets/exercises-buy-and-send-erc20-tokens-01.png)
+![](/assets/exercises-buy-and-send-erc20-tokens-011.png)
 
 5.  Go to the wallet info and you should have 0.05 PLASMA tokens, if
     everything was successful.
 
-![](/assets/exercises-buy-and-send-erc20-tokens-01.png)
+![](/assets/exercises-buy-and-send-erc20-tokens-02.png)
 
 Congrats, you've send 0.05 PLASMA tokens to your mate!
 
@@ -122,4 +122,4 @@ Ropsten network at EtherScan, e.g.:
 You should some **tokens** in your balance, as well as some transaction
 history of token transfers. Examples:
 
-![](/assets/exercises-buy-and-send-erc20-tokens-01.png)
+![](/assets/exercises-buy-and-send-erc20-tokens-03.png)

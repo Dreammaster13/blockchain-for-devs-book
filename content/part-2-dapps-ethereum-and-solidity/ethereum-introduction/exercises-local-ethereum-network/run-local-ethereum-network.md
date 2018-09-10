@@ -6,7 +6,8 @@ separate chains, then connect them and then see which chain will become
 the main chain. After that in class, we will connect with each other for
 more experience and fun!
 
-# Setting up two Chains
+Setting up two Chains
+---------------------
 
 To start with, we will run two nodes on different chains.
 
@@ -33,17 +34,17 @@ Bob\'s Chain:
   geth \--testnet \--datadir=. \--port=30304 \--ipcpath=bob.ipc console
   -----------------------------------------------------------------------
 
-![](/assets/exercise-running-local-ethereum-network-01.png)
+![](/assets/exercise-running-local-ethereum-network-07.png)
 
 3.  Now, let\'s create two accounts:
 
 Alice\'s Chain:
 
-![](/assets/exercise-running-local-ethereum-network-01.png)
+![](/assets/exercise-running-local-ethereum-network-08.png)
 
 Bob\'s Chain:
 
-![](/assets/exercise-running-local-ethereum-network-01.png)
+![](/assets/exercise-running-local-ethereum-network-09.png)
 
 4.  Let\'s start the miner on the first node:
 
@@ -53,14 +54,14 @@ Alice\'s Node:
   miner.start()
   ---------------
 
-![](/assets/exercise-running-local-ethereum-network-01.png)
+![](/assets/exercise-running-local-ethereum-network-010.png)
 
 5.  Let\'s wait one minute to make one of the chains deliberately longer
     than the other:
 
 Bob\'s Node:
 
-![](/assets/exercise-running-local-ethereum-network-01.png)
+![](/assets/exercise-running-local-ethereum-network-011.png)
 
 Add peers
 ---------
@@ -77,11 +78,11 @@ time to connect them!
 
 Alice's Chain:
 
-![](/assets/exercise-running-local-ethereum-network-01.png)
+![](/assets/exercise-running-local-ethereum-network-012.png)
 
 Bob\'s Chain:
 
-![](/assets/exercise-running-local-ethereum-network-01.png)
+![](/assets/exercise-running-local-ethereum-network-013.png)
 
 We can see that Alice's Chain is almost 3 times longer than Bob's.
 
@@ -90,7 +91,7 @@ We can see that Alice's Chain is almost 3 times longer than Bob's.
     will use the **"admin"** command to see additional information about
     her node:
 
-![](/assets/exercise-running-local-ethereum-network-01.png)
+![](/assets/exercise-running-local-ethereum-network-014.png)
 
 As we can see Alice's Node has no peers so far. In order to connect to
 another node, we will need the **ethereum node URI**. The **enode
@@ -102,7 +103,7 @@ Now, it is time Bob to add her as a peer. For example:
   admin.addPeer(\"enode://8603db1d5f9552b4b604cea70c50ef97b753e2c227adfe60b55cb9549dd1a2214c021d062f780835969b8f7aa614760c7b619de787b0f618745cb80178a21219@\[::\]:30303\")
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![](/assets/exercise-running-local-ethereum-network-01.png)
+![](/assets/exercise-running-local-ethereum-network-02.png)
 
 What see is that when Bob\'s Node added Alice\'s Node as a peer, Bob\'s
 Node preferred the **longest chain** based on the most work measured in
@@ -112,19 +113,19 @@ disappeared, because they were on a separate chain.
 
 When we start Bob\'s miner again:
 
-![](/assets/exercise-running-local-ethereum-network-01.png)
+![](/assets/exercise-running-local-ethereum-network-03.png)
 
 Bob\'s peers:
 
-![](/assets/exercise-running-local-ethereum-network-01.png)
+![](/assets/exercise-running-local-ethereum-network-04.png)
 
 Alice\'s peers:
 
-![](/assets/exercise-running-local-ethereum-network-01.png)
+![](/assets/exercise-running-local-ethereum-network-05.png)
 
 What we see in Alice\'s Node while Bob\'s Miner is working:
 
-![](/assets/exercise-running-local-ethereum-network-01.png)
+![](/assets/exercise-running-local-ethereum-network-06.png)
 
 Connect with your colleagues in class
 -------------------------------------

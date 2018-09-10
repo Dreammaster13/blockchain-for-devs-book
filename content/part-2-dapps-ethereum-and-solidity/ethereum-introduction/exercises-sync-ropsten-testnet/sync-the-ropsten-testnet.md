@@ -27,6 +27,7 @@ Add the Ropsten Peers
 ---------------------
 
 Now we will **add the peers** which we know run the Ropsten Testnet.
+
 ```
 +-----------------------------------------------------------------------+
 | admin.addPeer("enode://1021f7299d0c4a4559c8f1428e3e7329027c5761ebb    |
@@ -46,7 +47,8 @@ Now we will **add the peers** which we know run the Ropsten Testnet.
 | d205157e589c3378@114.215.185.125:30303");                             |
 +-----------------------------------------------------------------------+
 ```
-![](/assets/exercises-syncing-ropsten-testnet-ethereum-01.png)
+
+![](/assets/exercises-syncing-ropsten-testnet-ethereum-02.png)
 
 If you have **problems** syncing the chain, have a look here:
 
