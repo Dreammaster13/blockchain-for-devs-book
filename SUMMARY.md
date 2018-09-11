@@ -180,6 +180,7 @@
   * [2.4. Ganache and Truffle](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/overview.md)
     * [Ganache](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/ganache-and-truffle.md)
     * [What is Ganache?](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/what-is-ganache.md)
+    * [Ganache CLI](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/ganache-cli.md)
     * [Exercises: Install Ganache and Truffle](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-install-ganache-and-truffle/install-ganache-truffle.md)
     * [Exercises: Run Smart Contract in Ganache](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-deploy-smart-contract-ganache/deploy-smart-contract-ganache.md)
     * [Exercises: Truffle Framework](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-smart-contracts-with-truffle/truffle-deploy-invoke-contract.md)
