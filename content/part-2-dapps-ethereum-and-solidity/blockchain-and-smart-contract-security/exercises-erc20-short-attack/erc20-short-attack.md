@@ -1,3 +1,144 @@
 # Exercises: ERC20 Short Attack in Solidity Token Contracts
 
-...
+In this Exercise we are going to be learning what is ERC20 short attack
+and how to protect smart contracts from it. This kind of attack was
+discovered by Golem Project experts. In April of 2017 they discovered a
+security bug affecting some exchanges. When certain exchanges processed
+transactions of ERC20 tokens, input validation was not being performed
+on account address length. The result was malformed input data being
+provided to the contract's transfer function, and a subsequent underflow
+condition that manipulated the amount being sent. The impact was that an
+attacker could potentially rob an exchange account of tokens.
+
+This exercise is based on original Golem team article "How to Find \$10M
+Just by Reading the Blockchain"
+<https://blog.golemproject.net/how-to-find-10m-by-just-reading-blockchain-6ae9d39fcd95>
+and Eric Rafaloff\`s article "Analyzing the ERC20 Short Address Attack"
+<https://ericrafaloff.com/analyzing-the-erc20-short-address-attack/>.
+Thanks to the original authors.
+
+Write the Vulnerable Smart Contract
+-----------------------------------
+
+1.  For better understanding the process let's open **Remix** **IDE**
+    and write the **following contract** written in **Solidity**.
+    Compile the code.
+
+    ![](/assets/exercises-smart-contract-short-address-attack-01.png)
+
+2.  Now start **Ganache-CLI**. We will use local Ethereum blockchain to
+    make the transaction with the contract and analyse the input data.
+
+  ----------------
+  \$ ganache-cli
+  ----------------
+
+![](/assets/exercises-smart-contract-short-address-attack-02.png)
+
+3.  Now **connect Remix with Ganache-CLI**. First **remove the "https"**
+    from the beginning of the remix address if it\`s needed. Then open
+    "**Run**" tab and click on "**Web3 Provider**"
+
+    ![](/assets/exercises-smart-contract-short-address-attack-06.png)
+
+7.  Send amount of 2 coins to some of the addresses generate by
+    Ganache-CLI for example the second one).
+
+    ![](/assets/exercises-smart-contract-short-address-attack-07.png)
+
+8.  Ethereum's Contract **ABI** (**application binary interface**)
+    allows clients to call a contract's function. If somebody wanted to
+    send coins to another address, he would create a transaction with
+    **input data** that would look like this. **Open the details** of
+    transaction and look at **input**.
+
+    ![](/assets/exercises-smart-contract-short-address-attack-08.png)
+
+9.  Let\`s analyze the input data.
+
++-----------------------------------------------------------------------+
+| -   0x90b98a11 is the method ID (4 bytes), which is the Keccak        |
+|     (SHA-3) hash of the method signature. 4 bytes.                    |
+|                                                                       |
+| -   000000000000000000000000082c21ea8121243b8a821b67066c9997b207a712  |
+|     is the "to" address. 32 bytes, with the destination address (20   |
+|     bytes) filled with leading zeros.                                 |
+|                                                                       |
+| -   0000000000000000000000000000000000000000000000000000000000000002  |
+|     is the "amount" unsigned integer. Padded to 32 bytes.             |
++-----------------------------------------------------------------------+
+
+How Does an ERC20 Short Attack Work?
+------------------------------------
+
+1.  Now the tricky place is how the Ethereum virtual machine handle this
+    input data. The described scenario concerns only separated cases and
+    we can\`t demonstrated it with Remix and Ganache, but the process is
+    described below.\
+    What would happen if the client were to send the address without
+    last digits? The client could choose not to pad the address properly
+    so that the address is less than 32 bytes. The total input data
+    length would be less than what is expected, causing a condition
+    where a data underflow may occur. Let us suppose that we want to
+    send some coins again to the same address. However, this time we
+    decide to drop the last two digits of the address which is "12". We
+    end up with the following input data:
+
++------------------------------------------------------------------------+
+| -   0x90b98a11                                                         |
+|                                                                        |
+| -   000000000000000000000000082c21ea8121243b8a821b67066c9997b207a700   |
+|                                                                        |
+| -   00000000000000000000000000000000000000000000000000000000000002\^\^ |
+|                                                                        |
+| > note the missing byte                                                |
++------------------------------------------------------------------------+
+
+2.  How does Solidity/EVM handle underflows? The contract event
+    generated by transaction tells the answer:
+
+  Event name      Transfer
+  --------------- ----------------------------------------------------
+  Return values   \_from: 0x66c962085de823261a102d217557c2f0738b2a9a
+                  \_to: 0x82c21ea8121243b8a821b67066c9997b207a700
+                  \_value: 512
+
+The missing byte has been replaced with **00**. This effectively
+performed a bit shift operation of 8 bits to the left. As a result, the
+address had 00 added to the end (taken from the zeros at the beginning
+of the proceeding word), and the number of coins transferred became 512
+( 2\<\<8 = 512).
+
+3.  For this type of attack is necessary a list of conditions.
+
+-   Ethereum address ends with a 0.
+
+-   Exchange wallet must have at least 256,000 tokens.
+
+-   The attacker can send 1,000 tokens to this exchange wallet,
+    crediting his account internally (off chain) with 1,000.
+
+-   Then he can request a withdrawal of 1,000 tokens using generated
+    address. He must leave off the last \"0\" byte.
+
+Mitigation 
+-----------
+
+1.  A quick fix could be checking whether the msg.data has the correct
+    length this function is expecting. This is the original post:
+    <https://www.reddit.com/r/ethereum/comments/63s917/worrysome_bug_exploit_with_erc20_token/dfwmhc3/>
+
+    This method can be implemented by adding a new **modifier
+    onlyPayloadSize** which will prevent the short address attack.
+
+> ![](/assets/exercises-smart-contract-short-address-attack-09.png)
+
+What to Submit?
+===============
+
+Write the smart contract and play with input data. Write the modifier
+onlyPayloadSize**.** Create a **zip file** (e.g.
+**your-name-short-address-attack-exercise.zip**) holding the solidity
+code and screen shots with your experiments.
+
+Submit your zip file as **homework** at the course Web site.
