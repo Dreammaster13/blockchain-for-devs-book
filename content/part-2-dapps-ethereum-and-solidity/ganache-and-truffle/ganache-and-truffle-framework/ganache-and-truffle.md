@@ -1,6 +1,4 @@
-# Ganache and Truffle Framework
-
-## Dev Tools for Ethereum and Solidity:Truffle Framework and Ganache
+# Ganache## Dev Tools for Ethereum and Solidity:Truffle Framework and Ganache
 
 # Table of Contents
 - Ganache
