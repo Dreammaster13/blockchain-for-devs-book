@@ -55,4 +55,7 @@ In this tab we have settings for the accounts being generated.
 - **Mnemonic** – The mnemonic phrase that will be used, if “autogenerate mnemonic” is disabled.
 - **Lock accounts** – **TODO**
 
+### Chain Tab
+![](/assets/ganache-truffle-images/ganache-gui-gas.png)
 
+In this tab you can specify the Gas Limit and the Gas price.
