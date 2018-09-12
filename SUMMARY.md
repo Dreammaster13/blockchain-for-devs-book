@@ -178,7 +178,6 @@
     * [Exercises: ERC20 Token Contract](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/exercises-build-erc20-token-contract/erc20.md)
     * [Exercises: ERC721 Token](content/part-2-dapps-ethereum-and-solidity/solidity-advanced/exercises-build-erc721-token-contract/erc721.md)
   * [2.4. Ganache and Truffle](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/overview.md)
-    * [Ganache](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/ganache-and-truffle.md)
     * [What is Ganache?](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/what-is-ganache.md)
     * [Ganache CLI](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/ganache-cli.md)
     * [Ganache GUI](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/ganache-gui.md)
