@@ -3,4 +3,4 @@ Truffle is framework for smart-contract development. With Truffle you can compil
 
 Truffle has a package manager called **EthPm** which can help you to install libraries easier. It follows the **ERC190**[^1] standards for publishing and consuming smart-contract packages. Also we have a **truffle console** that is similar to the **geth console** and you can interact with the contract faster.
 
-[^1] ERC stands for Ethereum Request for Comment and it is a proposal for improving the ecosystem.
+[^1]: ERC stands for Ethereum Request for Comment and it is a proposal for improving the ecosystem.
