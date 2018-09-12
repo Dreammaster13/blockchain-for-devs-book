@@ -184,7 +184,7 @@
     * [Connect Ganache To Remix](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/connect-ganache-to-remix.md)
     * [What is Truffle?](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/what-is-truffle.md)
     * [Truffle Install and Configure](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/truffle-install-and-configure.md)
-    * Compile Contracts
+    * [Compile Contracts](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/compile-contracts.md)
     * [Exercises: Install Ganache and Truffle](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-install-ganache-and-truffle/install-ganache-truffle.md)
     * [Exercises: Run Smart Contract in Ganache](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-deploy-smart-contract-ganache/deploy-smart-contract-ganache.md)
     * Compile Contracts
