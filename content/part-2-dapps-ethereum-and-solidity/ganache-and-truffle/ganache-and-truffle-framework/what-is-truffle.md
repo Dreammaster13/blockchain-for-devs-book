@@ -1,0 +1,2 @@
+# What is Truffle
+Truffle is framework for smart-contract development. With Truffle you can compile, deploy, test and make a User Interface for your smart contract. It is very useful when you have many contracts and complex architecture, because you can automate some processes.  
