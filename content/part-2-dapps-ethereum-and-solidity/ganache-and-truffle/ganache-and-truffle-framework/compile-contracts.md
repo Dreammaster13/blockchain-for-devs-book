@@ -27,7 +27,7 @@ Output
 Compiling .\contracts\SimpleStorage.sol...
 Writing artifacts to .\build\contracts
 ```
-In the build folder you can find `build/contracts/{contract_name}.json`
+In the build folder you can find `build/contracts/{contract_name}.json`, this file contains the abi and the bytecode of the contract.
 
 
 
