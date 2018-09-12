@@ -40,10 +40,10 @@ In the settings page you can customize ganache for your needs. The settings page
 
 You have several options in this tab.
 - **Hostname** – The host that you want to use.
-- **Port number** – The port that ganache will use
-- **Network Id** – The blockchain network identifier
+- **Port number** – The port that ganache will use.
+- **Network Id** – The blockchain network identifier.
 - **Automine** – This option will mine every transaction that you send immediately. If you disable this option you need to specify a block time.
-- **Error on Transaction Failure** – **TODO**
+- **Error on Transaction Failure** – When transaction fail, throw an error.
 
 ### Accounts & Keys
 ![](/assets/ganache-truffle-images/ganache-gui-settings-account-and-keys.png)
@@ -53,7 +53,7 @@ In this tab we have settings for the accounts being generated.
 - **Total Accounts to Generate** – The accounts that will be generated on startup.
 - **Autogenerate HD Mnemonic** – If it is enabled it will generate new mnemonic phrase every time, otherwise it will use the same mnemonic phrase every time.
 - **Mnemonic** – The mnemonic phrase that will be used, if “autogenerate mnemonic” is disabled.
-- **Lock accounts** – **TODO**
+- **Lock accounts** – Lock the accounts on startup.
 
 ### Chain Tab
 ![](/assets/ganache-truffle-images/ganache-gui-gas.png)
