@@ -34,6 +34,28 @@ truffle-config.js
 ## Configure networks
 We have 2 files for our configuration `truffle.js` and `truffle-config.js`. The both files can be used for configuration. If you are using Windows when you use `truffle` command you will receive script error, because windows tries to run the file. You can use **Powershell** or delete `truffle.js` file and use only `truffle-config.js`. In the examples in this chapter we will use **powershell** instead cmd.
 
+In the `truffle.js` file we must specify the network, this network will be used for migrating and deploying contracts to this network. If you developing and you want to test your contracts, use **ganache**, because the transactions will be executed immediately and you will save time.
+
+```js
+module.exports = {
+  networks: {
+    development: {
+      host: "127.0.0.1",
+      port: 8545,
+      network_id: "*" // Match any network id
+    }
+  }
+};
+```
+Now you can run `truffle migrate` and you will migrate your contracts, now have one that comes with truffle. If everything is alright you will receive `Network up to date`, otherwise you will receive `Error: No network specified. Cannot determine current network.`
+
+You can specify more than one network, which is very helpful because you can easy deploy to **Mainnet** or other network.
+
+
+
+
+
+
 
 
 
