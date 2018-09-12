@@ -183,11 +183,10 @@
     * [Ganache GUI](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/ganache-gui.md)
     * [Connect Ganache To Remix](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/connect-ganache-to-remix.md)
     * [What is Truffle?](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/what-is-truffle.md)
+    * [Truffle Install and Configure](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/ganache-and-truffle-framework/truffle-install-and-configure.md)
     * [Exercises: Install Ganache and Truffle](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-install-ganache-and-truffle/install-ganache-truffle.md)
     * [Exercises: Run Smart Contract in Ganache](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-deploy-smart-contract-ganache/deploy-smart-contract-ganache.md)
     * [Exercises: Truffle Framework](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-smart-contracts-with-truffle/truffle-deploy-invoke-contract.md)
-    * [Exercises: Unit Testing Smart Contract](content/part-2-dapps-ethereum-and-solidity/ganache-and-truffle/exercises-unit-testing-smart-contracts/smart-contract-unit-testing.md)
-    * What is Truffle?
   * [2.5. DApp Architectures](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/overview.md)
     * [DApps Architectures](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/architectures-for-dapps/dapp-architectures.md)
     * [Exercises: Client-Side Ethereum Wallets](content/part-2-dapps-ethereum-and-solidity/dapp-architectures/exercises-client-side-wallets/client-side-ethereum-wallets.md)
