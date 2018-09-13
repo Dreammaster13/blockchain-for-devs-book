@@ -82,6 +82,16 @@ module.exports = function(deployer) {
   })
 };
 ```
-Now we deployed the contract and after that were called contract method. 
-
+Now we deployed the contract and after that were called contract method. It is possible to migrate more than one contract
+```js
+var SimpleStorage = artifacts.require("./SimpleStorage");
+var SecondContract = artifacts.require("./SecondContract");
+```
+After that you can deploy in module function
+```js
+module.exports = function(deployer) {
+  deployer.deploy(SimpleStorage);
+  deployer.deploy(SecondContract);
+};
+```
 
