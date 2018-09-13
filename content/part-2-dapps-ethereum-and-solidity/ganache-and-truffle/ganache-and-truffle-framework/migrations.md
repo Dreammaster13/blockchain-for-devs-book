@@ -44,8 +44,29 @@ contract SimpleStorage {
 
  Save the contract in the contracts folder and make new file in migrations folder. We have a name convention for the migrations. We have number **(1,2,3)**, this is the order of execution, **1** - will run first, **2** - will run after that etc. etc. underscore and the name of the script. 
  e.g `2_deply_simple_storage.js`
- 
- 
 
+  ```js
+var SimpleStorage = artifacts.require("./SimpleStorage");
 
+module.exports = function(deployer) {
+  deployer.deploy(SimpleStorage);
+};
+```
+Now we can **migrate** our contracts. 
 
+```
+$ truffle migrate
+```
+Output
+```
+using Network 'development'
+Deploying SimpleStorage...
+... 0xdaa98dc88755201b99e66213a975542116a2b8a373d89c5a6edd40094a05f52f
+Saving successful migration to network...
+ ... 0x6e5c6f83b928a01e5b283562bb7b3e6b9142896da0f675912d80668728e289d4
+Saving artifacts...
+```
+
+Our contracts are deployed to the network and we can see the transactions and to find the addresses of the contracts.
+
+  
