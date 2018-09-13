@@ -69,4 +69,19 @@ Saving artifacts...
 
 Our contracts are deployed to the network and we can see the transactions and to find the addresses of the contracts.
 
-  
+### Advanced migration
+Now we will make our migration script more complex. We will deploy the script and after that will set value for the `x` variable.
+Open `2_deply_simple_storage.js` again and change content of the file.
+ 
+```js
+var SimpleStorage = artifacts.require("./SimpleStorage");
+
+module.exports = function(deployer) {
+  deployer.deploy(SimpleStorage).then( (instance) => {
+  	instance.set(4)
+  })
+};
+```
+Now we deployed the contract and after that were called contract method. 
+
+
