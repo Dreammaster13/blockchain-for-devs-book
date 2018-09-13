@@ -10,7 +10,13 @@ Some of these crypto currencies are accepted for trading on different trading pl
 ## Cryptocurrency Exchanges
 If someone wants to own cripto currencies he have to buy them from somewhere (unless he's a crypto miner). There are two options:
 -	Platforms for buing/selling bitcoins/altcoins for fiat money. For example: Coinbase and Bitpanda.
+![](/assets/Chapter 1.8. Crypto Trading and Exchang/BuyCoins.png)
+
+
 -	Exchanges for trading like Bittrex and Kraken. A crypto exchange is a digital marketplace where traders can buy and sell crypto coins using different fiat currencies, bitcoins or alt coins. The traders can exchange crypto currencies like any other exchange-traded asset with online platform that acts as an intermediary between buyers and sellers. 
+
+![](/assets/Chapter 1.8. Crypto Trading and Exchang/TradeCoins.png)
+
 
 
 
