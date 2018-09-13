@@ -29,5 +29,6 @@ Writing artifacts to .\build\contracts
 ```
 In the build folder you can find `build/contracts/{contract_name}.json`, this file contains the abi and the bytecode of the contract.
 
-
+### Truffle console
+Truffle has a console for faster debugging and developing. In this console you have the **web3**.
 
