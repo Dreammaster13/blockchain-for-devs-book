@@ -141,6 +141,7 @@
     * [Building the Block Explorer](content/part-1-blockchain-networks-concepts/practical-project-blockchain-network/building-the-block-explorer/implementing-the-block-explorer.md)
   * [1.8. Crypto Trading and Exchanges](content/part-1-blockchain-networks-concepts/crypto-exchanges/overview.md)
     * [Cryptocurrency Exchanges](content/part-1-blockchain-networks-concepts/crypto-exchanges/cryptocurrency-exchanges/cryptocurrency-exchanges.md)
+    * [Intro](content/part-1-blockchain-networks-concepts/crypto-exchanges/cryptocurrency-exchanges/intro.md)
     * [Exercises: Hodl Hodl p2p Exchange](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-hodl-hodl/play-with-hodl-hodl.md)
     * [Exercises: Trading on Bittrex](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-bittrex/trading-on-bittrex.md)
     * [Exercises: Exchange APIs](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-exchange-apis/using-exchange-apis.md)
