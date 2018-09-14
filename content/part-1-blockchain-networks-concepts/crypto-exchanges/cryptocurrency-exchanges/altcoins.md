@@ -16,7 +16,10 @@ If someone wants to own cripto currencies he have to buy them from somewhere (un
 -	Exchanges for trading like Bittrex and Kraken. A crypto exchange is a digital marketplace where traders can buy and sell crypto coins using different fiat currencies, bitcoins or alt coins. The traders can exchange crypto currencies like any other exchange-traded asset with online platform that acts as an intermediary between buyers and sellers. 
 ![](/assets/Chapter 1.8. Crypto Trading and Exchang/TradeCoins.png)
 
-https://en.wikipedia.org/wiki/List_of_cryptocurrencies
+Now, go to https://en.wikipedia.org/wiki/List_of_cryptocurrencies or any similar site and get to know the different types of altcoins.
+Check out the sites on different platforms and exchanges and learn about their trading conditions.
+
+
 
 
 
