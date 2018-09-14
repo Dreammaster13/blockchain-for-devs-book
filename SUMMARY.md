@@ -142,11 +142,11 @@
   * [1.8. Crypto Trading and Exchanges](content/part-1-blockchain-networks-concepts/crypto-exchanges/overview.md)
     * [Cryptocurrency Exchanges](content/part-1-blockchain-networks-concepts/crypto-exchanges/cryptocurrency-exchanges/cryptocurrency-exchanges.md)
     * [Intro](content/part-1-blockchain-networks-concepts/crypto-exchanges/cryptocurrency-exchanges/intro.md)
-    * [Altcoins](content/part-1-blockchain-networks-concepts/crypto-exchanges/cryptocurrency-exchanges/altcoins.md)
+    * [Altcoins Concept](content/part-1-blockchain-networks-concepts/crypto-exchanges/cryptocurrency-exchanges/altcoins.md)
+    * [Exchange Concept](content/part-1-blockchain-networks-concepts/crypto-exchanges/cryptocurrency-exchanges/exchange-concepts.md)
     * [Exercises: Hodl Hodl p2p Exchange](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-hodl-hodl/play-with-hodl-hodl.md)
     * [Exercises: Trading on Bittrex](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-bittrex/trading-on-bittrex.md)
     * [Exercises: Exchange APIs](content/part-1-blockchain-networks-concepts/crypto-exchanges/exercises-exchange-apis/using-exchange-apis.md)
-    * Crypto Coins Trade
   * [1.9. Blockchain Networks Scalability](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/overview.md)
     * [Offchain and Payment Channels](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/offchain-transactions-payment-channels/offchain-transactions.md)
     * [Exercises: Lightning Network Desktop App](content/part-1-blockchain-networks-concepts/blockchain-networks-scalability/exercises-lightning-network-desktop-app/lightning-network-desktop-app.md)
