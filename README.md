@@ -4,7 +4,7 @@
 
 **Authors**: Svetlin Nakov and SoftUni Team
 
-This projects is work in progress and intends to develop and publish an **open-source book for blockchain developers**.
+This project is work in progress and intends to develop and publish an **open-source book for blockchain developers**.
 
 ISBN: **978-619-00-0802-6**
 
